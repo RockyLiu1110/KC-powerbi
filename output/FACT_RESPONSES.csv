@@ -1,0 +1,571 @@
+﻿record_id,zip_code,academic_standing,attended_event,audience_segment,is_underrepresented,is_underrepresented_label,belonging_score,representation_score,cultural_affirming_score,engagement_score,accessibility_rating,sensory_needs_met,staff_welcoming,patron_services_satisfaction,ticket_experience,mobile_ticket_ease,informed_patron_services,will_call_ready,communication_effectiveness,nps_score,workshop_value,sensory_interest,know_accessibility_nav,attended_workshop,willing_further_research,nps_category,belonging_level
+2,61801,,Yes,Student,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,2.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),3-Moderately
+3,61820,,Yes,Student,False,Not Underrepresented,4.0,4.0,5.0,5.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,5.0,8.0,,Yes,No,No,,Passive (7-8),4-Mostly
+4,60609,,No,Student,True,Underrepresented,,,,,,,,,,,,,3.0,,,,,,,,
+5,61820,,No,Student,False,Not Underrepresented,,,,,,,,,,,,,3.0,,,,,,,,
+6,61801,,Yes,Student,False,Not Underrepresented,5.0,4.0,2.0,3.0,,4.0,5.0,4.0,5.0,3.0,3.0,5.0,,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+7,61820,,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+8,61801,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,4.0,4.0,5.0,4.0,5.0,5.0,,5.0,,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),5-Completely
+9,61821,,Yes,Student,True,Underrepresented,3.0,3.0,,,3.0,4.0,3.0,4.0,3.0,,3.0,2.0,2.0,8.0,4.0,Yes,No,Yes,,Passive (7-8),3-Moderately
+10,61822,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,2.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+11,61801,,Yes,Faculty/Staff,True,Underrepresented,2.0,1.0,3.0,,3.0,,2.0,,,,,,,7.0,,,,No,,Passive (7-8),2-Slightly
+12,61820,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,3.0,3.0,3.0,3.0,4.0,4.0,5.0,4.0,3.0,8.0,4.0,,,Yes,,Passive (7-8),4-Mostly
+13,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,,,4.0,5.0,,,5.0,5.0,,,3.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+14,61801,,Yes,Other,False,Not Underrepresented,3.0,3.0,3.0,,3.0,4.0,4.0,4.0,4.0,3.0,,4.0,3.0,8.0,,No,Yes,No,,Passive (7-8),3-Moderately
+15,61820,,Yes,Other,True,Underrepresented,5.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),5-Completely
+16,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+17,61820,,Yes,Student,False,Not Underrepresented,5.0,4.0,3.0,3.0,4.0,5.0,4.0,4.0,4.0,5.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+18,61802,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,3.0,4.0,10.0,5.0,Yes,Yes,Yes,,Promoter (9-10),3-Moderately
+19,60647,,Yes,Faculty/Staff,True,Underrepresented,2.0,3.0,3.0,1.0,2.0,4.0,3.0,2.0,2.0,4.0,5.0,3.0,2.0,7.0,,No,Yes,No,,Passive (7-8),2-Slightly
+20,61853,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,3.0,4.0,4.0,5.0,4.0,4.0,2.0,5.0,4.0,3.0,2.0,5.0,,No,No,No,,Detractor (0-6),3-Moderately
+21,61820,Senior,Yes,Student,False,Not Underrepresented,3.0,3.0,3.0,3.0,2.0,2.0,3.0,,3.0,3.0,,1.0,2.0,7.0,,Yes,No,No,,Passive (7-8),3-Moderately
+22,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+23,61802,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+24,61820,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0,10.0,,,No,No,,Promoter (9-10),5-Completely
+25,61802,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+26,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0,5.0,5.0,3.0,4.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+27,61802,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,4.0,5.0,,3.0,5.0,10.0,5.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+28,61820,Senior,Yes,Student,False,Not Underrepresented,2.0,2.0,2.0,1.0,1.0,3.0,4.0,3.0,3.0,3.0,,1.0,1.0,7.0,,Yes,No,No,,Passive (7-8),2-Slightly
+29,61802,,Yes,Student,False,Not Underrepresented,3.0,4.0,3.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+30,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,4.0,,5.0,5.0,,,,5.0,,,5.0,10.0,,No,,No,,Promoter (9-10),4-Mostly
+31,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,3.0,3.0,4.0,2.0,2.0,4.0,3.0,4.0,1.0,3.0,10.0,4.0,No,No,Yes,,Promoter (9-10),3-Moderately
+32,61820,Senior,No,Student,False,Not Underrepresented,,,,,,,,,,,,,3.0,,,,,,,,
+33,61821,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,3.0,5.0,4.0,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+34,61801-6226,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+35,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,4.0,4.0,3.0,,3.0,10.0,4.0,,,Yes,,Promoter (9-10),4-Mostly
+36,61801,,Yes,Faculty/Staff,True,Underrepresented,2.0,2.0,2.0,,2.0,,2.0,2.0,3.0,3.0,4.0,2.0,2.0,9.0,,,No,No,,Promoter (9-10),2-Slightly
+37,61820,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+38,61874,,Yes,Faculty/Staff,True,Underrepresented,4.0,2.0,3.0,4.0,3.0,,4.0,4.0,5.0,5.0,5.0,3.0,4.0,10.0,4.0,No,No,Yes,,Promoter (9-10),4-Mostly
+39,61822,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,,,4.0,4.0,4.0,4.0,4.0,,,4.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+40,61873,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),3-Moderately
+41,61821,,Yes,Faculty/Staff,True,Underrepresented,2.0,3.0,,4.0,2.0,3.0,3.0,3.0,,,,2.0,2.0,7.0,,Yes,No,No,,Passive (7-8),2-Slightly
+42,61821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,3.0,3.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+43,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,,5.0,5.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+44,61820,,No,Faculty/Staff,True,Underrepresented,,,,,,,,,,,,,1.0,,,,,,,,
+45,61822,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0,5.0,3.0,5.0,3.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+46,61874,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,3.0,3.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,1.0,4.0,6.0,,No,No,No,,Detractor (0-6),4-Mostly
+47,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,,3.0,4.0,5.0,4.0,,4.0,3.0,4.0,1.0,4.0,8.0,,Yes,No,No,,Passive (7-8),3-Moderately
+48,60439,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,4.0,5.0,,1.0,2.0,10.0,5.0,No,No,Yes,,Promoter (9-10),4-Mostly
+49,,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+50,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,3.0,4.0,4.0,3.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0,2.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+51,61801,,Yes,Student,True,Underrepresented,2.0,2.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0,4.0,8.0,5.0,No,Yes,Yes,,Passive (7-8),2-Slightly
+52,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,,5.0,4.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+53,61801,,Yes,Other,True,Underrepresented,5.0,4.0,4.0,4.0,,,4.0,4.0,4.0,4.0,,2.0,3.0,10.0,4.0,,,Yes,,Promoter (9-10),5-Completely
+54,61820,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,5.0,5.0,4.0,4.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+55,,,No,Faculty/Staff,True,Underrepresented,,,,,,,,,,,,,3.0,,,,,,,,
+56,60660,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,5.0,3.0,4.0,3.0,3.0,2.0,5.0,,2.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+57,61821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,5.0,4.0,3.0,4.0,5.0,5.0,5.0,5.0,,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+58,,,Yes,Faculty/Staff,True,Underrepresented,4.0,2.0,2.0,4.0,4.0,2.0,2.0,4.0,4.0,4.0,4.0,3.0,4.0,8.0,4.0,Yes,No,Yes,,Passive (7-8),4-Mostly
+59,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,3.0,8.0,,No,Yes,No,,Passive (7-8),4-Mostly
+60,61854,,Yes,Other,True,Underrepresented,4.0,4.0,3.0,3.0,4.0,4.0,3.0,3.0,3.0,3.0,4.0,1.0,4.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+61,61820,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,4.0,5.0,5.0,4.0,5.0,5.0,4.0,3.0,,3.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+62,61856,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,9.0,3.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+63,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+64,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,3.0,2.0,,4.0,4.0,3.0,2.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+65,61821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,3.0,3.0,5.0,4.0,4.0,4.0,4.0,5.0,3.0,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+66,61802,,Yes,Faculty/Staff,True,Underrepresented,2.0,2.0,2.0,,5.0,5.0,4.0,4.0,4.0,3.0,,5.0,2.0,8.0,,No,Yes,No,,Passive (7-8),2-Slightly
+67,61802,,Yes,Student,True,Underrepresented,3.0,3.0,,4.0,2.0,4.0,3.0,5.0,5.0,5.0,5.0,5.0,3.0,7.0,3.0,No,Yes,Yes,,Passive (7-8),3-Moderately
+68,61874,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+69,61801,,Yes,Community,False,Not Underrepresented,3.0,3.0,,4.0,4.0,3.0,5.0,5.0,5.0,3.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+70,61756,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,2.0,3.0,,5.0,4.0,5.0,3.0,3.0,,,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+71,61821,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,3.0,3.0,4.0,3.0,4.0,3.0,4.0,4.0,4.0,5.0,3.0,3.0,5.0,,Yes,No,No,,Detractor (0-6),2-Slightly
+72,61801,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,4.0,4.0,,4.0,4.0,7.0,4.0,No,Yes,Yes,,Passive (7-8),3-Moderately
+73,61820,,Yes,Faculty/Staff,True,Underrepresented,4.0,2.0,4.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,4.0,10.0,3.0,No,No,Yes,,Promoter (9-10),4-Mostly
+74,61820,,Yes,Student,True,Underrepresented,4.0,3.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+75,,,Yes,Faculty/Staff,True,Underrepresented,4.0,3.0,4.0,4.0,4.0,5.0,5.0,,4.0,5.0,,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+76,61820,Junior,Yes,Student,True,Underrepresented,3.0,4.0,3.0,4.0,3.0,4.0,4.0,5.0,3.0,3.0,3.0,1.0,1.0,9.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+77,61822,,Yes,Student,True,Underrepresented,1.0,2.0,2.0,4.0,2.0,2.0,3.0,3.0,5.0,4.0,3.0,1.0,2.0,4.0,5.0,Yes,No,Yes,,Detractor (0-6),1-Not at All
+78,61820,,Yes,Faculty/Staff,True,Underrepresented,3.0,2.0,2.0,2.0,2.0,3.0,4.0,2.0,2.0,2.0,,2.0,2.0,8.0,,Yes,No,No,,Passive (7-8),3-Moderately
+79,61874,,No,Faculty/Staff,True,Underrepresented,,,,,,,,,,,,,1.0,,,,,,,,
+80,61822,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,2.0,5.0,5.0,5.0,5.0,2.0,4.0,,5.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+81,61821,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+82,61801,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,3.0,4.0,,1.0,3.0,2.0,,No,No,No,,Detractor (0-6),2-Slightly
+83,61801,,Yes,Faculty/Staff,True,Underrepresented,2.0,1.0,2.0,3.0,1.0,3.0,3.0,4.0,2.0,5.0,2.0,2.0,2.0,,,No,No,No,,,2-Slightly
+84,61820,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,4.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+85,,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,1.0,4.0,10.0,2.0,No,No,Yes,,Promoter (9-10),5-Completely
+86,61820,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,3.0,4.0,3.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,9.0,4.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+87,,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,,4.0,,5.0,4.0,4.0,4.0,3.0,,,3.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+88,61822,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+89,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,,4.0,4.0,4.0,5.0,3.0,4.0,4.0,,,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+90,61821,,No,Faculty/Staff,False,Not Underrepresented,,,,,,,,,,,,,2.0,,,,,,,,
+91,61822,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,4.0,3.0,5.0,4.0,4.0,4.0,4.0,,1.0,3.0,8.0,,No,No,No,,Passive (7-8),4-Mostly
+92,61820,,Yes,Faculty/Staff,True,Underrepresented,2.0,2.0,3.0,2.0,2.0,5.0,3.0,4.0,3.0,3.0,,3.0,2.0,9.0,4.0,No,Yes,Yes,,Promoter (9-10),2-Slightly
+93,61820,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+94,61820,,Yes,Faculty/Staff,True,Underrepresented,3.0,2.0,3.0,5.0,3.0,4.0,5.0,5.0,4.0,4.0,4.0,2.0,2.0,8.0,5.0,Yes,,Yes,,Passive (7-8),3-Moderately
+95,61801,,Yes,Student,True,Underrepresented,4.0,3.0,,4.0,4.0,4.0,4.0,5.0,4.0,5.0,,,4.0,8.0,,,,No,,Passive (7-8),4-Mostly
+96,61820,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,9.0,4.0,Yes,,Yes,,Promoter (9-10),3-Moderately
+97,62912,Senior,No,Student,True,Underrepresented,,,,,,,,,,,,,1.0,,,,,,,,
+98,61801,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,,3.0,3.0,9.0,,Yes,,No,,Promoter (9-10),3-Moderately
+99,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+100,61822,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,4.0,5.0,,5.0,5.0,5.0,4.0,4.0,,,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+101,61880,,Yes,Other,True,Underrepresented,2.0,3.0,5.0,5.0,5.0,,5.0,5.0,5.0,5.0,,,5.0,10.0,,No,,No,,Promoter (9-10),2-Slightly
+102,61801,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,4.0,3.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+103,61822,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,,,4.0,4.0,4.0,4.0,4.0,,5.0,2.0,9.0,,,,No,,Promoter (9-10),3-Moderately
+104,60540,Freshman,Yes,Student,False,Not Underrepresented,5.0,3.0,1.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+105,60657,,Yes,Student,True,Underrepresented,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,,,4.0,4.0,10.0,4.0,Yes,Yes,Yes,,Promoter (9-10),5-Completely
+106,61821,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,,Yes,No,,Promoter (9-10),5-Completely
+107,,,Yes,Student,False,Not Underrepresented,4.0,3.0,3.0,4.0,5.0,3.0,5.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+108,60005,Freshman,Yes,Student,True,Underrepresented,2.0,4.0,4.0,4.0,3.0,4.0,3.0,4.0,5.0,3.0,,2.0,2.0,8.0,,Yes,No,No,,Passive (7-8),2-Slightly
+109,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,4.0,5.0,4.0,5.0,4.0,4.0,4.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+110,61874,,Yes,Student,True,Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+111,61820,,Yes,Community,False,Not Underrepresented,2.0,2.0,2.0,2.0,3.0,2.0,,,,,,,2.0,,,No,,,,,2-Slightly
+112,61065,,Yes,Other,True,Underrepresented,3.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,,No,,Promoter (9-10),3-Moderately
+113,61802,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+114,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+115,61802,,Yes,Community,False,Not Underrepresented,2.0,1.0,1.0,3.0,4.0,5.0,3.0,4.0,4.0,3.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+116,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+117,61820,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,3.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,,,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+118,61801,,Yes,Community,False,Not Underrepresented,1.0,2.0,3.0,3.0,5.0,2.0,3.0,3.0,3.0,4.0,,1.0,2.0,7.0,,No,No,No,,Passive (7-8),1-Not at All
+119,61801,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,,4.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+120,61801,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,5.0,3.0,3.0,5.0,5.0,5.0,5.0,5.0,1.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+121,61821,,Yes,Other,False,Not Underrepresented,2.0,2.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,4.0,1.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),2-Slightly
+122,61822,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+123,61801,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,,4.0,3.0,8.0,,Yes,Yes,No,,Passive (7-8),3-Moderately
+124,61920,,Yes,Other,True,Underrepresented,3.0,3.0,,5.0,4.0,3.0,5.0,5.0,5.0,5.0,5.0,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+125,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,2.0,3.0,4.0,3.0,3.0,3.0,3.0,3.0,4.0,,3.0,3.0,6.0,,No,Yes,No,,Detractor (0-6),3-Moderately
+126,61822,,Yes,Community,True,Underrepresented,5.0,,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,,1.0,5.0,,,No,No,No,,,5-Completely
+127,61822,,Yes,Community,True,Underrepresented,4.0,3.0,2.0,4.0,3.0,5.0,4.0,3.0,4.0,4.0,,3.0,2.0,8.0,2.0,No,No,Yes,,Passive (7-8),4-Mostly
+128,20905,Senior,Yes,Student,False,Not Underrepresented,5.0,3.0,4.0,5.0,5.0,5.0,4.0,,3.0,5.0,,,2.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+129,61822,,Yes,Faculty/Staff,False,Not Underrepresented,,,,4.0,5.0,5.0,4.0,4.0,5.0,5.0,,3.0,4.0,10.0,,,No,No,,Promoter (9-10),
+130,61802,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,3.0,5.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+131,61820,,Yes,Student,True,Underrepresented,3.0,4.0,4.0,2.0,5.0,5.0,5.0,5.0,,5.0,4.0,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),3-Moderately
+132,62088,,Yes,Other,True,Underrepresented,3.0,3.0,4.0,4.0,4.0,5.0,3.0,4.0,4.0,4.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+133,,,Yes,Community,True,Underrepresented,5.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+134,61864,,Yes,Other,True,Underrepresented,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,2.0,2.0,6.0,,No,No,No,,Detractor (0-6),3-Moderately
+135,61821,,Yes,Other,False,Not Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+136,61822,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,2.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,,4.0,4.0,8.0,4.0,Yes,No,Yes,,Passive (7-8),3-Moderately
+137,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,,5.0,5.0,5.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+138,61853,,Yes,Student,False,Not Underrepresented,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0,10.0,5.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+139,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,3.0,4.0,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+140,61821,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+141,61801,Freshman,No,Student,False,Not Underrepresented,,,,,,,,,,,,,2.0,,,,,,,,
+142,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,,4.0,3.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+143,61822,,Yes,Community,False,Not Underrepresented,4.0,4.0,5.0,5.0,,5.0,5.0,4.0,5.0,,5.0,,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+144,61840,,Yes,Other,False,Not Underrepresented,4.0,1.0,4.0,3.0,5.0,3.0,5.0,5.0,5.0,5.0,,1.0,2.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+145,61801,Senior,Yes,Student,True,Underrepresented,5.0,4.0,4.0,2.0,,4.0,5.0,5.0,5.0,5.0,4.0,3.0,5.0,9.0,4.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+146,61801,,Yes,Other,False,Not Underrepresented,3.0,3.0,4.0,3.0,5.0,4.0,5.0,5.0,5.0,5.0,,5.0,,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+147,61874,,Yes,Community,False,Not Underrepresented,3.0,5.0,,,4.0,5.0,5.0,5.0,4.0,5.0,,,3.0,10.0,,No,,No,,Promoter (9-10),3-Moderately
+148,61802,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+149,48185,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,3.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+150,61821,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,5.0,5.0,4.0,3.0,3.0,5.0,5.0,5.0,,1.0,3.0,9.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+151,61801,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+152,61822,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+153,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,,4.0,5.0,10.0,4.0,,Yes,Yes,,Promoter (9-10),5-Completely
+154,61822,,Yes,Community,False,Not Underrepresented,2.0,4.0,3.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,,,4.0,8.0,,No,Yes,No,,Passive (7-8),2-Slightly
+155,61822,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,5.0,,4.0,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+156,60302,,Yes,Other,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,3.0,4.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+157,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,5.0,3.0,5.0,5.0,5.0,4.0,4.0,,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+158,61802,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+159,,,Yes,Community,False,Not Underrepresented,4.0,3.0,4.0,4.0,4.0,5.0,5.0,4.0,3.0,2.0,,3.0,3.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+160,61801,,Yes,Other,True,Underrepresented,4.0,5.0,4.0,5.0,4.0,,5.0,5.0,5.0,5.0,5.0,2.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+161,61821,,Yes,Community,True,Underrepresented,5.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),5-Completely
+162,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+163,61821,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,5.0,5.0,5.0,5.0,,5.0,5.0,5.0,,4.0,10.0,,,,No,,Promoter (9-10),5-Completely
+164,61820,,Yes,Student,True,Underrepresented,4.0,4.0,,4.0,5.0,5.0,3.0,4.0,4.0,4.0,,3.0,3.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+165,61820,,Yes,Student,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,3.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+166,61820,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,4.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+167,60089,,Yes,Student,False,Not Underrepresented,3.0,3.0,3.0,5.0,5.0,5.0,5.0,3.0,4.0,2.0,,1.0,2.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+168,61820,,Yes,Student,False,Not Underrepresented,5.0,5.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,3.0,,3.0,3.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+169,61801,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,4.0,,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+170,61820,,Yes,Student,False,Not Underrepresented,3.0,2.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+171,61801,,Yes,Community,False,Not Underrepresented,2.0,,4.0,,4.0,,3.0,4.0,5.0,5.0,4.0,5.0,3.0,9.0,,,,No,,Promoter (9-10),2-Slightly
+172,61821-3940,,Yes,Other,False,Not Underrepresented,2.0,1.0,4.0,4.0,4.0,5.0,3.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,,No,,Promoter (9-10),2-Slightly
+173,61846,,Yes,Community,True,Underrepresented,1.0,1.0,4.0,2.0,4.0,5.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,8.0,,No,No,,,Passive (7-8),1-Not at All
+174,61820,,Yes,Community,True,Underrepresented,2.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,10.0,,,No,No,,Promoter (9-10),2-Slightly
+175,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,4.0,4.0,4.0,3.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+176,61822,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+177,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,,5.0,5.0,5.0,,5.0,,,5.0,10.0,5.0,Yes,Yes,Yes,,Promoter (9-10),5-Completely
+178,61801,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,10.0,,Yes,Yes,Yes,,Promoter (9-10),5-Completely
+179,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,,4.0,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+180,61821,,Yes,Faculty/Staff,True,Underrepresented,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+181,61801,,Yes,Faculty/Staff,True,Underrepresented,3.0,2.0,,5.0,,,4.0,4.0,4.0,5.0,,4.0,3.0,10.0,,,,No,,Promoter (9-10),3-Moderately
+182,61821,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+183,61820,,Yes,Community,False,Not Underrepresented,3.0,4.0,3.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,6.0,4.0,No,,Yes,,Detractor (0-6),3-Moderately
+184,61856,,Yes,Other,True,Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,,3.0,3.0,8.0,,Yes,No,No,,Passive (7-8),4-Mostly
+185,61874,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,5.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+186,61801,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,3.0,4.0,,5.0,,5.0,,4.0,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+187,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,10.0,,,,No,,Promoter (9-10),5-Completely
+188,62441,,Yes,Other,False,Not Underrepresented,3.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+189,61801,,Yes,Community,True,Underrepresented,3.0,4.0,3.0,3.0,4.0,,2.0,2.0,5.0,5.0,,2.0,2.0,9.0,,No,,No,,Promoter (9-10),3-Moderately
+190,61802,,Yes,Community,False,Not Underrepresented,1.0,1.0,1.0,2.0,5.0,4.0,4.0,4.0,5.0,5.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),1-Not at All
+191,61822,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,4.0,4.0,,5.0,5.0,5.0,5.0,5.0,5.0,,,4.0,10.0,,No,,No,,Promoter (9-10),2-Slightly
+192,62522,,Yes,Community,False,Not Underrepresented,1.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,4.0,5.0,9.0,,No,No,No,,Promoter (9-10),1-Not at All
+193,61821,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+194,61802,,Yes,Community,False,Not Underrepresented,1.0,1.0,,4.0,3.0,5.0,4.0,4.0,5.0,5.0,,1.0,3.0,8.0,,No,,No,,Passive (7-8),1-Not at All
+195,61821,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+196,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,3.0,10.0,3.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+197,61822,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,4.0,,4.0,4.0,10.0,2.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+198,61821,,Yes,Community,False,Not Underrepresented,3.0,4.0,,5.0,4.0,4.0,3.0,3.0,3.0,3.0,,3.0,2.0,9.0,,No,,No,,Promoter (9-10),3-Moderately
+199,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,3.0,5.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+200,60565,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,,,No,,Promoter (9-10),5-Completely
+201,61865,,Yes,Other,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,,4.0,4.0,4.0,4.0,,,4.0,9.0,,No,,No,,Promoter (9-10),3-Moderately
+202,60416,,Yes,Other,True,Underrepresented,3.0,3.0,3.0,,4.0,3.0,4.0,4.0,4.0,4.0,,2.0,5.0,5.0,,Yes,No,No,,Detractor (0-6),3-Moderately
+203,61802,,Yes,Community,False,Not Underrepresented,2.0,3.0,3.0,2.0,3.0,5.0,5.0,4.0,4.0,5.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+204,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,3.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+205,61822,,Yes,Community,False,Not Underrepresented,2.0,4.0,4.0,,4.0,5.0,4.0,4.0,4.0,5.0,,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),2-Slightly
+206,61820,,Yes,Community,True,Underrepresented,4.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+207,62704,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,3.0,,4.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+208,61802,,Yes,Other,False,Not Underrepresented,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,,5.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+209,60010,,Yes,Other,False,Not Underrepresented,4.0,4.0,,,5.0,,5.0,5.0,5.0,4.0,5.0,,3.0,8.0,,No,,No,,Passive (7-8),4-Mostly
+210,61802,,Yes,Community,False,Not Underrepresented,5.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+211,60558,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+212,62704,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,,4.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+213,61822,,Yes,Other,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,2.0,4.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+214,94303,,Yes,Other,False,Not Underrepresented,2.0,4.0,3.0,2.0,4.0,5.0,4.0,4.0,5.0,5.0,,5.0,3.0,10.0,,No,No,,,Promoter (9-10),2-Slightly
+215,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+216,61820,,Yes,Community,False,Not Underrepresented,4.0,4.0,3.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,1.0,3.0,9.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+217,61820,,Yes,Other,False,Not Underrepresented,3.0,4.0,,,4.0,4.0,4.0,4.0,3.0,3.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+218,61910,,Yes,Other,False,Not Underrepresented,1.0,2.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),1-Not at All
+219,61802,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,1.0,4.0,10.0,5.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+220,61821,,Yes,Community,True,Underrepresented,5.0,4.0,5.0,5.0,5.0,3.0,5.0,4.0,2.0,3.0,5.0,3.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+221,61821,,Yes,Community,True,Underrepresented,5.0,4.0,5.0,5.0,5.0,3.0,5.0,4.0,2.0,3.0,5.0,3.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+222,61822,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,3.0,2.0,4.0,2.0,3.0,4.0,5.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+223,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,,,,,,3.0,,3.0,4.0,4.0,,2.0,10.0,,,No,No,,Promoter (9-10),4-Mostly
+224,61822,,Yes,Community,False,Not Underrepresented,2.0,2.0,,3.0,5.0,5.0,4.0,4.0,4.0,,,,5.0,9.0,,No,,No,,Promoter (9-10),2-Slightly
+225,61822,,Yes,Community,False,Not Underrepresented,3.0,1.0,4.0,4.0,4.0,,4.0,3.0,3.0,5.0,4.0,3.0,1.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+226,60134,Junior,Yes,Student,True,Underrepresented,4.0,4.0,,5.0,4.0,5.0,4.0,4.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+227,61802,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,4.0,2.0,4.0,5.0,5.0,5.0,3.0,2.0,1.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+228,60025,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+229,61802,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,5.0,,5.0,5.0,4.0,4.0,4.0,,4.0,5.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+230,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+231,60190,,Yes,Other,True,Underrepresented,2.0,1.0,4.0,2.0,4.0,5.0,4.0,4.0,5.0,5.0,,2.0,3.0,8.0,,No,No,No,,Passive (7-8),2-Slightly
+232,61822,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,4.0,3.0,5.0,4.0,4.0,5.0,3.0,4.0,4.0,4.0,10.0,3.0,,,Yes,,Promoter (9-10),3-Moderately
+233,61834,,Yes,Community,False,Not Underrepresented,3.0,4.0,,4.0,3.0,4.0,4.0,4.0,5.0,5.0,,1.0,5.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+234,61853,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,2.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),5-Completely
+235,61801,,Yes,Community,False,Not Underrepresented,4.0,3.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+236,61919,,Yes,Student,True,Underrepresented,2.0,,,,4.0,4.0,,,5.0,5.0,,,,9.0,,,,No,,Promoter (9-10),2-Slightly
+237,61866,,Yes,Community,False,Not Underrepresented,3.0,4.0,5.0,4.0,4.0,4.0,5.0,4.0,5.0,5.0,,4.0,4.0,8.0,,No,,No,,Passive (7-8),3-Moderately
+238,61853,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,4.0,5.0,,4.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+239,61820,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,3.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+240,61820,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0,3.0,,3.0,5.0,10.0,3.0,No,No,Yes,,Promoter (9-10),5-Completely
+241,62822,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,5.0,,5.0,4.0,4.0,4.0,4.0,5.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+242,61802,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,,,3.0,10.0,,,,No,,Promoter (9-10),5-Completely
+243,61822,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+244,61821,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,3.0,3.0,5.0,5.0,4.0,4.0,4.0,8.0,,No,Yes,,,Passive (7-8),3-Moderately
+245,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,,2.0,2.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+246,61821,,Yes,Community,True,Underrepresented,5.0,5.0,3.0,5.0,3.0,5.0,5.0,5.0,5.0,4.0,,4.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+247,,,Yes,Community,False,Not Underrepresented,2.0,3.0,4.0,3.0,4.0,5.0,5.0,,4.0,4.0,,2.0,3.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+248,61874,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,3.0,5.0,5.0,5.0,3.0,4.0,3.0,3.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+249,61944,,Yes,Other,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+250,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,1.0,3.0,10.0,3.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+251,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+252,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,3.0,1.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+253,61821,,Yes,Other,False,Not Underrepresented,3.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+254,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+255,61801,Senior,Yes,Student,False,Not Underrepresented,5.0,5.0,5.0,5.0,,,,,,,,,4.0,10.0,,,,No,,Promoter (9-10),5-Completely
+256,61801,Junior,Yes,Student,False,Not Underrepresented,4.0,3.0,4.0,4.0,5.0,5.0,4.0,4.0,5.0,5.0,3.0,4.0,4.0,7.0,,Yes,Yes,No,,Passive (7-8),4-Mostly
+257,61856,,Yes,Community,True,Underrepresented,3.0,4.0,,4.0,5.0,4.0,5.0,5.0,5.0,5.0,,3.0,3.0,8.0,,Yes,Yes,No,,Passive (7-8),3-Moderately
+258,61874,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,3.0,5.0,5.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,2.0,5.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+259,61843,,Yes,Other,False,Not Underrepresented,3.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,3.0,3.0,4.0,2.0,3.0,8.0,3.0,,No,Yes,,Passive (7-8),3-Moderately
+260,60952,,Yes,Other,False,Not Underrepresented,3.0,3.0,3.0,4.0,3.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,9.0,4.0,Yes,No,Yes,,Promoter (9-10),3-Moderately
+261,61820,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,,3.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+262,61822,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+263,61822,,Yes,Student,True,Underrepresented,4.0,2.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,,,,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+264,61821,,Yes,Community,False,Not Underrepresented,3.0,4.0,3.0,4.0,4.0,5.0,3.0,3.0,4.0,4.0,4.0,2.0,3.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),3-Moderately
+265,61822,,Yes,Faculty/Staff,True,Underrepresented,3.0,3.0,3.0,4.0,4.0,5.0,4.0,4.0,,4.0,4.0,5.0,4.0,8.0,4.0,No,Yes,Yes,,Passive (7-8),3-Moderately
+266,61821,,Yes,Other,False,Not Underrepresented,4.0,5.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,4.0,4.0,3.0,5.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+267,61820,Senior,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,,4.0,4.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+268,61821,,Yes,Community,False,Not Underrepresented,3.0,,5.0,5.0,4.0,5.0,4.0,5.0,5.0,4.0,,,3.0,10.0,,,No,No,,Promoter (9-10),3-Moderately
+269,61801,,Yes,Community,False,Not Underrepresented,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+270,61822,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,2.0,4.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+271,61802,,Yes,Student,False,Not Underrepresented,1.0,3.0,3.0,3.0,3.0,5.0,3.0,3.0,4.0,4.0,,2.0,4.0,6.0,,No,No,No,,Detractor (0-6),1-Not at All
+272,61821,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,,4.0,5.0,5.0,5.0,5.0,5.0,4.0,2.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+273,61822,,Yes,Community,False,Not Underrepresented,5.0,4.0,3.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,,1.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+274,60067,,Yes,Other,False,Not Underrepresented,2.0,3.0,1.0,2.0,3.0,5.0,3.0,2.0,5.0,3.0,,2.0,1.0,5.0,,No,No,No,,Detractor (0-6),2-Slightly
+275,61032,,Yes,Other,True,Underrepresented,2.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,,4.0,3.0,9.0,,No,No,No,,Promoter (9-10),2-Slightly
+276,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,1.0,4.0,10.0,3.0,No,No,Yes,,Promoter (9-10),4-Mostly
+277,61801,,Yes,Community,True,Underrepresented,4.0,3.0,3.0,3.0,3.0,4.0,4.0,,3.0,4.0,,1.0,3.0,8.0,3.0,Yes,No,Yes,,Passive (7-8),4-Mostly
+278,61874,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,3.0,3.0,2.0,5.0,4.0,5.0,5.0,4.0,3.0,,5.0,3.0,8.0,,Yes,No,No,,Passive (7-8),2-Slightly
+279,61821,,Yes,Student,False,Not Underrepresented,4.0,3.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,1.0,4.0,9.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+280,61920,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,,4.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),5-Completely
+281,61801,,Yes,Community,False,Not Underrepresented,3.0,3.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,2.0,5.0,1.0,1.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+282,61801,,Yes,Community,True,Underrepresented,2.0,3.0,3.0,3.0,5.0,4.0,4.0,4.0,4.0,3.0,,4.0,5.0,6.0,,No,Yes,No,,Detractor (0-6),2-Slightly
+283,61801,,Yes,Community,False,Not Underrepresented,5.0,4.0,,4.0,4.0,4.0,5.0,5.0,5.0,4.0,,3.0,4.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+284,61802,,Yes,Community,True,Underrepresented,3.0,3.0,3.0,5.0,5.0,4.0,4.0,4.0,5.0,5.0,4.0,1.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+285,60613,,Yes,Other,False,Not Underrepresented,2.0,3.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,3.0,4.0,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+286,61801,,Yes,Other,False,Not Underrepresented,4.0,5.0,5.0,,5.0,4.0,5.0,5.0,5.0,4.0,,2.0,5.0,10.0,4.0,No,No,Yes,,Promoter (9-10),4-Mostly
+287,62095,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,3.0,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+288,60423,,Yes,Other,False,Not Underrepresented,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+289,,,Yes,Other,False,Not Underrepresented,5.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,3.0,5.0,10.0,5.0,No,No,Yes,,Promoter (9-10),5-Completely
+290,61820,Sophomore,Yes,Student,True,Underrepresented,3.0,3.0,3.0,3.0,3.0,,,,,,,,3.0,10.0,,,,No,,Promoter (9-10),3-Moderately
+291,61822,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,4.0,3.0,3.0,5.0,5.0,3.0,3.0,4.0,5.0,,3.0,3.0,7.0,,No,Yes,No,,Passive (7-8),2-Slightly
+292,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+293,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+294,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+295,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,,5.0,5.0,10.0,5.0,No,No,Yes,,Promoter (9-10),5-Completely
+296,61802,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,2.0,,4.0,2.0,3.0,,2.0,3.0,9.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+297,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,4.0,5.0,5.0,4.0,,5.0,5.0,5.0,5.0,3.0,8.0,,No,Yes,No,,Passive (7-8),5-Completely
+298,61822,,Yes,Other,False,Not Underrepresented,3.0,2.0,3.0,3.0,5.0,4.0,4.0,4.0,4.0,4.0,,3.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+299,61802,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,3.0,2.0,,4.0,3.0,10.0,,No,Yes,,,Promoter (9-10),5-Completely
+300,61802,,Yes,Community,True,Underrepresented,4.0,4.0,5.0,5.0,3.0,4.0,5.0,5.0,5.0,5.0,4.0,3.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+301,61874,,Yes,Community,False,Not Underrepresented,3.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,,,5.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+302,61801,,Yes,Community,True,Underrepresented,2.0,3.0,3.0,4.0,3.0,4.0,3.0,3.0,3.0,4.0,4.0,1.0,2.0,9.0,,Yes,No,No,,Promoter (9-10),2-Slightly
+303,61822,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+304,61820,Junior,Yes,Student,False,Not Underrepresented,3.0,3.0,3.0,4.0,3.0,4.0,,,1.0,5.0,,4.0,1.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+305,61820,Junior,Yes,Student,True,Underrepresented,4.0,,4.0,3.0,5.0,5.0,4.0,4.0,5.0,5.0,3.0,4.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+306,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+307,,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,,2.0,5.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+308,61953,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+309,60948,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,5.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,3.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+310,61874,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,4.0,2.0,4.0,8.0,3.0,No,No,Yes,,Passive (7-8),3-Moderately
+311,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+312,61821,,Yes,Faculty/Staff,True,Underrepresented,4.0,3.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+313,61801,,Yes,Community,False,Not Underrepresented,4.0,3.0,4.0,,4.0,,5.0,,5.0,4.0,5.0,4.0,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+314,61525,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+315,61065,,Yes,Other,True,Underrepresented,3.0,4.0,4.0,5.0,2.0,4.0,4.0,4.0,5.0,3.0,,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+316,61877,,Yes,Community,True,Underrepresented,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,2.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+317,61571,,Yes,Other,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,5.0,3.0,4.0,,5.0,3.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+318,61832,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,,5.0,10.0,,No,Yes,Yes,,Promoter (9-10),5-Completely
+319,61822,,Yes,Community,True,Underrepresented,3.0,4.0,5.0,4.0,3.0,5.0,4.0,4.0,4.0,5.0,,4.0,4.0,10.0,5.0,No,No,Yes,,Promoter (9-10),3-Moderately
+320,,,Yes,Other,False,Not Underrepresented,3.0,3.0,,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+321,,,Yes,Community,True,Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,3.0,4.0,5.0,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+322,61822,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+323,60004,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,5.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+324,61107,,Yes,Other,False,Not Underrepresented,5.0,5.0,4.0,5.0,3.0,4.0,4.0,4.0,5.0,5.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+325,61801,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,,5.0,5.0,5.0,1.0,2.0,4.0,5.0,,1.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+326,61820,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,,5.0,,5.0,5.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+327,61822,,Yes,Community,True,Underrepresented,3.0,3.0,3.0,3.0,5.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,2.0,7.0,,No,No,No,,Passive (7-8),3-Moderately
+328,61822,,Yes,Community,False,Not Underrepresented,4.0,4.0,,3.0,5.0,5.0,5.0,4.0,4.0,4.0,,,4.0,9.0,,No,,No,,Promoter (9-10),4-Mostly
+329,61874,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+330,61801,,Yes,Community,False,Not Underrepresented,5.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,3.0,5.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+331,61884,,Yes,Other,False,Not Underrepresented,3.0,3.0,3.0,3.0,3.0,5.0,4.0,4.0,4.0,4.0,,4.0,2.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+332,61801,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,5.0,4.0,3.0,4.0,5.0,5.0,5.0,,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+333,61801,,Yes,Community,True,Underrepresented,2.0,2.0,2.0,2.0,,5.0,4.0,4.0,4.0,4.0,5.0,,2.0,7.0,,No,,No,,Passive (7-8),2-Slightly
+334,61802,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,3.0,3.0,3.0,2.0,2.0,3.0,4.0,,1.0,3.0,8.0,,No,Yes,No,,Passive (7-8),3-Moderately
+335,61802,,Yes,Community,False,Not Underrepresented,4.0,3.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+336,60126,,Yes,Other,False,Not Underrepresented,3.0,4.0,3.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+337,61801,,Yes,Student,False,Not Underrepresented,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+338,61832,,Yes,Other,False,Not Underrepresented,2.0,3.0,,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,,5.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+339,61822,,Yes,Community,False,Not Underrepresented,,,,,,,,,,,,,,10.0,3.0,,,Yes,,Promoter (9-10),
+340,61875,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,5.0,5.0,5.0,5.0,4.0,10.0,3.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+341,61920,,Yes,Community,False,Not Underrepresented,5.0,5.0,3.0,4.0,3.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+342,61801,,Yes,Community,False,Not Underrepresented,4.0,3.0,2.0,4.0,4.0,4.0,4.0,4.0,4.0,1.0,,,4.0,6.0,4.0,No,,Yes,,Detractor (0-6),4-Mostly
+343,61802,,Yes,Other,True,Underrepresented,3.0,4.0,5.0,3.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+344,61761,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,4.0,4.0,3.0,,4.0,,2.0,,10.0,,Yes,,Yes,,Promoter (9-10),3-Moderately
+345,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,,,3.0,8.0,,No,,No,,Passive (7-8),5-Completely
+346,48761,,Yes,Other,True,Underrepresented,3.0,4.0,4.0,4.0,2.0,4.0,5.0,4.0,4.0,4.0,4.0,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+347,,,Yes,Community,True,Underrepresented,3.0,2.0,4.0,4.0,2.0,4.0,3.0,1.0,2.0,4.0,5.0,1.0,2.0,6.0,,No,No,No,,Detractor (0-6),3-Moderately
+348,61822,,Yes,Community,False,Not Underrepresented,5.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,3.0,5.0,4.0,5.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+349,61820,Senior,Yes,Student,True,Underrepresented,3.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,,,2.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+350,61822,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+351,61822,,Yes,Faculty/Staff,False,Not Underrepresented,1.0,2.0,,2.0,4.0,,,,,,,,1.0,3.0,,,,No,,Detractor (0-6),1-Not at All
+352,61820,Freshman,Yes,Student,True,Underrepresented,3.0,5.0,4.0,,5.0,5.0,4.0,5.0,5.0,5.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+353,,,Yes,Community,False,Not Underrepresented,4.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0,3.0,,2.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+354,61856,,Yes,Other,True,Underrepresented,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+355,61822,,Yes,Community,False,Not Underrepresented,2.0,3.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,4.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+356,61802,,Yes,Community,True,Underrepresented,3.0,3.0,5.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+357,61821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,3.0,4.0,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+358,61821,,Yes,Community,False,Not Underrepresented,4.0,3.0,3.0,5.0,4.0,4.0,5.0,,4.0,3.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+359,60446,,Yes,Other,False,Not Underrepresented,3.0,4.0,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,2.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+360,61801,,Yes,Community,False,Not Underrepresented,4.0,3.0,4.0,3.0,4.0,5.0,5.0,5.0,4.0,4.0,,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+361,61822,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,4.0,4.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+362,61866,,Yes,Other,False,Not Underrepresented,2.0,2.0,2.0,4.0,5.0,2.0,4.0,4.0,4.0,4.0,,1.0,4.0,5.0,,,No,No,,Detractor (0-6),2-Slightly
+363,,Senior,Yes,Student,False,Not Underrepresented,5.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,2.0,4.0,9.0,,No,No,No,,Promoter (9-10),5-Completely
+364,,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+365,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,5.0,,No,Yes,No,,Detractor (0-6),4-Mostly
+366,61874,,Yes,Community,False,Not Underrepresented,3.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,5.0,5.0,,4.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+367,61802,,Yes,Community,False,Not Underrepresented,2.0,2.0,,,4.0,5.0,4.0,4.0,4.0,4.0,,2.0,4.0,10.0,,No,,No,,Promoter (9-10),2-Slightly
+368,49009,,Yes,Student,True,Underrepresented,3.0,4.0,2.0,4.0,3.0,5.0,4.0,4.0,4.0,5.0,,3.0,3.0,7.0,,No,No,No,,Passive (7-8),3-Moderately
+369,61820,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,2.0,5.0,,5.0,4.0,4.0,4.0,5.0,,,3.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+370,61801,,Yes,Faculty/Staff,True,Underrepresented,5.0,,,4.0,3.0,,4.0,4.0,5.0,,,3.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+371,6821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,5.0,4.0,,5.0,5.0,5.0,5.0,5.0,4.0,3.0,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+372,61801,,Yes,Student,False,Not Underrepresented,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0,10.0,5.0,,,Yes,,Promoter (9-10),5-Completely
+373,61802,,Yes,Community,False,Not Underrepresented,4.0,3.0,5.0,4.0,5.0,3.0,5.0,5.0,5.0,3.0,,2.0,3.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+374,60304,,Yes,Other,False,Not Underrepresented,2.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,3.0,3.0,9.0,,No,Yes,No,,Promoter (9-10),2-Slightly
+375,60516,Freshman,Yes,Student,True,Underrepresented,4.0,4.0,,4.0,,,4.0,,5.0,4.0,,,3.0,10.0,,Yes,,No,,Promoter (9-10),4-Mostly
+376,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,2.0,5.0,10.0,,,No,No,,Promoter (9-10),5-Completely
+377,61821,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,,1.0,3.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+378,61801,,Yes,Community,True,Underrepresented,5.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,5.0,5.0,4.0,3.0,5.0,10.0,5.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+379,61820,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,4.0,4.0,,5.0,3.0,9.0,,No,,No,,Promoter (9-10),5-Completely
+380,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,,1.0,3.0,10.0,2.0,No,No,Yes,,Promoter (9-10),4-Mostly
+381,61822,,Yes,Community,False,Not Underrepresented,2.0,4.0,3.0,4.0,5.0,4.0,3.0,3.0,3.0,5.0,,3.0,4.0,10.0,3.0,,No,Yes,,Promoter (9-10),2-Slightly
+382,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,5.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+383,61802,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,3.0,4.0,4.0,3.0,3.0,5.0,4.0,,,4.0,7.0,,No,,No,,Passive (7-8),3-Moderately
+384,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,10.0,,No,Yes,,,Promoter (9-10),4-Mostly
+385,61821,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,5.0,4.0,5.0,5.0,4.0,5.0,4.0,,3.0,5.0,10.0,,No,,No,,Promoter (9-10),4-Mostly
+386,61802,,Yes,Community,True,Underrepresented,5.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,3.0,5.0,,3.0,4.0,10.0,2.0,Yes,Yes,Yes,,Promoter (9-10),5-Completely
+387,60625,,Yes,Other,True,Underrepresented,3.0,4.0,4.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,2.0,4.0,10.0,5.0,Yes,No,Yes,,Promoter (9-10),3-Moderately
+388,61821,,Yes,Community,True,Underrepresented,3.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0,3.0,5.0,3.0,3.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+389,61802,,Yes,Community,False,Not Underrepresented,4.0,4.0,5.0,3.0,5.0,4.0,5.0,5.0,5.0,5.0,,3.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+390,61873,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,4.0,5.0,,5.0,5.0,3.0,4.0,,,2.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+391,61704,,Yes,Other,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+392,61820,,Yes,Community,False,Not Underrepresented,5.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+393,61821,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,1.0,2.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+394,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,3.0,4.0,3.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,4.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+395,61821,,Yes,Community,False,Not Underrepresented,3.0,4.0,3.0,4.0,3.0,4.0,4.0,4.0,5.0,5.0,,1.0,4.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+396,61853,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,4.0,3.0,4.0,4.0,3.0,3.0,3.0,,4.0,2.0,9.0,,No,,,,Promoter (9-10),3-Moderately
+397,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,4.0,3.0,4.0,5.0,4.0,3.0,3.0,2.0,5.0,1.0,3.0,7.0,3.0,No,Yes,Yes,,Passive (7-8),3-Moderately
+398,61822,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,3.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,,4.0,3.0,9.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+399,61801,,Yes,Student,True,Underrepresented,4.0,3.0,2.0,4.0,2.0,4.0,4.0,4.0,5.0,5.0,4.0,2.0,3.0,7.0,,Yes,No,No,,Passive (7-8),4-Mostly
+400,61820,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+401,61801,Junior,Yes,Student,False,Not Underrepresented,4.0,4.0,5.0,5.0,,,,,,,,,,,,,,,,,4-Mostly
+402,61822,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+403,61802,,Yes,Faculty/Staff,True,Underrepresented,2.0,3.0,4.0,4.0,2.0,5.0,4.0,4.0,4.0,4.0,,2.0,4.0,8.0,4.0,No,No,Yes,,Passive (7-8),2-Slightly
+404,61801,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,3.0,5.0,5.0,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+405,61832,,Yes,Other,True,Underrepresented,5.0,2.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,4.0,,5.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+406,60540,Freshman,Yes,Student,False,Not Underrepresented,5.0,5.0,1.0,5.0,,,5.0,5.0,5.0,5.0,,,,10.0,,,,No,,Promoter (9-10),5-Completely
+407,60004,,Yes,Other,False,Not Underrepresented,2.0,3.0,1.0,4.0,5.0,5.0,3.0,5.0,5.0,5.0,,2.0,5.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+408,62540,,Yes,Other,False,Not Underrepresented,3.0,3.0,2.0,2.0,4.0,5.0,5.0,4.0,3.0,4.0,5.0,4.0,5.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+409,61866,,Yes,Other,True,Underrepresented,4.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+410,61854,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+411,61863,,Yes,Community,False,Not Underrepresented,3.0,4.0,5.0,3.0,5.0,4.0,5.0,4.0,5.0,5.0,,2.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+412,61821,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+413,61802,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,2.0,,3.0,5.0,10.0,,,No,No,,Promoter (9-10),4-Mostly
+414,60060,,Yes,Other,True,Underrepresented,5.0,5.0,5.0,3.0,3.0,5.0,5.0,5.0,5.0,5.0,,3.0,2.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+415,46530,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,5.0,5.0,,2.0,,8.0,,No,No,No,,Passive (7-8),4-Mostly
+416,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,3.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,5.0,3.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),5-Completely
+417,61821,,Yes,Community,False,Not Underrepresented,3.0,3.0,2.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,3.0,8.0,,No,Yes,No,,Passive (7-8),3-Moderately
+418,60601,,Yes,Other,False,Not Underrepresented,1.0,2.0,2.0,5.0,3.0,4.0,1.0,1.0,3.0,4.0,,3.0,1.0,5.0,,No,,No,,Detractor (0-6),1-Not at All
+419,61801,,Yes,Community,True,Underrepresented,2.0,2.0,2.0,,,4.0,,,,,,,3.0,8.0,,No,,No,,Passive (7-8),2-Slightly
+420,61842,,Yes,Other,False,Not Underrepresented,4.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+421,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+422,61821,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,3.0,4.0,4.0,5.0,5.0,5.0,5.0,,1.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+423,61820,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0,,10.0,4.0,No,No,Yes,,Promoter (9-10),4-Mostly
+424,61849,,Yes,Other,False,Not Underrepresented,2.0,3.0,2.0,3.0,4.0,5.0,4.0,3.0,4.0,3.0,,2.0,4.0,7.0,3.0,No,No,Yes,,Passive (7-8),2-Slightly
+425,60613,,Yes,Other,True,Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+426,60608,Freshman,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,,4.0,,4.0,4.0,3.0,4.0,,,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+427,61820,Sophomore,Yes,Student,True,Underrepresented,3.0,2.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,,3.0,4.0,9.0,,Yes,Yes,No,,Promoter (9-10),3-Moderately
+428,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,3.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+429,61802,,Yes,Other,False,Not Underrepresented,3.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,,,Promoter (9-10),3-Moderately
+430,61822,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,2.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,3.0,8.0,,No,No,No,,Passive (7-8),2-Slightly
+431,61822,,Yes,Community,True,Underrepresented,3.0,3.0,3.0,4.0,4.0,5.0,3.0,4.0,4.0,4.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+432,61853,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,3.0,4.0,5.0,4.0,4.0,3.0,3.0,,2.0,2.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+433,61820,,Yes,Community,False,Not Underrepresented,3.0,4.0,5.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,,4.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+434,,Senior,Yes,Student,True,Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,,1.0,4.0,8.0,4.0,No,No,Yes,,Passive (7-8),4-Mostly
+435,61801,,Yes,Other,True,Underrepresented,4.0,5.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,3.0,4.0,3.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+436,61801,,Yes,Student,False,Not Underrepresented,2.0,2.0,2.0,2.0,3.0,2.0,2.0,1.0,3.0,2.0,4.0,3.0,1.0,5.0,4.0,No,Yes,Yes,,Detractor (0-6),2-Slightly
+437,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,8.0,,,Yes,No,,Passive (7-8),5-Completely
+438,61761,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,3.0,4.0,5.0,4.0,4.0,4.0,4.0,1.0,3.0,4.0,10.0,,Yes,Yes,No,,Promoter (9-10),3-Moderately
+439,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,8.0,,No,Yes,No,,Passive (7-8),4-Mostly
+440,61874,,Yes,Other,False,Not Underrepresented,4.0,4.0,3.0,3.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,,No,Yes,,,,4-Mostly
+441,61801,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+442,61822,,Yes,Community,True,Underrepresented,3.0,3.0,4.0,5.0,5.0,3.0,3.0,4.0,5.0,5.0,,1.0,4.0,9.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+443,61802,,Yes,Community,True,Underrepresented,3.0,5.0,4.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+444,61853,,Yes,Community,True,Underrepresented,3.0,2.0,1.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,3.0,3.0,9.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+445,61820,,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,,2.0,4.0,9.0,,,,No,,Promoter (9-10),4-Mostly
+446,61820,,Yes,Community,True,Underrepresented,,,,,,,,,,,,,4.0,,,,,,,,
+447,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,1.0,4.0,10.0,,No,No,Yes,,Promoter (9-10),5-Completely
+448,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,,1.0,2.0,8.0,,No,No,No,,Passive (7-8),3-Moderately
+449,61801,Junior,Yes,Student,True,Underrepresented,4.0,4.0,4.0,4.0,3.0,3.0,4.0,5.0,4.0,5.0,,1.0,2.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+450,61874,,Yes,Student,True,Underrepresented,4.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+451,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,3.0,4.0,,4.0,4.0,4.0,5.0,,,4.0,10.0,,,,No,,Promoter (9-10),4-Mostly
+452,,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+453,,,Yes,Community,False,Not Underrepresented,4.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,10.0,,,No,,,Promoter (9-10),4-Mostly
+454,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,5.0,5.0,5.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,4.0,10.0,,No,,No,,Promoter (9-10),4-Mostly
+455,61874,,Yes,Community,True,Underrepresented,4.0,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0,4.0,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+456,61820,,Yes,Other,False,Not Underrepresented,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,3.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+457,61801,,Yes,Other,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,3.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+458,61801,,Yes,Student,True,Underrepresented,3.0,4.0,,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,4.0,2.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+459,61821,,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,,3.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+460,61822,,Yes,Other,True,Underrepresented,3.0,4.0,3.0,3.0,2.0,5.0,3.0,4.0,3.0,3.0,,2.0,3.0,7.0,,No,No,No,,Passive (7-8),3-Moderately
+461,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+462,61820,Senior,No,Student,False,Not Underrepresented,,,,,,,,,,,,,3.0,,,,,,,,
+463,61820,,Yes,Community,False,Not Underrepresented,1.0,5.0,4.0,4.0,4.0,,5.0,,,,,,4.0,10.0,,,,No,,Promoter (9-10),1-Not at All
+464,61822,,Yes,Community,False,Not Underrepresented,3.0,4.0,,4.0,5.0,4.0,4.0,3.0,4.0,4.0,,,1.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+465,61801,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,5.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+466,61802,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,4.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+467,60108,,Yes,Other,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+468,62035,,Yes,Other,False,Not Underrepresented,5.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,4.0,,3.0,,10.0,,No,No,No,,Promoter (9-10),5-Completely
+469,61801,Junior,Yes,Student,True,Underrepresented,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,,2.0,3.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),4-Mostly
+470,61801,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,4.0,,5.0,5.0,,5.0,5.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+471,61874,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+472,61820,,Yes,Other,True,Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,4.0,4.0,3.0,4.0,4.0,4.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+473,61801,,Yes,Student,True,Underrepresented,5.0,3.0,4.0,5.0,3.0,4.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+474,61822,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,3.0,,1.0,3.0,8.0,,Yes,No,No,,Passive (7-8),4-Mostly
+475,61821,,Yes,Other,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+476,61822,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,,1.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+477,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,3.0,4.0,5.0,4.0,4.0,4.0,3.0,,3.0,4.0,10.0,4.0,No,No,Yes,,Promoter (9-10),5-Completely
+478,60056,,Yes,Other,True,Underrepresented,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,1.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+479,61821,,Yes,Community,False,Not Underrepresented,5.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+480,61820,,Yes,Faculty/Staff,True,Underrepresented,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+481,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,5.0,5.0,3.0,5.0,5.0,4.0,4.0,4.0,5.0,1.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+482,61820,,Yes,Student,False,Not Underrepresented,3.0,3.0,1.0,3.0,4.0,5.0,4.0,4.0,3.0,5.0,5.0,1.0,2.0,8.0,2.0,No,No,Yes,,Passive (7-8),3-Moderately
+483,62002,,Yes,Other,False,Not Underrepresented,2.0,4.0,5.0,5.0,,5.0,3.0,3.0,4.0,4.0,,,,10.0,,No,,No,,Promoter (9-10),2-Slightly
+484,61801,,Yes,Other,False,Not Underrepresented,1.0,3.0,4.0,4.0,,5.0,3.0,,5.0,5.0,,2.0,5.0,10.0,,No,No,No,,Promoter (9-10),1-Not at All
+485,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,4.0,2.0,3.0,5.0,3.0,4.0,3.0,5.0,5.0,,3.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+486,61801,Senior,Yes,Student,True,Underrepresented,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,8.0,,Yes,No,No,,Passive (7-8),3-Moderately
+487,61853,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,4.0,3.0,5.0,4.0,4.0,4.0,3.0,3.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+488,61801,,Yes,Other,True,Underrepresented,2.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+489,61853,,Yes,Faculty/Staff,True,Underrepresented,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,10.0,,Yes,Yes,No,,Promoter (9-10),5-Completely
+490,61820,,Yes,Student,True,Underrepresented,,,,,4.0,,4.0,,,,,,,8.0,,No,,No,,Passive (7-8),
+491,61821,,Yes,Community,False,Not Underrepresented,2.0,3.0,3.0,4.0,4.0,5.0,3.0,3.0,3.0,5.0,,1.0,1.0,7.0,,No,No,No,,Passive (7-8),2-Slightly
+492,61801,Junior,Yes,Student,False,Not Underrepresented,5.0,5.0,,4.0,5.0,,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,,,No,,Promoter (9-10),5-Completely
+493,60646,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,2.0,4.0,9.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+494,60030,,Yes,Other,False,Not Underrepresented,2.0,2.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),2-Slightly
+495,61701,,Yes,Other,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+496,61820,,Yes,Student,True,Underrepresented,4.0,3.0,4.0,,4.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+497,61910,,Yes,Community,True,Underrepresented,4.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,5.0,3.0,4.0,1.0,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+498,61822,,Yes,Community,False,Not Underrepresented,3.0,3.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+499,61873,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,3.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+500,61821,,Yes,Faculty/Staff,False,Not Underrepresented,5.0,5.0,4.0,4.0,5.0,5.0,4.0,4.0,5.0,5.0,4.0,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+501,61802,,Yes,Faculty/Staff,True,Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,9.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+502,61801,,Yes,Faculty/Staff,False,Not Underrepresented,1.0,4.0,3.0,4.0,4.0,4.0,2.0,2.0,5.0,4.0,,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),1-Not at All
+503,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,5.0,2.0,2.0,3.0,,1.0,3.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+504,61853,,Yes,Community,False,Not Underrepresented,4.0,3.0,4.0,4.0,3.0,4.0,4.0,4.0,5.0,4.0,,4.0,3.0,10.0,4.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+505,61801,,Yes,Student,True,Underrepresented,1.0,3.0,4.0,,2.0,4.0,4.0,4.0,5.0,5.0,,2.0,2.0,9.0,,Yes,No,No,,Promoter (9-10),1-Not at All
+506,61874,,Yes,Community,False,Not Underrepresented,2.0,1.0,2.0,1.0,2.0,3.0,3.0,2.0,4.0,3.0,4.0,2.0,3.0,7.0,,No,Yes,No,,Passive (7-8),2-Slightly
+507,61801,,Yes,Community,True,Underrepresented,5.0,5.0,5.0,4.0,4.0,4.0,5.0,4.0,3.0,3.0,5.0,3.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),5-Completely
+508,61884,,Yes,Other,True,Underrepresented,4.0,4.0,,,3.0,4.0,4.0,4.0,,5.0,5.0,2.0,4.0,5.0,,No,Yes,No,,Detractor (0-6),4-Mostly
+509,61801,,Yes,Community,False,Not Underrepresented,3.0,4.0,,,,4.0,4.0,4.0,4.0,5.0,,,4.0,10.0,,,No,No,,Promoter (9-10),3-Moderately
+510,61822,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,4.0,3.0,5.0,5.0,4.0,4.0,4.0,5.0,,2.0,3.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+511,62821,,Yes,Other,True,Underrepresented,3.0,3.0,4.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,,3.0,4.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+512,61802,,Yes,Community,False,Not Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+513,61822,,Yes,Community,True,Underrepresented,5.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,5.0,5.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+514,61801,,Yes,Community,False,Not Underrepresented,5.0,4.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,10.0,4.0,Yes,No,Yes,,Promoter (9-10),5-Completely
+515,62521,,Yes,Other,False,Not Underrepresented,1.0,,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,,4.0,8.0,,Yes,Yes,No,,Passive (7-8),1-Not at All
+516,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,3.0,2.0,4.0,5.0,4.0,4.0,4.0,3.0,5.0,,1.0,3.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+517,61820,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,3.0,4.0,,3.0,3.0,7.0,,No,Yes,No,,Passive (7-8),3-Moderately
+518,61802,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0,,3.0,3.0,9.0,,Yes,No,No,,Promoter (9-10),3-Moderately
+519,61820,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,,4.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+520,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+521,61801,,Yes,Other,False,Not Underrepresented,5.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+522,61801,,Yes,Community,True,Underrepresented,3.0,2.0,4.0,4.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,8.0,3.0,No,Yes,Yes,,Passive (7-8),3-Moderately
+523,61821,,Yes,Community,True,Underrepresented,4.0,3.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,5.0,2.0,1.0,4.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+524,60957,,Yes,Community,True,Underrepresented,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+525,61821,,Yes,Other,False,Not Underrepresented,3.0,4.0,4.0,3.0,3.0,4.0,5.0,4.0,3.0,1.0,4.0,,3.0,10.0,,No,Yes,Yes,,Promoter (9-10),3-Moderately
+526,61820,Junior,Yes,Student,True,Underrepresented,4.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,4.0,4.0,5.0,2.0,5.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+527,61822,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,2.0,4.0,10.0,,Yes,No,No,,Promoter (9-10),4-Mostly
+528,61801,,No,Student,True,Underrepresented,,,,,,,,,,,,,2.0,,,,,,,,
+529,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,3.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,1.0,3.0,10.0,,Yes,Yes,No,,Promoter (9-10),4-Mostly
+530,61832,,Yes,Other,False,Not Underrepresented,3.0,3.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,4.0,Yes,Yes,Yes,,Promoter (9-10),3-Moderately
+531,61802,,Yes,Community,True,Underrepresented,5.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,,5.0,,10.0,,Yes,,No,,Promoter (9-10),5-Completely
+532,61801,,Yes,Community,False,Not Underrepresented,1.0,1.0,1.0,4.0,4.0,4.0,5.0,5.0,3.0,4.0,,1.0,4.0,10.0,,No,No,No,,Promoter (9-10),1-Not at All
+533,61821,,Yes,Community,False,Not Underrepresented,2.0,1.0,3.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,5.0,10.0,,No,No,No,,Promoter (9-10),2-Slightly
+534,61802,,Yes,Community,False,Not Underrepresented,5.0,5.0,4.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,,,5.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+535,,,,Other,False,Not Underrepresented,,,,,,,,,,,,,,,,,,,,,
+536,61801,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,1.0,4.0,5.0,4.0,4.0,4.0,4.0,,4.0,2.0,8.0,,No,Yes,No,,Passive (7-8),3-Moderately
+537,61853,,Yes,Community,False,Not Underrepresented,3.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+538,61801,,Yes,Community,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,5.0,Yes,Yes,Yes,,Promoter (9-10),5-Completely
+539,61820,,Yes,Other,False,Not Underrepresented,4.0,5.0,5.0,4.0,,5.0,5.0,5.0,5.0,5.0,,3.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+540,61821,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,4.0,2.0,4.0,3.0,5.0,5.0,5.0,4.0,3.0,5.0,1.0,3.0,10.0,2.0,No,No,Yes,,Promoter (9-10),3-Moderately
+541,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,,4.0,4.0,5.0,5.0,4.0,3.0,4.0,,1.0,,10.0,,,No,No,,Promoter (9-10),3-Moderately
+542,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+543,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,3.0,2.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,3.0,3.0,4.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+544,61820,Senior,Yes,Student,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,3.0,,1.0,2.0,9.0,,No,No,No,,Promoter (9-10),4-Mostly
+545,61821,,Yes,Community,False,Not Underrepresented,4.0,4.0,,4.0,3.0,5.0,,,,,,,5.0,,,No,Yes,,,,4-Mostly
+546,61822,,Yes,Other,False,Not Underrepresented,3.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,2.0,4.0,10.0,,No,No,No,,Promoter (9-10),3-Moderately
+547,61820,Senior,Yes,Student,True,Underrepresented,3.0,2.0,2.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,9.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+548,61802,,Yes,Community,False,Not Underrepresented,,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,5.0,10.0,,No,Yes,No,,Promoter (9-10),
+549,61822,,Yes,Community,False,Not Underrepresented,3.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,9.0,,No,Yes,No,,Promoter (9-10),3-Moderately
+550,61820,Sophomore,Yes,Student,True,Underrepresented,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,,,5.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+551,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0,4.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+552,61801-6226,,Yes,Other,False,Not Underrepresented,5.0,5.0,4.0,1.0,5.0,5.0,5.0,4.0,5.0,5.0,,5.0,,10.0,,No,Yes,No,,Promoter (9-10),5-Completely
+553,77401,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,,5.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+554,61801,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,,3.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+555,61802,,Yes,Community,False,Not Underrepresented,3.0,4.0,3.0,4.0,5.0,4.0,5.0,5.0,3.0,4.0,4.0,4.0,4.0,10.0,4.0,Yes,Yes,Yes,,Promoter (9-10),3-Moderately
+556,61821,,Yes,Community,False,Not Underrepresented,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,5.0,5.0,,3.0,5.0,10.0,,,No,No,,Promoter (9-10),4-Mostly
+557,61821,,Yes,Community,False,Not Underrepresented,3.0,3.0,4.0,4.0,4.0,5.0,4.0,2.0,3.0,4.0,4.0,2.0,4.0,8.0,,Yes,No,No,,Passive (7-8),3-Moderately
+558,62401,,Yes,Other,False,Not Underrepresented,4.0,4.0,,,,,,,,,,,,,,,,,,,4-Mostly
+559,61802,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,10.0,,No,Yes,No,,Promoter (9-10),4-Mostly
+560,61822,,Yes,Community,False,Not Underrepresented,3.0,,3.0,2.0,2.0,4.0,1.0,2.0,2.0,3.0,,1.0,2.0,10.0,2.0,No,No,Yes,,Promoter (9-10),3-Moderately
+561,61822,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,4.0,4.0,4.0,,3.0,1.0,4.0,5.0,4.0,4.0,4.0,8.0,,No,Yes,No,,Passive (7-8),4-Mostly
+562,61802,,Yes,Faculty/Staff,False,Not Underrepresented,2.0,4.0,4.0,4.0,4.0,4.0,2.0,2.0,5.0,1.0,4.0,,4.0,10.0,,,,No,,Promoter (9-10),2-Slightly
+563,61821,,Yes,Other,False,Not Underrepresented,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,,5.0,10.0,,No,,No,,Promoter (9-10),5-Completely
+564,61920,,Yes,Community,True,Underrepresented,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),5-Completely
+565,61801,,Yes,Faculty/Staff,False,Not Underrepresented,3.0,,,4.0,,,4.0,,3.0,,4.0,,,6.0,4.0,No,,Yes,,Detractor (0-6),3-Moderately
+566,61853,,Yes,Student,True,Underrepresented,4.0,3.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0,4.0,10.0,3.0,No,Yes,Yes,,Promoter (9-10),4-Mostly
+567,61802,,Yes,Faculty/Staff,True,Underrepresented,5.0,3.0,4.0,5.0,,4.0,4.0,4.0,5.0,5.0,5.0,2.0,3.0,8.0,,Yes,No,No,,Passive (7-8),5-Completely
+568,61801,,Yes,Community,True,Underrepresented,3.0,3.0,4.0,,4.0,4.0,4.0,4.0,4.0,4.0,,1.0,4.0,9.0,,No,No,No,,Promoter (9-10),3-Moderately
+569,60957,,Yes,Community,False,Not Underrepresented,3.0,3.0,3.0,4.0,4.0,4.0,2.0,3.0,4.0,2.0,4.0,2.0,3.0,8.0,,No,Yes,No,,Passive (7-8),3-Moderately
+570,61801,,Yes,Community,False,Not Underrepresented,4.0,4.0,4.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,,4.0,4.0,10.0,,No,No,No,,Promoter (9-10),4-Mostly
+571,61821,,Yes,Faculty/Staff,False,Not Underrepresented,4.0,4.0,,5.0,5.0,5.0,4.0,5.0,4.0,5.0,,,4.0,10.0,,No,,No,,Promoter (9-10),4-Mostly

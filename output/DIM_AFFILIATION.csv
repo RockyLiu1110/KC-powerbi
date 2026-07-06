@@ -1,0 +1,813 @@
+﻿record_id,affiliation_type,audience_segment
+2,Graduate Student,Student
+3,Graduate Student,Student
+4,Graduate Student,Student
+5,Graduate Student,Student
+6,Graduate Student,Student
+7,Graduate Student,Student
+8,Faculty,Faculty/Staff
+8,Community Member,Faculty/Staff
+9,Graduate Student,Student
+10,Faculty,Faculty/Staff
+10,Community Member,Faculty/Staff
+11,Staff,Faculty/Staff
+11,Community Member,Faculty/Staff
+12,Community Member,Community
+12,Donor,Community
+13,Faculty,Faculty/Staff
+13,Community Member,Faculty/Staff
+14,Visitor,Other
+14,Other,Other
+15,Donor,Other
+16,Faculty,Faculty/Staff
+17,Graduate Student,Student
+17,Donor,Student
+17,Visitor,Student
+18,Community Member,Community
+18,Visitor,Community
+18,Other,Community
+19,Staff,Faculty/Staff
+19,Community Member,Faculty/Staff
+19,Visitor,Faculty/Staff
+20,Staff,Faculty/Staff
+21,Undergraduate Student,Student
+22,Staff,Faculty/Staff
+23,Staff,Faculty/Staff
+23,Community Member,Faculty/Staff
+23,Visitor,Faculty/Staff
+24,Faculty,Faculty/Staff
+25,Faculty,Faculty/Staff
+26,Faculty,Faculty/Staff
+27,Faculty,Faculty/Staff
+27,Donor,Faculty/Staff
+28,Undergraduate Student,Student
+29,Graduate Student,Student
+29,Staff,Student
+29,Community Member,Student
+30,Faculty,Faculty/Staff
+31,Staff,Faculty/Staff
+31,KCPA Staff,Faculty/Staff
+31,Community Member,Faculty/Staff
+31,Donor,Faculty/Staff
+31,Visitor,Faculty/Staff
+32,Undergraduate Student,Student
+33,Faculty,Faculty/Staff
+34,Staff,Faculty/Staff
+34,Donor,Faculty/Staff
+35,Faculty,Faculty/Staff
+35,Community Member,Faculty/Staff
+35,Visitor,Faculty/Staff
+36,Staff,Faculty/Staff
+36,Community Member,Faculty/Staff
+36,Visitor,Faculty/Staff
+37,Staff,Faculty/Staff
+37,Community Member,Faculty/Staff
+38,Staff,Faculty/Staff
+39,Faculty,Faculty/Staff
+40,Staff,Faculty/Staff
+40,Community Member,Faculty/Staff
+40,Visitor,Faculty/Staff
+41,Staff,Faculty/Staff
+41,Visitor,Faculty/Staff
+42,Staff,Faculty/Staff
+42,Community Member,Faculty/Staff
+43,Faculty,Faculty/Staff
+44,Staff,Faculty/Staff
+44,Visitor,Faculty/Staff
+45,Staff,Faculty/Staff
+45,Visitor,Faculty/Staff
+46,Staff,Faculty/Staff
+47,Faculty,Faculty/Staff
+47,Community Member,Faculty/Staff
+48,Staff,Faculty/Staff
+48,Other,Faculty/Staff
+49,Staff,Faculty/Staff
+50,Staff,Faculty/Staff
+50,Community Member,Faculty/Staff
+50,Visitor,Faculty/Staff
+51,Graduate Student,Student
+51,Community Member,Student
+51,Donor,Student
+51,Visitor,Student
+52,Staff,Faculty/Staff
+53,KCPA Staff,Other
+54,Staff,Faculty/Staff
+55,Staff,Faculty/Staff
+56,KCPA Staff,Other
+57,Staff,Faculty/Staff
+57,Community Member,Faculty/Staff
+57,Donor,Faculty/Staff
+58,Staff,Faculty/Staff
+59,Staff,Faculty/Staff
+59,Community Member,Faculty/Staff
+60,KCPA Staff,Other
+61,Staff,Faculty/Staff
+62,Staff,Faculty/Staff
+63,Staff,Faculty/Staff
+64,Staff,Faculty/Staff
+64,Other,Faculty/Staff
+65,Staff,Faculty/Staff
+66,Staff,Faculty/Staff
+66,Community Member,Faculty/Staff
+66,Visitor,Faculty/Staff
+67,Graduate Student,Student
+67,Staff,Student
+68,Staff,Faculty/Staff
+69,Community Member,Community
+69,Donor,Community
+69,Other,Community
+70,Staff,Faculty/Staff
+70,Community Member,Faculty/Staff
+70,Donor,Faculty/Staff
+70,Visitor,Faculty/Staff
+71,Staff,Faculty/Staff
+72,Staff,Faculty/Staff
+72,KCPA Staff,Faculty/Staff
+72,Donor,Faculty/Staff
+72,Visitor,Faculty/Staff
+73,Staff,Faculty/Staff
+73,Community Member,Faculty/Staff
+74,Graduate Student,Student
+75,Staff,Faculty/Staff
+76,Undergraduate Student,Student
+77,Graduate Student,Student
+78,Faculty,Faculty/Staff
+78,Staff,Faculty/Staff
+78,KCPA Staff,Faculty/Staff
+79,Staff,Faculty/Staff
+80,KCPA Staff,Other
+81,Staff,Faculty/Staff
+81,Community Member,Faculty/Staff
+81,Donor,Faculty/Staff
+82,Staff,Faculty/Staff
+82,Community Member,Faculty/Staff
+82,Visitor,Faculty/Staff
+83,Staff,Faculty/Staff
+84,Staff,Faculty/Staff
+85,Faculty,Faculty/Staff
+86,Staff,Faculty/Staff
+87,Faculty,Faculty/Staff
+88,Faculty,Faculty/Staff
+89,Faculty,Faculty/Staff
+90,Staff,Faculty/Staff
+91,Staff,Faculty/Staff
+91,Community Member,Faculty/Staff
+92,Staff,Faculty/Staff
+93,Staff,Faculty/Staff
+94,Staff,Faculty/Staff
+95,Graduate Student,Student
+96,Staff,Faculty/Staff
+97,Undergraduate Student,Student
+98,Staff,Faculty/Staff
+99,Community Member,Community
+100,Staff,Faculty/Staff
+100,Other,Faculty/Staff
+101,Visitor,Other
+102,Community Member,Community
+103,Community Member,Community
+104,Undergraduate Student,Student
+105,Undergraduate Student,Student
+106,Community Member,Community
+107,Graduate Student,Student
+108,Undergraduate Student,Student
+109,Staff,Faculty/Staff
+110,Graduate Student,Student
+110,Staff,Student
+110,Visitor,Student
+111,Community Member,Community
+112,Visitor,Other
+113,Faculty,Faculty/Staff
+113,Community Member,Faculty/Staff
+114,Community Member,Community
+114,Donor,Community
+115,Community Member,Community
+116,Staff,Faculty/Staff
+117,Faculty,Faculty/Staff
+118,Community Member,Community
+119,Community Member,Community
+120,Visitor,Other
+121,Visitor,Other
+122,Community Member,Community
+123,Community Member,Community
+124,Visitor,Other
+125,Staff,Faculty/Staff
+126,Community Member,Community
+127,Community Member,Community
+128,Undergraduate Student,Student
+129,Staff,Faculty/Staff
+130,Faculty,Faculty/Staff
+130,Community Member,Faculty/Staff
+130,Donor,Faculty/Staff
+131,Graduate Student,Student
+132,Donor,Other
+132,Visitor,Other
+133,Community Member,Community
+134,Visitor,Other
+135,Donor,Other
+136,Staff,Faculty/Staff
+136,Community Member,Faculty/Staff
+136,Donor,Faculty/Staff
+137,Community Member,Community
+137,Donor,Community
+138,Graduate Student,Student
+138,Community Member,Student
+138,Donor,Student
+138,Visitor,Student
+138,Other,Student
+139,Faculty,Faculty/Staff
+140,Community Member,Community
+140,Engagement Partner,Community
+141,Undergraduate Student,Student
+142,Staff,Faculty/Staff
+142,Community Member,Faculty/Staff
+143,Community Member,Community
+144,Visitor,Other
+145,Undergraduate Student,Student
+146,Visitor,Other
+147,Community Member,Community
+148,Donor,Other
+149,Visitor,Other
+150,Staff,Faculty/Staff
+151,Visitor,Other
+152,Staff,Faculty/Staff
+153,Faculty,Faculty/Staff
+154,Community Member,Community
+154,Donor,Community
+154,Visitor,Community
+155,Community Member,Community
+156,Visitor,Other
+157,Faculty,Faculty/Staff
+158,Faculty,Faculty/Staff
+158,Community Member,Faculty/Staff
+158,Donor,Faculty/Staff
+158,Visitor,Faculty/Staff
+159,Community Member,Community
+160,Visitor,Other
+161,Community Member,Community
+162,Faculty,Faculty/Staff
+163,Community Member,Community
+163,Donor,Community
+164,Graduate Student,Student
+165,Graduate Student,Student
+166,Community Member,Community
+167,Graduate Student,Student
+168,Graduate Student,Student
+168,Visitor,Student
+169,Staff,Faculty/Staff
+170,Graduate Student,Student
+171,Community Member,Community
+172,Visitor,Other
+173,Community Member,Community
+174,Community Member,Community
+175,Staff,Faculty/Staff
+176,Faculty,Faculty/Staff
+176,Visitor,Faculty/Staff
+177,Faculty,Faculty/Staff
+178,Community Member,Community
+178,Donor,Community
+178,Visitor,Community
+179,Staff,Faculty/Staff
+179,Community Member,Faculty/Staff
+179,Visitor,Faculty/Staff
+180,Staff,Faculty/Staff
+181,Staff,Faculty/Staff
+182,Community Member,Community
+183,Community Member,Community
+184,Visitor,Other
+185,Community Member,Community
+185,Donor,Community
+186,Community Member,Community
+186,Donor,Community
+187,Faculty,Faculty/Staff
+188,Visitor,Other
+189,Community Member,Community
+190,Community Member,Community
+191,Faculty,Faculty/Staff
+192,Community Member,Community
+192,Visitor,Community
+193,Staff,Faculty/Staff
+194,Community Member,Community
+195,Donor,Other
+196,Staff,Faculty/Staff
+196,Community Member,Faculty/Staff
+196,Visitor,Faculty/Staff
+197,Faculty,Faculty/Staff
+197,Community Member,Faculty/Staff
+197,Engagement Partner,Faculty/Staff
+197,Donor,Faculty/Staff
+198,Community Member,Community
+198,Donor,Community
+199,Faculty,Faculty/Staff
+200,Visitor,Other
+201,Visitor,Other
+202,Visitor,Other
+203,Community Member,Community
+204,Staff,Faculty/Staff
+205,Community Member,Community
+206,Community Member,Community
+207,Visitor,Other
+208,Donor,Other
+209,Other,Other
+210,Community Member,Community
+210,Donor,Community
+211,Visitor,Other
+212,Community Member,Community
+213,Visitor,Other
+214,Visitor,Other
+215,Staff,Faculty/Staff
+215,Community Member,Faculty/Staff
+215,Donor,Faculty/Staff
+215,Visitor,Faculty/Staff
+216,Community Member,Community
+216,Donor,Community
+217,Visitor,Other
+218,Visitor,Other
+219,Community Member,Community
+220,Community Member,Community
+221,Community Member,Community
+222,Community Member,Community
+222,Donor,Community
+223,Faculty,Faculty/Staff
+224,Community Member,Community
+225,Community Member,Community
+226,Undergraduate Student,Student
+227,Faculty,Faculty/Staff
+228,Other,Other
+229,Faculty,Faculty/Staff
+229,Community Member,Faculty/Staff
+229,Donor,Faculty/Staff
+229,Other,Faculty/Staff
+230,Staff,Faculty/Staff
+231,Visitor,Other
+232,Community Member,Community
+232,Donor,Community
+233,Community Member,Community
+234,Staff,Faculty/Staff
+235,Community Member,Community
+236,Undergraduate Student,Student
+236,Faculty,Student
+237,Community Member,Community
+238,Faculty,Faculty/Staff
+238,Staff,Faculty/Staff
+238,Donor,Faculty/Staff
+239,Faculty,Faculty/Staff
+240,Faculty,Faculty/Staff
+240,Community Member,Faculty/Staff
+240,Donor,Faculty/Staff
+241,Faculty,Faculty/Staff
+242,Community Member,Community
+242,Donor,Community
+243,Visitor,Other
+244,Community Member,Community
+244,Donor,Community
+244,Visitor,Community
+245,Community Member,Community
+245,Donor,Community
+246,Community Member,Community
+247,Community Member,Community
+248,Community Member,Community
+248,Donor,Community
+248,Other,Community
+249,Donor,Other
+250,Community Member,Community
+250,Donor,Community
+251,Community Member,Community
+251,Donor,Community
+252,Staff,Faculty/Staff
+253,Donor,Other
+253,Visitor,Other
+254,Community Member,Community
+255,Undergraduate Student,Student
+256,Undergraduate Student,Student
+257,Community Member,Community
+257,Visitor,Community
+258,Faculty,Faculty/Staff
+258,Community Member,Faculty/Staff
+258,Donor,Faculty/Staff
+258,Visitor,Faculty/Staff
+259,Visitor,Other
+260,Visitor,Other
+261,Community Member,Community
+262,Donor,Other
+263,Graduate Student,Student
+264,Community Member,Community
+265,Staff,Faculty/Staff
+266,Visitor,Other
+267,Undergraduate Student,Student
+268,Community Member,Community
+269,Community Member,Community
+270,Staff,Faculty/Staff
+270,Community Member,Faculty/Staff
+271,Graduate Student,Student
+272,Community Member,Community
+272,Donor,Community
+273,Community Member,Community
+273,Donor,Community
+273,Other,Community
+274,Visitor,Other
+275,Visitor,Other
+276,Community Member,Community
+277,Community Member,Community
+278,Staff,Faculty/Staff
+279,Undergraduate Student,Student
+279,Community Member,Student
+279,Visitor,Student
+280,Other,Other
+281,Community Member,Community
+282,Community Member,Community
+283,Community Member,Community
+283,Donor,Community
+284,Community Member,Community
+284,Donor,Community
+284,Visitor,Community
+285,Visitor,Other
+286,Donor,Other
+287,Community Member,Community
+288,Donor,Other
+289,Donor,Other
+289,Visitor,Other
+290,Undergraduate Student,Student
+291,Faculty,Faculty/Staff
+292,Community Member,Community
+293,Community Member,Community
+294,Community Member,Community
+294,Engagement Partner,Community
+294,Donor,Community
+295,Faculty,Faculty/Staff
+295,Donor,Faculty/Staff
+295,Visitor,Faculty/Staff
+296,Community Member,Community
+297,Community Member,Community
+298,Other,Other
+299,Community Member,Community
+299,Donor,Community
+300,Community Member,Community
+301,Community Member,Community
+302,Community Member,Community
+302,Visitor,Community
+303,Visitor,Other
+304,Undergraduate Student,Student
+305,Undergraduate Student,Student
+305,Community Member,Student
+305,Visitor,Student
+306,Community Member,Community
+306,Other,Community
+307,Community Member,Community
+307,Visitor,Community
+308,Visitor,Other
+310,Community Member,Community
+311,Community Member,Community
+312,Faculty,Faculty/Staff
+313,Community Member,Community
+314,Visitor,Other
+315,Other,Other
+316,Community Member,Community
+317,Visitor,Other
+318,Visitor,Other
+319,Community Member,Community
+319,Donor,Community
+320,Visitor,Other
+321,Community Member,Community
+322,Community Member,Community
+323,Community Member,Community
+323,Visitor,Community
+323,Other,Community
+324,Visitor,Other
+325,Staff,Faculty/Staff
+325,Community Member,Faculty/Staff
+326,Donor,Other
+326,Visitor,Other
+327,Community Member,Community
+328,Community Member,Community
+329,Community Member,Community
+330,Community Member,Community
+331,Visitor,Other
+332,Community Member,Community
+332,Donor,Community
+333,Community Member,Community
+334,Community Member,Community
+335,Community Member,Community
+335,Donor,Community
+336,Visitor,Other
+337,Graduate Student,Student
+338,Visitor,Other
+339,Community Member,Community
+340,Faculty,Faculty/Staff
+341,Community Member,Community
+341,Visitor,Community
+342,Community Member,Community
+343,Visitor,Other
+344,Community Member,Community
+345,Faculty,Faculty/Staff
+346,Visitor,Other
+347,Community Member,Community
+348,Community Member,Community
+348,Donor,Community
+348,Visitor,Community
+349,Undergraduate Student,Student
+350,Staff,Faculty/Staff
+351,Faculty,Faculty/Staff
+351,Community Member,Faculty/Staff
+352,Undergraduate Student,Student
+352,Community Member,Student
+353,Community Member,Community
+354,Visitor,Other
+355,Community Member,Community
+356,Community Member,Community
+357,Faculty,Faculty/Staff
+357,Community Member,Faculty/Staff
+358,Community Member,Community
+358,Visitor,Community
+359,Visitor,Other
+360,Community Member,Community
+361,Community Member,Community
+361,Donor,Community
+361,Visitor,Community
+362,Visitor,Other
+363,Undergraduate Student,Student
+364,Community Member,Community
+365,Community Member,Community
+366,Community Member,Community
+367,Community Member,Community
+368,Graduate Student,Student
+369,Faculty,Faculty/Staff
+370,Faculty,Faculty/Staff
+370,Donor,Faculty/Staff
+371,Faculty,Faculty/Staff
+372,Graduate Student,Student
+373,Community Member,Community
+373,Donor,Community
+374,Visitor,Other
+375,Undergraduate Student,Student
+376,Faculty,Faculty/Staff
+377,Staff,Faculty/Staff
+377,Community Member,Faculty/Staff
+377,Visitor,Faculty/Staff
+378,Community Member,Community
+378,Donor,Community
+379,Faculty,Faculty/Staff
+380,Community Member,Community
+381,Community Member,Community
+381,Visitor,Community
+382,Community Member,Community
+382,Donor,Community
+383,Community Member,Community
+383,Visitor,Community
+384,Community Member,Community
+384,Donor,Community
+385,Donor,Other
+386,Community Member,Community
+386,Donor,Community
+387,Other,Other
+388,Community Member,Community
+389,Community Member,Community
+389,Donor,Community
+390,Visitor,Other
+391,Visitor,Other
+392,Community Member,Community
+393,Visitor,Other
+394,Staff,Faculty/Staff
+394,Community Member,Faculty/Staff
+394,Engagement Partner,Faculty/Staff
+394,Donor,Faculty/Staff
+395,Community Member,Community
+396,Community Member,Community
+396,Donor,Community
+397,Staff,Faculty/Staff
+397,Donor,Faculty/Staff
+397,Other,Faculty/Staff
+398,Faculty,Faculty/Staff
+399,Graduate Student,Student
+400,Community Member,Community
+401,Undergraduate Student,Student
+402,Faculty,Faculty/Staff
+403,Staff,Faculty/Staff
+403,Community Member,Faculty/Staff
+404,Community Member,Community
+404,Visitor,Community
+405,Donor,Other
+405,Visitor,Other
+406,Undergraduate Student,Student
+407,Other,Other
+408,Visitor,Other
+409,Visitor,Other
+410,Community Member,Community
+411,Community Member,Community
+412,Community Member,Community
+412,Donor,Community
+412,Visitor,Community
+413,Community Member,Community
+414,Visitor,Other
+415,Visitor,Other
+416,Staff,Faculty/Staff
+417,Community Member,Community
+418,Visitor,Other
+419,Community Member,Community
+420,Visitor,Other
+421,Staff,Faculty/Staff
+422,Community Member,Community
+422,Other,Community
+423,Community Member,Community
+424,Visitor,Other
+425,Donor,Other
+425,Other,Other
+426,Undergraduate Student,Student
+427,Undergraduate Student,Student
+428,Faculty,Faculty/Staff
+429,Donor,Other
+430,Faculty,Faculty/Staff
+431,Community Member,Community
+432,Community Member,Community
+433,Community Member,Community
+433,Donor,Community
+434,Undergraduate Student,Student
+435,Donor,Other
+436,Graduate Student,Student
+437,Faculty,Faculty/Staff
+438,Community Member,Community
+439,Community Member,Community
+439,Other,Community
+441,Community Member,Community
+442,Community Member,Community
+443,Community Member,Community
+444,Community Member,Community
+445,Graduate Student,Student
+446,Community Member,Community
+447,Community Member,Community
+447,Donor,Community
+448,Faculty,Faculty/Staff
+449,Undergraduate Student,Student
+450,Graduate Student,Student
+450,Faculty,Student
+450,Staff,Student
+451,Staff,Faculty/Staff
+452,Staff,Faculty/Staff
+453,Community Member,Community
+454,Faculty,Faculty/Staff
+455,Community Member,Community
+457,Visitor,Other
+458,Graduate Student,Student
+459,Graduate Student,Student
+460,Visitor,Other
+461,Staff,Faculty/Staff
+462,Undergraduate Student,Student
+463,Community Member,Community
+464,Community Member,Community
+465,Staff,Faculty/Staff
+465,Donor,Faculty/Staff
+465,Visitor,Faculty/Staff
+466,Faculty,Faculty/Staff
+466,Community Member,Faculty/Staff
+467,Visitor,Other
+468,Visitor,Other
+469,Undergraduate Student,Student
+470,Staff,Faculty/Staff
+470,Engagement Partner,Faculty/Staff
+470,Donor,Faculty/Staff
+471,Community Member,Community
+472,Other,Other
+473,Graduate Student,Student
+474,Community Member,Community
+474,Donor,Community
+475,Visitor,Other
+476,Community Member,Community
+477,Community Member,Community
+477,Donor,Community
+478,Visitor,Other
+478,Other,Other
+479,Community Member,Community
+480,Staff,Faculty/Staff
+481,Faculty,Faculty/Staff
+482,Undergraduate Student,Student
+482,Graduate Student,Student
+482,Faculty,Student
+482,Community Member,Student
+482,Visitor,Student
+483,Visitor,Other
+484,Visitor,Other
+485,Faculty,Faculty/Staff
+485,Community Member,Faculty/Staff
+485,Donor,Faculty/Staff
+486,Undergraduate Student,Student
+486,Staff,Student
+487,Community Member,Community
+487,Visitor,Community
+488,Visitor,Other
+489,Faculty,Faculty/Staff
+490,Graduate Student,Student
+491,Community Member,Community
+492,Undergraduate Student,Student
+492,Visitor,Student
+493,Visitor,Other
+494,Visitor,Other
+495,Donor,Other
+496,Graduate Student,Student
+497,Community Member,Community
+497,Donor,Community
+497,Other,Community
+498,Community Member,Community
+498,Engagement Partner,Community
+498,Donor,Community
+498,Other,Community
+499,Community Member,Community
+500,Staff,Faculty/Staff
+500,Community Member,Faculty/Staff
+501,Staff,Faculty/Staff
+502,Staff,Faculty/Staff
+503,Community Member,Community
+504,Community Member,Community
+505,Graduate Student,Student
+506,Community Member,Community
+507,Community Member,Community
+508,Other,Other
+509,Community Member,Community
+510,Faculty,Faculty/Staff
+510,Community Member,Faculty/Staff
+511,Visitor,Other
+512,Community Member,Community
+513,Community Member,Community
+514,Community Member,Community
+514,Donor,Community
+515,Visitor,Other
+516,Faculty,Faculty/Staff
+517,Community Member,Community
+517,Donor,Community
+518,Community Member,Community
+519,Faculty,Faculty/Staff
+520,Faculty,Faculty/Staff
+520,Visitor,Faculty/Staff
+521,Visitor,Other
+522,Community Member,Community
+523,Community Member,Community
+524,Community Member,Community
+524,Donor,Community
+525,Engagement Partner,Other
+525,Donor,Other
+526,Undergraduate Student,Student
+527,Community Member,Community
+528,Graduate Student,Student
+529,Staff,Faculty/Staff
+530,Visitor,Other
+531,Community Member,Community
+532,Community Member,Community
+533,Community Member,Community
+534,Community Member,Community
+534,Donor,Community
+536,Community Member,Community
+537,Community Member,Community
+538,Community Member,Community
+539,Donor,Other
+540,Staff,Faculty/Staff
+540,Community Member,Faculty/Staff
+540,Visitor,Faculty/Staff
+541,Staff,Faculty/Staff
+542,Community Member,Community
+543,Faculty,Faculty/Staff
+543,Staff,Faculty/Staff
+544,Undergraduate Student,Student
+545,Community Member,Community
+546,Visitor,Other
+547,Undergraduate Student,Student
+548,Community Member,Community
+548,Donor,Community
+549,Community Member,Community
+550,Undergraduate Student,Student
+551,Staff,Faculty/Staff
+552,Donor,Other
+553,Community Member,Community
+554,Faculty,Faculty/Staff
+554,Community Member,Faculty/Staff
+554,Donor,Faculty/Staff
+555,Community Member,Community
+556,Community Member,Community
+556,Donor,Community
+557,Community Member,Community
+559,Community Member,Community
+559,Donor,Community
+560,Community Member,Community
+561,Faculty,Faculty/Staff
+561,Donor,Faculty/Staff
+562,Faculty,Faculty/Staff
+562,Community Member,Faculty/Staff
+562,Donor,Faculty/Staff
+563,Donor,Other
+563,Visitor,Other
+563,Other,Other
+564,Community Member,Community
+564,Donor,Community
+564,Visitor,Community
+565,Staff,Faculty/Staff
+565,Community Member,Faculty/Staff
+565,Visitor,Faculty/Staff
+566,Graduate Student,Student
+566,Staff,Student
+566,KCPA Staff,Student
+566,Donor,Student
+567,Staff,Faculty/Staff
+567,Community Member,Faculty/Staff
+567,Visitor,Faculty/Staff
+568,Community Member,Community
+568,Visitor,Community
+569,Community Member,Community
+570,Community Member,Community
+571,Staff,Faculty/Staff

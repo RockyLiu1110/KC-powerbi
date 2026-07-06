@@ -1,0 +1,14 @@
+﻿KPI_Name,Value,Target,Format,Category
+Overall Belonging Score (1-5),3.7,5.0,Gauge,Belonging
+Representation Score (1-5),3.8,5.0,Gauge,Belonging
+Cultural Affirmation Score (1-5),3.89,5.0,Gauge,Belonging
+NPS (Net Promoter Score),77.6,50.0,NPS,NPS
+Overall NPS Mean (1-10),9.4,10.0,Gauge,NPS
+% Know Accessibility Navigation,36.9,80.0,Percentage,Accessibility
+Accessibility Rating (1-5),4.11,5.0,Gauge,Accessibility
+Staff Welcoming Score (1-5),4.34,5.0,Gauge,Service
+Mobile Ticket Ease (1-5),4.35,5.0,Gauge,Service
+Patron Services Satisfaction (1-5),4.32,5.0,Gauge,Service
+Engagement Score (1-5),4.09,5.0,Gauge,Engagement
+Communication Effectiveness (1-5),3.73,5.0,Gauge,Engagement
+Workshop Participation Rate,18.8,50.0,Percentage,Engagement

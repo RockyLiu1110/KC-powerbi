@@ -1,0 +1,1800 @@
+﻿record_id,attend_reason,audience_segment
+2,Atmosphere/ambiance,Student
+3,Quality of performances,Student
+3,Convenient location,Student
+3,Atmosphere/ambiance,Student
+7,Quality of performances,Student
+7,Variety of programming,Student
+7,Convenient location,Student
+7,Community engagement,Student
+8,Quality of performances,Faculty/Staff
+8,Convenient location,Faculty/Staff
+8,Atmosphere/ambiance,Faculty/Staff
+9,Quality of performances,Student
+9,Variety of programming,Student
+9,Atmosphere/ambiance,Student
+10,Quality of performances,Faculty/Staff
+10,Convenient location,Faculty/Staff
+10,Atmosphere/ambiance,Faculty/Staff
+10,Community engagement,Faculty/Staff
+11,Atmosphere/ambiance,Faculty/Staff
+12,Quality of performances,Community
+12,Convenient location,Community
+13,Quality of performances,Faculty/Staff
+13,Convenient location,Faculty/Staff
+13,Atmosphere/ambiance,Faculty/Staff
+14,Quality of performances,Other
+14,Variety of programming,Other
+15,Quality of performances,Other
+15,Convenient location,Other
+15,Community engagement,Other
+16,Quality of performances,Faculty/Staff
+16,Convenient location,Faculty/Staff
+16,Community engagement,Faculty/Staff
+17,Quality of performances,Student
+17,Variety of programming,Student
+17,Convenient location,Student
+17,Community engagement,Student
+18,Quality of performances,Community
+18,Variety of programming,Community
+18,Convenient location,Community
+18,Atmosphere/ambiance,Community
+18,Community engagement,Community
+19,Quality of performances,Faculty/Staff
+19,Atmosphere/ambiance,Faculty/Staff
+19,Social connection,Faculty/Staff
+19,Learning/education,Faculty/Staff
+19,Community engagement,Faculty/Staff
+20,Quality of performances,Faculty/Staff
+20,Community engagement,Faculty/Staff
+21,Quality of performances,Student
+22,Quality of performances,Faculty/Staff
+22,Community engagement,Faculty/Staff
+23,Quality of performances,Faculty/Staff
+23,Convenient location,Faculty/Staff
+23,Social connection,Faculty/Staff
+23,Community engagement,Faculty/Staff
+24,Quality of performances,Faculty/Staff
+24,Atmosphere/ambiance,Faculty/Staff
+25,Quality of performances,Faculty/Staff
+25,Variety of programming,Faculty/Staff
+25,Convenient location,Faculty/Staff
+25,Atmosphere/ambiance,Faculty/Staff
+25,Community engagement,Faculty/Staff
+26,Quality of performances,Faculty/Staff
+26,Variety of programming,Faculty/Staff
+26,Convenient location,Faculty/Staff
+26,Atmosphere/ambiance,Faculty/Staff
+26,Social connection,Faculty/Staff
+26,Community engagement,Faculty/Staff
+27,Quality of performances,Faculty/Staff
+27,Convenient location,Faculty/Staff
+27,Atmosphere/ambiance,Faculty/Staff
+27,Community engagement,Faculty/Staff
+28,Affordable price,Student
+29,Quality of performances,Student
+29,Convenient location,Student
+29,Community engagement,Student
+30,Quality of performances,Faculty/Staff
+30,Convenient location,Faculty/Staff
+31,Quality of performances,Faculty/Staff
+31,Convenient location,Faculty/Staff
+31,Community engagement,Faculty/Staff
+33,Quality of performances,Faculty/Staff
+33,Variety of programming,Faculty/Staff
+33,Convenient location,Faculty/Staff
+33,Atmosphere/ambiance,Faculty/Staff
+33,Community engagement,Faculty/Staff
+34,Quality of performances,Faculty/Staff
+34,Variety of programming,Faculty/Staff
+34,Convenient location,Faculty/Staff
+34,Atmosphere/ambiance,Faculty/Staff
+34,Social connection,Faculty/Staff
+34,Learning/education,Faculty/Staff
+34,Community engagement,Faculty/Staff
+35,Quality of performances,Faculty/Staff
+35,Variety of programming,Faculty/Staff
+35,Convenient location,Faculty/Staff
+35,Atmosphere/ambiance,Faculty/Staff
+35,Social connection,Faculty/Staff
+35,Community engagement,Faculty/Staff
+36,Quality of performances,Faculty/Staff
+36,Atmosphere/ambiance,Faculty/Staff
+36,Social connection,Faculty/Staff
+36,Community engagement,Faculty/Staff
+37,Quality of performances,Faculty/Staff
+37,Variety of programming,Faculty/Staff
+37,Convenient location,Faculty/Staff
+38,Quality of performances,Faculty/Staff
+38,Convenient location,Faculty/Staff
+38,Atmosphere/ambiance,Faculty/Staff
+38,Social connection,Faculty/Staff
+38,Community engagement,Faculty/Staff
+39,Quality of performances,Faculty/Staff
+39,Atmosphere/ambiance,Faculty/Staff
+40,Quality of performances,Faculty/Staff
+40,Convenient location,Faculty/Staff
+40,Atmosphere/ambiance,Faculty/Staff
+40,Social connection,Faculty/Staff
+40,Community engagement,Faculty/Staff
+41,Quality of performances,Faculty/Staff
+41,Convenient location,Faculty/Staff
+41,Atmosphere/ambiance,Faculty/Staff
+42,Quality of performances,Faculty/Staff
+42,Variety of programming,Faculty/Staff
+42,Convenient location,Faculty/Staff
+42,Community engagement,Faculty/Staff
+43,Quality of performances,Faculty/Staff
+43,Variety of programming,Faculty/Staff
+43,Convenient location,Faculty/Staff
+43,Social connection,Faculty/Staff
+43,Community engagement,Faculty/Staff
+45,Quality of performances,Faculty/Staff
+45,Variety of programming,Faculty/Staff
+45,Convenient location,Faculty/Staff
+45,Social connection,Faculty/Staff
+45,Community engagement,Faculty/Staff
+46,Quality of performances,Faculty/Staff
+46,Community engagement,Faculty/Staff
+47,Quality of performances,Faculty/Staff
+47,Community engagement,Faculty/Staff
+48,Quality of performances,Faculty/Staff
+48,Convenient location,Faculty/Staff
+49,Quality of performances,Faculty/Staff
+49,Convenient location,Faculty/Staff
+50,Quality of performances,Faculty/Staff
+50,Variety of programming,Faculty/Staff
+50,Convenient location,Faculty/Staff
+50,Atmosphere/ambiance,Faculty/Staff
+50,Social connection,Faculty/Staff
+50,Community engagement,Faculty/Staff
+51,Quality of performances,Student
+51,Variety of programming,Student
+51,Convenient location,Student
+51,Atmosphere/ambiance,Student
+51,Social connection,Student
+51,Community engagement,Student
+52,Quality of performances,Faculty/Staff
+52,Variety of programming,Faculty/Staff
+52,Convenient location,Faculty/Staff
+52,Atmosphere/ambiance,Faculty/Staff
+52,Community engagement,Faculty/Staff
+53,Quality of performances,Other
+53,Convenient location,Other
+53,Atmosphere/ambiance,Other
+53,Social connection,Other
+53,Learning/education,Other
+53,Community engagement,Other
+54,Quality of performances,Faculty/Staff
+54,Convenient location,Faculty/Staff
+54,Atmosphere/ambiance,Faculty/Staff
+54,Community engagement,Faculty/Staff
+56,Quality of performances,Other
+56,Variety of programming,Other
+56,Convenient location,Other
+56,Social connection,Other
+56,Community engagement,Other
+57,Quality of performances,Faculty/Staff
+57,Social connection,Faculty/Staff
+58,Quality of performances,Faculty/Staff
+58,Variety of programming,Faculty/Staff
+58,Convenient location,Faculty/Staff
+58,Atmosphere/ambiance,Faculty/Staff
+58,Social connection,Faculty/Staff
+59,Quality of performances,Faculty/Staff
+59,Variety of programming,Faculty/Staff
+59,Convenient location,Faculty/Staff
+59,Community engagement,Faculty/Staff
+60,Quality of performances,Other
+60,Variety of programming,Other
+60,Convenient location,Other
+60,Atmosphere/ambiance,Other
+60,Community engagement,Other
+61,Quality of performances,Faculty/Staff
+61,Variety of programming,Faculty/Staff
+61,Convenient location,Faculty/Staff
+61,Community engagement,Faculty/Staff
+62,Quality of performances,Faculty/Staff
+62,Community engagement,Faculty/Staff
+63,Quality of performances,Faculty/Staff
+63,Convenient location,Faculty/Staff
+64,Quality of performances,Faculty/Staff
+65,Quality of performances,Faculty/Staff
+65,Convenient location,Faculty/Staff
+65,Community engagement,Faculty/Staff
+66,Quality of performances,Faculty/Staff
+66,Community engagement,Faculty/Staff
+67,Quality of performances,Student
+67,Convenient location,Student
+67,Atmosphere/ambiance,Student
+67,Community engagement,Student
+68,Quality of performances,Faculty/Staff
+69,Quality of performances,Community
+70,Quality of performances,Faculty/Staff
+70,Variety of programming,Faculty/Staff
+70,Convenient location,Faculty/Staff
+71,Convenient location,Faculty/Staff
+72,Quality of performances,Faculty/Staff
+72,Variety of programming,Faculty/Staff
+72,Convenient location,Faculty/Staff
+72,Atmosphere/ambiance,Faculty/Staff
+72,Social connection,Faculty/Staff
+72,Learning/education,Faculty/Staff
+72,Community engagement,Faculty/Staff
+73,Quality of performances,Faculty/Staff
+73,Convenient location,Faculty/Staff
+73,Social connection,Faculty/Staff
+73,Community engagement,Faculty/Staff
+74,Atmosphere/ambiance,Student
+75,Quality of performances,Faculty/Staff
+75,Variety of programming,Faculty/Staff
+75,Convenient location,Faculty/Staff
+76,Quality of performances,Student
+76,Convenient location,Student
+76,Community engagement,Student
+77,Quality of performances,Student
+77,Variety of programming,Student
+77,Community engagement,Student
+78,Quality of performances,Faculty/Staff
+78,Convenient location,Faculty/Staff
+78,Atmosphere/ambiance,Faculty/Staff
+78,Community engagement,Faculty/Staff
+80,Quality of performances,Other
+80,Atmosphere/ambiance,Other
+81,Quality of performances,Faculty/Staff
+81,Variety of programming,Faculty/Staff
+81,Convenient location,Faculty/Staff
+81,Atmosphere/ambiance,Faculty/Staff
+81,Social connection,Faculty/Staff
+81,Learning/education,Faculty/Staff
+81,Community engagement,Faculty/Staff
+82,Quality of performances,Faculty/Staff
+82,Convenient location,Faculty/Staff
+82,Community engagement,Faculty/Staff
+83,Quality of performances,Faculty/Staff
+83,Social connection,Faculty/Staff
+83,Community engagement,Faculty/Staff
+84,Quality of performances,Faculty/Staff
+84,Variety of programming,Faculty/Staff
+84,Atmosphere/ambiance,Faculty/Staff
+84,Community engagement,Faculty/Staff
+85,Quality of performances,Faculty/Staff
+85,Convenient location,Faculty/Staff
+85,Atmosphere/ambiance,Faculty/Staff
+85,Community engagement,Faculty/Staff
+86,Quality of performances,Faculty/Staff
+86,Convenient location,Faculty/Staff
+86,Atmosphere/ambiance,Faculty/Staff
+86,Community engagement,Faculty/Staff
+87,Quality of performances,Faculty/Staff
+87,Convenient location,Faculty/Staff
+87,Atmosphere/ambiance,Faculty/Staff
+88,Quality of performances,Faculty/Staff
+88,Convenient location,Faculty/Staff
+88,Atmosphere/ambiance,Faculty/Staff
+88,Community engagement,Faculty/Staff
+89,Quality of performances,Faculty/Staff
+89,Convenient location,Faculty/Staff
+89,Community engagement,Faculty/Staff
+91,Quality of performances,Faculty/Staff
+91,Variety of programming,Faculty/Staff
+91,Convenient location,Faculty/Staff
+91,Atmosphere/ambiance,Faculty/Staff
+91,Social connection,Faculty/Staff
+91,Community engagement,Faculty/Staff
+92,Quality of performances,Faculty/Staff
+92,Variety of programming,Faculty/Staff
+92,Convenient location,Faculty/Staff
+92,Atmosphere/ambiance,Faculty/Staff
+92,Social connection,Faculty/Staff
+92,Community engagement,Faculty/Staff
+93,Quality of performances,Faculty/Staff
+93,Convenient location,Faculty/Staff
+93,Atmosphere/ambiance,Faculty/Staff
+93,Community engagement,Faculty/Staff
+94,Atmosphere/ambiance,Faculty/Staff
+94,Social connection,Faculty/Staff
+94,Community engagement,Faculty/Staff
+95,Quality of performances,Student
+95,Variety of programming,Student
+95,Convenient location,Student
+95,Community engagement,Student
+96,Quality of performances,Faculty/Staff
+96,Variety of programming,Faculty/Staff
+96,Social connection,Faculty/Staff
+96,Community engagement,Faculty/Staff
+98,Quality of performances,Faculty/Staff
+98,Convenient location,Faculty/Staff
+98,Atmosphere/ambiance,Faculty/Staff
+99,Quality of performances,Community
+99,Convenient location,Community
+99,Atmosphere/ambiance,Community
+99,Social connection,Community
+100,Quality of performances,Faculty/Staff
+100,Convenient location,Faculty/Staff
+100,Community engagement,Faculty/Staff
+101,Quality of performances,Other
+101,Convenient location,Other
+101,Community engagement,Other
+102,Quality of performances,Community
+102,Convenient location,Community
+102,Community engagement,Community
+103,Quality of performances,Community
+103,Convenient location,Community
+103,Community engagement,Community
+104,Quality of performances,Student
+104,Convenient location,Student
+104,Atmosphere/ambiance,Student
+105,Quality of performances,Student
+105,Affordable price,Student
+105,Atmosphere/ambiance,Student
+106,Quality of performances,Community
+106,Convenient location,Community
+106,Atmosphere/ambiance,Community
+107,Quality of performances,Student
+107,Variety of programming,Student
+108,Quality of performances,Student
+108,Convenient location,Student
+108,Atmosphere/ambiance,Student
+109,Quality of performances,Faculty/Staff
+109,Variety of programming,Faculty/Staff
+109,Convenient location,Faculty/Staff
+109,Community engagement,Faculty/Staff
+109,Other,Faculty/Staff
+110,Quality of performances,Student
+110,Convenient location,Student
+110,Atmosphere/ambiance,Student
+111,Quality of performances,Community
+112,Convenient location,Other
+112,Atmosphere/ambiance,Other
+113,Quality of performances,Faculty/Staff
+113,Variety of programming,Faculty/Staff
+113,Convenient location,Faculty/Staff
+113,Community engagement,Faculty/Staff
+114,Quality of performances,Community
+114,Convenient location,Community
+114,Atmosphere/ambiance,Community
+114,Community engagement,Community
+115,Quality of performances,Community
+116,Quality of performances,Faculty/Staff
+116,Community engagement,Faculty/Staff
+117,Quality of performances,Faculty/Staff
+117,Convenient location,Faculty/Staff
+117,Atmosphere/ambiance,Faculty/Staff
+118,Convenient location,Community
+118,Community engagement,Community
+119,Quality of performances,Community
+119,Variety of programming,Community
+119,Convenient location,Community
+119,Atmosphere/ambiance,Community
+119,Social connection,Community
+119,Community engagement,Community
+120,Quality of performances,Other
+120,Variety of programming,Other
+120,Convenient location,Other
+120,Community engagement,Other
+121,Quality of performances,Other
+121,Atmosphere/ambiance,Other
+121,Community engagement,Other
+122,Quality of performances,Community
+123,Quality of performances,Community
+123,Convenient location,Community
+123,Atmosphere/ambiance,Community
+124,Quality of performances,Other
+124,Community engagement,Other
+125,Convenient location,Faculty/Staff
+126,Quality of performances,Community
+126,Convenient location,Community
+126,Community engagement,Community
+127,Quality of performances,Community
+127,Social connection,Community
+127,Learning/education,Community
+127,Community engagement,Community
+128,Quality of performances,Student
+128,Variety of programming,Student
+128,Affordable price,Student
+128,Convenient location,Student
+128,Community engagement,Student
+129,Quality of performances,Faculty/Staff
+129,Convenient location,Faculty/Staff
+130,Quality of performances,Faculty/Staff
+130,Convenient location,Faculty/Staff
+130,Community engagement,Faculty/Staff
+131,Quality of performances,Student
+131,Variety of programming,Student
+131,Convenient location,Student
+132,Quality of performances,Other
+132,Convenient location,Other
+132,Social connection,Other
+133,Quality of performances,Community
+133,Convenient location,Community
+133,Community engagement,Community
+134,Quality of performances,Other
+134,Variety of programming,Other
+134,Convenient location,Other
+135,Quality of performances,Other
+135,Convenient location,Other
+135,Learning/education,Other
+136,Quality of performances,Faculty/Staff
+136,Convenient location,Faculty/Staff
+137,Quality of performances,Community
+137,Convenient location,Community
+138,Quality of performances,Student
+138,Convenient location,Student
+138,Atmosphere/ambiance,Student
+138,Community engagement,Student
+139,Community engagement,Faculty/Staff
+140,Quality of performances,Community
+140,Community engagement,Community
+142,Quality of performances,Faculty/Staff
+142,Variety of programming,Faculty/Staff
+142,Atmosphere/ambiance,Faculty/Staff
+143,Quality of performances,Community
+143,Variety of programming,Community
+143,Convenient location,Community
+144,Quality of performances,Other
+144,Convenient location,Other
+144,Atmosphere/ambiance,Other
+145,Quality of performances,Student
+145,Affordable price,Student
+145,Atmosphere/ambiance,Student
+146,Convenient location,Other
+147,Quality of performances,Community
+147,Convenient location,Community
+148,Quality of performances,Other
+148,Convenient location,Other
+148,Atmosphere/ambiance,Other
+148,Community engagement,Other
+149,Quality of performances,Other
+149,Variety of programming,Other
+150,Quality of performances,Faculty/Staff
+150,Convenient location,Faculty/Staff
+150,Community engagement,Faculty/Staff
+151,Convenient location,Other
+151,Community engagement,Other
+152,Quality of performances,Faculty/Staff
+152,Variety of programming,Faculty/Staff
+152,Convenient location,Faculty/Staff
+152,Community engagement,Faculty/Staff
+153,Quality of performances,Faculty/Staff
+153,Variety of programming,Faculty/Staff
+153,Convenient location,Faculty/Staff
+153,Atmosphere/ambiance,Faculty/Staff
+153,Social connection,Faculty/Staff
+153,Community engagement,Faculty/Staff
+154,Quality of performances,Community
+154,Convenient location,Community
+155,Quality of performances,Community
+155,Convenient location,Community
+155,Social connection,Community
+155,Community engagement,Community
+156,Quality of performances,Other
+156,Convenient location,Other
+157,Quality of performances,Faculty/Staff
+157,Variety of programming,Faculty/Staff
+157,Convenient location,Faculty/Staff
+158,Quality of performances,Faculty/Staff
+158,Convenient location,Faculty/Staff
+159,Quality of performances,Community
+160,Quality of performances,Other
+160,Convenient location,Other
+160,Atmosphere/ambiance,Other
+160,Social connection,Other
+161,Quality of performances,Community
+161,Variety of programming,Community
+161,Convenient location,Community
+161,Community engagement,Community
+162,Quality of performances,Faculty/Staff
+162,Convenient location,Faculty/Staff
+162,Community engagement,Faculty/Staff
+163,Quality of performances,Community
+163,Convenient location,Community
+163,Atmosphere/ambiance,Community
+163,Social connection,Community
+163,Learning/education,Community
+163,Community engagement,Community
+164,Quality of performances,Student
+164,Variety of programming,Student
+164,Convenient location,Student
+164,Atmosphere/ambiance,Student
+164,Community engagement,Student
+165,Quality of performances,Student
+165,Variety of programming,Student
+165,Convenient location,Student
+165,Community engagement,Student
+166,Quality of performances,Community
+166,Convenient location,Community
+166,Community engagement,Community
+167,Quality of performances,Student
+167,Atmosphere/ambiance,Student
+167,Community engagement,Student
+168,Quality of performances,Student
+168,Variety of programming,Student
+168,Convenient location,Student
+168,Community engagement,Student
+169,Quality of performances,Faculty/Staff
+169,Variety of programming,Faculty/Staff
+169,Convenient location,Faculty/Staff
+169,Community engagement,Faculty/Staff
+170,Quality of performances,Student
+170,Convenient location,Student
+171,Quality of performances,Community
+171,Variety of programming,Community
+171,Convenient location,Community
+172,Quality of performances,Other
+172,Convenient location,Other
+173,Quality of performances,Community
+173,Convenient location,Community
+174,Quality of performances,Community
+174,Convenient location,Community
+174,Community engagement,Community
+175,Quality of performances,Faculty/Staff
+175,Convenient location,Faculty/Staff
+175,Atmosphere/ambiance,Faculty/Staff
+175,Community engagement,Faculty/Staff
+176,Quality of performances,Faculty/Staff
+176,Convenient location,Faculty/Staff
+177,Quality of performances,Faculty/Staff
+177,Convenient location,Faculty/Staff
+177,Atmosphere/ambiance,Faculty/Staff
+177,Community engagement,Faculty/Staff
+178,Quality of performances,Community
+178,Variety of programming,Community
+178,Convenient location,Community
+178,Atmosphere/ambiance,Community
+178,Social connection,Community
+178,Learning/education,Community
+178,Community engagement,Community
+179,Quality of performances,Faculty/Staff
+179,Convenient location,Faculty/Staff
+179,Atmosphere/ambiance,Faculty/Staff
+180,Quality of performances,Faculty/Staff
+180,Convenient location,Faculty/Staff
+180,Atmosphere/ambiance,Faculty/Staff
+180,Social connection,Faculty/Staff
+180,Community engagement,Faculty/Staff
+181,Quality of performances,Faculty/Staff
+181,Convenient location,Faculty/Staff
+182,Quality of performances,Community
+182,Convenient location,Community
+182,Community engagement,Community
+183,Quality of performances,Community
+183,Convenient location,Community
+184,Quality of performances,Other
+184,Variety of programming,Other
+184,Social connection,Other
+185,Quality of performances,Community
+185,Variety of programming,Community
+185,Convenient location,Community
+185,Atmosphere/ambiance,Community
+185,Social connection,Community
+185,Community engagement,Community
+186,Quality of performances,Community
+186,Affordable price,Community
+186,Community engagement,Community
+187,Quality of performances,Faculty/Staff
+187,Variety of programming,Faculty/Staff
+187,Convenient location,Faculty/Staff
+187,Atmosphere/ambiance,Faculty/Staff
+187,Community engagement,Faculty/Staff
+188,Quality of performances,Other
+188,Variety of programming,Other
+188,Convenient location,Other
+188,Community engagement,Other
+189,Quality of performances,Community
+189,Convenient location,Community
+189,Community engagement,Community
+190,Quality of performances,Community
+191,Quality of performances,Faculty/Staff
+192,Quality of performances,Community
+192,Convenient location,Community
+192,Community engagement,Community
+193,Quality of performances,Faculty/Staff
+193,Variety of programming,Faculty/Staff
+193,Community engagement,Faculty/Staff
+194,Quality of performances,Community
+194,Convenient location,Community
+195,Quality of performances,Other
+195,Convenient location,Other
+195,Community engagement,Other
+196,Quality of performances,Faculty/Staff
+196,Variety of programming,Faculty/Staff
+196,Convenient location,Faculty/Staff
+196,Atmosphere/ambiance,Faculty/Staff
+196,Social connection,Faculty/Staff
+196,Community engagement,Faculty/Staff
+197,Quality of performances,Faculty/Staff
+197,Convenient location,Faculty/Staff
+197,Community engagement,Faculty/Staff
+198,Quality of performances,Community
+198,Convenient location,Community
+199,Quality of performances,Faculty/Staff
+200,Quality of performances,Other
+200,Variety of programming,Other
+200,Convenient location,Other
+200,Atmosphere/ambiance,Other
+200,Community engagement,Other
+201,Quality of performances,Other
+201,Convenient location,Other
+202,Atmosphere/ambiance,Other
+203,Quality of performances,Community
+203,Variety of programming,Community
+203,Convenient location,Community
+203,Community engagement,Community
+204,Quality of performances,Faculty/Staff
+204,Variety of programming,Faculty/Staff
+204,Convenient location,Faculty/Staff
+204,Atmosphere/ambiance,Faculty/Staff
+205,Quality of performances,Community
+206,Quality of performances,Community
+206,Convenient location,Community
+206,Social connection,Community
+206,Community engagement,Community
+207,Quality of performances,Other
+207,Convenient location,Other
+207,Community engagement,Other
+208,Convenient location,Other
+208,Community engagement,Other
+209,Other,Other
+210,Quality of performances,Community
+210,Variety of programming,Community
+210,Convenient location,Community
+210,Community engagement,Community
+211,Quality of performances,Other
+211,Convenient location,Other
+211,Atmosphere/ambiance,Other
+211,Community engagement,Other
+212,Community engagement,Community
+213,Quality of performances,Other
+214,Convenient location,Other
+214,Atmosphere/ambiance,Other
+215,Quality of performances,Faculty/Staff
+215,Variety of programming,Faculty/Staff
+215,Convenient location,Faculty/Staff
+215,Atmosphere/ambiance,Faculty/Staff
+215,Social connection,Faculty/Staff
+215,Community engagement,Faculty/Staff
+216,Quality of performances,Community
+216,Atmosphere/ambiance,Community
+216,Community engagement,Community
+217,Quality of performances,Other
+217,Convenient location,Other
+217,Atmosphere/ambiance,Other
+218,Quality of performances,Other
+218,Convenient location,Other
+218,Community engagement,Other
+219,Quality of performances,Community
+219,Convenient location,Community
+219,Atmosphere/ambiance,Community
+219,Community engagement,Community
+220,Quality of performances,Community
+220,Variety of programming,Community
+220,Convenient location,Community
+220,Social connection,Community
+220,Community engagement,Community
+221,Quality of performances,Community
+221,Variety of programming,Community
+221,Convenient location,Community
+221,Social connection,Community
+221,Community engagement,Community
+222,Quality of performances,Community
+222,Convenient location,Community
+222,Community engagement,Community
+223,Quality of performances,Faculty/Staff
+223,Convenient location,Faculty/Staff
+223,Atmosphere/ambiance,Faculty/Staff
+223,Community engagement,Faculty/Staff
+224,Quality of performances,Community
+224,Convenient location,Community
+225,Convenient location,Community
+226,Quality of performances,Student
+226,Convenient location,Student
+227,Quality of performances,Faculty/Staff
+227,Variety of programming,Faculty/Staff
+227,Convenient location,Faculty/Staff
+227,Atmosphere/ambiance,Faculty/Staff
+227,Social connection,Faculty/Staff
+227,Community engagement,Faculty/Staff
+228,Quality of performances,Other
+228,Atmosphere/ambiance,Other
+229,Quality of performances,Faculty/Staff
+229,Convenient location,Faculty/Staff
+229,Atmosphere/ambiance,Faculty/Staff
+229,Learning/education,Faculty/Staff
+229,Other,Faculty/Staff
+230,Quality of performances,Faculty/Staff
+230,Variety of programming,Faculty/Staff
+230,Convenient location,Faculty/Staff
+230,Atmosphere/ambiance,Faculty/Staff
+231,Atmosphere/ambiance,Other
+232,Quality of performances,Community
+232,Convenient location,Community
+232,Community engagement,Community
+233,Quality of performances,Community
+233,Atmosphere/ambiance,Community
+234,Quality of performances,Faculty/Staff
+234,Community engagement,Faculty/Staff
+235,Quality of performances,Community
+235,Convenient location,Community
+235,Atmosphere/ambiance,Community
+236,Quality of performances,Student
+237,Quality of performances,Community
+237,Convenient location,Community
+237,Community engagement,Community
+238,Quality of performances,Faculty/Staff
+238,Convenient location,Faculty/Staff
+238,Community engagement,Faculty/Staff
+239,Quality of performances,Faculty/Staff
+239,Variety of programming,Faculty/Staff
+239,Convenient location,Faculty/Staff
+239,Social connection,Faculty/Staff
+239,Learning/education,Faculty/Staff
+239,Community engagement,Faculty/Staff
+240,Quality of performances,Faculty/Staff
+240,Variety of programming,Faculty/Staff
+240,Convenient location,Faculty/Staff
+240,Social connection,Faculty/Staff
+240,Community engagement,Faculty/Staff
+241,Convenient location,Faculty/Staff
+241,Atmosphere/ambiance,Faculty/Staff
+241,Community engagement,Faculty/Staff
+242,Quality of performances,Community
+242,Variety of programming,Community
+242,Convenient location,Community
+242,Community engagement,Community
+243,Quality of performances,Other
+244,Quality of performances,Community
+244,Convenient location,Community
+245,Quality of performances,Community
+245,Variety of programming,Community
+245,Convenient location,Community
+245,Atmosphere/ambiance,Community
+245,Community engagement,Community
+246,Quality of performances,Community
+246,Variety of programming,Community
+246,Convenient location,Community
+246,Social connection,Community
+246,Community engagement,Community
+247,Quality of performances,Community
+247,Convenient location,Community
+247,Community engagement,Community
+248,Quality of performances,Community
+248,Variety of programming,Community
+248,Convenient location,Community
+248,Atmosphere/ambiance,Community
+248,Social connection,Community
+248,Community engagement,Community
+249,Quality of performances,Other
+250,Quality of performances,Community
+250,Variety of programming,Community
+250,Convenient location,Community
+250,Atmosphere/ambiance,Community
+250,Social connection,Community
+250,Community engagement,Community
+251,Quality of performances,Community
+251,Convenient location,Community
+251,Atmosphere/ambiance,Community
+251,Community engagement,Community
+252,Quality of performances,Faculty/Staff
+252,Variety of programming,Faculty/Staff
+252,Affordable price,Faculty/Staff
+252,Convenient location,Faculty/Staff
+252,Atmosphere/ambiance,Faculty/Staff
+252,Community engagement,Faculty/Staff
+253,Quality of performances,Other
+253,Social connection,Other
+254,Quality of performances,Community
+254,Variety of programming,Community
+254,Convenient location,Community
+254,Atmosphere/ambiance,Community
+254,Social connection,Community
+254,Learning/education,Community
+254,Community engagement,Community
+255,Quality of performances,Student
+255,Variety of programming,Student
+255,Convenient location,Student
+255,Atmosphere/ambiance,Student
+255,Community engagement,Student
+256,Quality of performances,Student
+256,Convenient location,Student
+256,Community engagement,Student
+257,Quality of performances,Community
+258,Quality of performances,Faculty/Staff
+258,Convenient location,Faculty/Staff
+258,Social connection,Faculty/Staff
+258,Community engagement,Faculty/Staff
+259,Quality of performances,Other
+259,Convenient location,Other
+259,Atmosphere/ambiance,Other
+259,Community engagement,Other
+260,Atmosphere/ambiance,Other
+261,Quality of performances,Community
+261,Convenient location,Community
+261,Atmosphere/ambiance,Community
+261,Community engagement,Community
+262,Quality of performances,Other
+262,Convenient location,Other
+262,Community engagement,Other
+263,Quality of performances,Student
+263,Convenient location,Student
+263,Community engagement,Student
+264,Quality of performances,Community
+264,Variety of programming,Community
+264,Convenient location,Community
+265,Quality of performances,Faculty/Staff
+265,Atmosphere/ambiance,Faculty/Staff
+266,Quality of performances,Other
+266,Convenient location,Other
+266,Atmosphere/ambiance,Other
+267,Quality of performances,Student
+267,Affordable price,Student
+267,Convenient location,Student
+267,Atmosphere/ambiance,Student
+267,Community engagement,Student
+268,Quality of performances,Community
+268,Convenient location,Community
+268,Community engagement,Community
+269,Quality of performances,Community
+269,Variety of programming,Community
+269,Convenient location,Community
+269,Atmosphere/ambiance,Community
+269,Social connection,Community
+269,Community engagement,Community
+270,Quality of performances,Faculty/Staff
+270,Variety of programming,Faculty/Staff
+270,Convenient location,Faculty/Staff
+270,Atmosphere/ambiance,Faculty/Staff
+270,Community engagement,Faculty/Staff
+271,Quality of performances,Student
+272,Quality of performances,Community
+272,Convenient location,Community
+272,Atmosphere/ambiance,Community
+272,Community engagement,Community
+273,Quality of performances,Community
+273,Variety of programming,Community
+273,Convenient location,Community
+273,Social connection,Community
+273,Community engagement,Community
+274,Atmosphere/ambiance,Other
+275,Quality of performances,Other
+275,Atmosphere/ambiance,Other
+276,Quality of performances,Community
+276,Convenient location,Community
+276,Atmosphere/ambiance,Community
+276,Social connection,Community
+276,Community engagement,Community
+277,Quality of performances,Community
+277,Variety of programming,Community
+277,Convenient location,Community
+277,Atmosphere/ambiance,Community
+277,Social connection,Community
+277,Community engagement,Community
+278,Quality of performances,Faculty/Staff
+279,Quality of performances,Student
+279,Variety of programming,Student
+279,Convenient location,Student
+279,Atmosphere/ambiance,Student
+279,Community engagement,Student
+280,Quality of performances,Other
+280,Variety of programming,Other
+280,Convenient location,Other
+280,Community engagement,Other
+281,Quality of performances,Community
+281,Variety of programming,Community
+281,Convenient location,Community
+281,Atmosphere/ambiance,Community
+281,Community engagement,Community
+282,Quality of performances,Community
+282,Convenient location,Community
+282,Community engagement,Community
+283,Quality of performances,Community
+283,Convenient location,Community
+283,Community engagement,Community
+284,Quality of performances,Community
+284,Variety of programming,Community
+284,Convenient location,Community
+284,Atmosphere/ambiance,Community
+284,Social connection,Community
+284,Community engagement,Community
+285,Convenient location,Other
+285,Atmosphere/ambiance,Other
+286,Quality of performances,Other
+286,Variety of programming,Other
+286,Convenient location,Other
+286,Community engagement,Other
+287,Atmosphere/ambiance,Community
+288,Quality of performances,Other
+288,Convenient location,Other
+289,Quality of performances,Other
+289,Convenient location,Other
+289,Community engagement,Other
+290,Quality of performances,Student
+291,Quality of performances,Faculty/Staff
+292,Quality of performances,Community
+292,Convenient location,Community
+292,Community engagement,Community
+293,Quality of performances,Community
+293,Variety of programming,Community
+293,Convenient location,Community
+293,Community engagement,Community
+294,Quality of performances,Community
+294,Variety of programming,Community
+294,Convenient location,Community
+294,Atmosphere/ambiance,Community
+294,Social connection,Community
+294,Community engagement,Community
+295,Quality of performances,Faculty/Staff
+295,Convenient location,Faculty/Staff
+296,Quality of performances,Community
+296,Convenient location,Community
+296,Social connection,Community
+296,Community engagement,Community
+297,Quality of performances,Community
+297,Convenient location,Community
+297,Atmosphere/ambiance,Community
+298,Quality of performances,Other
+299,Quality of performances,Community
+299,Variety of programming,Community
+299,Convenient location,Community
+299,Community engagement,Community
+300,Quality of performances,Community
+300,Convenient location,Community
+300,Atmosphere/ambiance,Community
+300,Community engagement,Community
+301,Quality of performances,Community
+301,Convenient location,Community
+301,Atmosphere/ambiance,Community
+301,Community engagement,Community
+302,Quality of performances,Community
+302,Atmosphere/ambiance,Community
+302,Community engagement,Community
+303,Quality of performances,Other
+303,Convenient location,Other
+303,Atmosphere/ambiance,Other
+303,Community engagement,Other
+304,Quality of performances,Student
+304,Variety of programming,Student
+304,Convenient location,Student
+304,Community engagement,Student
+305,Quality of performances,Student
+305,Community engagement,Student
+306,Quality of performances,Community
+306,Variety of programming,Community
+306,Convenient location,Community
+307,Quality of performances,Community
+307,Variety of programming,Community
+307,Convenient location,Community
+307,Social connection,Community
+307,Community engagement,Community
+308,Quality of performances,Other
+308,Community engagement,Other
+309,Quality of performances,Other
+309,Variety of programming,Other
+309,Convenient location,Other
+309,Community engagement,Other
+309,Other,Other
+310,Quality of performances,Community
+310,Social connection,Community
+310,Community engagement,Community
+311,Quality of performances,Community
+311,Variety of programming,Community
+311,Convenient location,Community
+311,Atmosphere/ambiance,Community
+312,Quality of performances,Faculty/Staff
+312,Variety of programming,Faculty/Staff
+312,Convenient location,Faculty/Staff
+312,Atmosphere/ambiance,Faculty/Staff
+312,Social connection,Faculty/Staff
+312,Learning/education,Faculty/Staff
+312,Community engagement,Faculty/Staff
+313,Quality of performances,Community
+313,Convenient location,Community
+313,Community engagement,Community
+314,Quality of performances,Other
+315,Convenient location,Other
+315,Community engagement,Other
+315,Other,Other
+316,Quality of performances,Community
+317,Atmosphere/ambiance,Other
+318,Quality of performances,Other
+318,Variety of programming,Other
+318,Convenient location,Other
+318,Community engagement,Other
+319,Quality of performances,Community
+319,Convenient location,Community
+319,Community engagement,Community
+320,Quality of performances,Other
+321,Quality of performances,Community
+322,Quality of performances,Community
+322,Variety of programming,Community
+322,Convenient location,Community
+323,Quality of performances,Community
+323,Variety of programming,Community
+323,Convenient location,Community
+323,Community engagement,Community
+324,Atmosphere/ambiance,Other
+325,Quality of performances,Faculty/Staff
+325,Convenient location,Faculty/Staff
+325,Community engagement,Faculty/Staff
+326,Quality of performances,Other
+326,Variety of programming,Other
+326,Social connection,Other
+327,Quality of performances,Community
+327,Social connection,Community
+328,Quality of performances,Community
+328,Atmosphere/ambiance,Community
+328,Community engagement,Community
+329,Quality of performances,Community
+329,Social connection,Community
+330,Quality of performances,Community
+330,Convenient location,Community
+330,Atmosphere/ambiance,Community
+330,Community engagement,Community
+331,Quality of performances,Other
+331,Convenient location,Other
+332,Quality of performances,Community
+333,Quality of performances,Community
+333,Convenient location,Community
+333,Atmosphere/ambiance,Community
+333,Community engagement,Community
+334,Quality of performances,Community
+334,Convenient location,Community
+335,Quality of performances,Community
+335,Convenient location,Community
+336,Atmosphere/ambiance,Other
+337,Quality of performances,Student
+337,Variety of programming,Student
+337,Social connection,Student
+337,Community engagement,Student
+338,Quality of performances,Other
+338,Variety of programming,Other
+338,Convenient location,Other
+340,Quality of performances,Faculty/Staff
+340,Affordable price,Faculty/Staff
+340,Convenient location,Faculty/Staff
+340,Atmosphere/ambiance,Faculty/Staff
+340,Community engagement,Faculty/Staff
+341,Quality of performances,Community
+341,Convenient location,Community
+342,Quality of performances,Community
+342,Convenient location,Community
+343,Quality of performances,Other
+343,Convenient location,Other
+343,Community engagement,Other
+344,Quality of performances,Community
+344,Variety of programming,Community
+344,Community engagement,Community
+345,Quality of performances,Faculty/Staff
+345,Variety of programming,Faculty/Staff
+345,Convenient location,Faculty/Staff
+346,Quality of performances,Other
+346,Atmosphere/ambiance,Other
+347,Quality of performances,Community
+347,Convenient location,Community
+347,Atmosphere/ambiance,Community
+348,Quality of performances,Community
+348,Variety of programming,Community
+348,Convenient location,Community
+348,Community engagement,Community
+349,Quality of performances,Student
+349,Convenient location,Student
+349,Community engagement,Student
+350,Quality of performances,Faculty/Staff
+350,Convenient location,Faculty/Staff
+350,Atmosphere/ambiance,Faculty/Staff
+350,Community engagement,Faculty/Staff
+351,Quality of performances,Faculty/Staff
+351,Convenient location,Faculty/Staff
+352,Quality of performances,Student
+352,Convenient location,Student
+352,Community engagement,Student
+353,Quality of performances,Community
+353,Convenient location,Community
+353,Atmosphere/ambiance,Community
+354,Quality of performances,Other
+354,Community engagement,Other
+355,Quality of performances,Community
+355,Convenient location,Community
+356,Quality of performances,Community
+356,Convenient location,Community
+356,Community engagement,Community
+357,Quality of performances,Faculty/Staff
+357,Variety of programming,Faculty/Staff
+357,Convenient location,Faculty/Staff
+357,Community engagement,Faculty/Staff
+358,Quality of performances,Community
+358,Variety of programming,Community
+358,Community engagement,Community
+359,Atmosphere/ambiance,Other
+359,Other,Other
+360,Quality of performances,Community
+360,Community engagement,Community
+361,Quality of performances,Community
+361,Variety of programming,Community
+361,Convenient location,Community
+361,Atmosphere/ambiance,Community
+361,Community engagement,Community
+362,Quality of performances,Other
+362,Convenient location,Other
+362,Community engagement,Other
+362,Other,Other
+363,Affordable price,Student
+363,Convenient location,Student
+363,Atmosphere/ambiance,Student
+364,Quality of performances,Community
+364,Convenient location,Community
+364,Community engagement,Community
+365,Quality of performances,Community
+366,Quality of performances,Community
+366,Variety of programming,Community
+366,Convenient location,Community
+366,Community engagement,Community
+367,Quality of performances,Community
+367,Convenient location,Community
+368,Quality of performances,Student
+368,Convenient location,Student
+368,Community engagement,Student
+369,Quality of performances,Faculty/Staff
+369,Convenient location,Faculty/Staff
+369,Community engagement,Faculty/Staff
+370,Quality of performances,Faculty/Staff
+370,Convenient location,Faculty/Staff
+371,Quality of performances,Faculty/Staff
+371,Variety of programming,Faculty/Staff
+371,Community engagement,Faculty/Staff
+372,Quality of performances,Student
+372,Variety of programming,Student
+372,Social connection,Student
+372,Community engagement,Student
+373,Quality of performances,Community
+373,Convenient location,Community
+373,Community engagement,Community
+374,Atmosphere/ambiance,Other
+375,Quality of performances,Student
+375,Convenient location,Student
+375,Atmosphere/ambiance,Student
+376,Quality of performances,Faculty/Staff
+376,Convenient location,Faculty/Staff
+376,Community engagement,Faculty/Staff
+377,Quality of performances,Faculty/Staff
+377,Convenient location,Faculty/Staff
+377,Atmosphere/ambiance,Faculty/Staff
+377,Community engagement,Faculty/Staff
+378,Quality of performances,Community
+378,Variety of programming,Community
+378,Convenient location,Community
+378,Atmosphere/ambiance,Community
+378,Social connection,Community
+378,Learning/education,Community
+378,Community engagement,Community
+379,Quality of performances,Faculty/Staff
+380,Quality of performances,Community
+380,Convenient location,Community
+380,Community engagement,Community
+381,Quality of performances,Community
+381,Variety of programming,Community
+381,Convenient location,Community
+381,Atmosphere/ambiance,Community
+381,Social connection,Community
+382,Convenient location,Community
+382,Atmosphere/ambiance,Community
+382,Social connection,Community
+382,Community engagement,Community
+383,Quality of performances,Community
+383,Variety of programming,Community
+383,Convenient location,Community
+383,Social connection,Community
+384,Quality of performances,Community
+384,Convenient location,Community
+385,Quality of performances,Other
+385,Convenient location,Other
+385,Community engagement,Other
+386,Quality of performances,Community
+386,Variety of programming,Community
+386,Convenient location,Community
+386,Social connection,Community
+386,Community engagement,Community
+387,Quality of performances,Other
+388,Quality of performances,Community
+388,Convenient location,Community
+388,Community engagement,Community
+389,Quality of performances,Community
+389,Convenient location,Community
+390,Quality of performances,Other
+390,Variety of programming,Other
+390,Convenient location,Other
+390,Community engagement,Other
+391,Quality of performances,Other
+391,Convenient location,Other
+392,Quality of performances,Community
+392,Variety of programming,Community
+392,Convenient location,Community
+392,Community engagement,Community
+393,Quality of performances,Other
+393,Convenient location,Other
+393,Social connection,Other
+393,Community engagement,Other
+394,Quality of performances,Faculty/Staff
+394,Convenient location,Faculty/Staff
+394,Atmosphere/ambiance,Faculty/Staff
+394,Social connection,Faculty/Staff
+394,Community engagement,Faculty/Staff
+395,Quality of performances,Community
+395,Convenient location,Community
+395,Community engagement,Community
+396,Quality of performances,Community
+396,Variety of programming,Community
+396,Convenient location,Community
+396,Community engagement,Community
+397,Quality of performances,Faculty/Staff
+397,Convenient location,Faculty/Staff
+397,Community engagement,Faculty/Staff
+398,Quality of performances,Faculty/Staff
+399,Quality of performances,Student
+399,Community engagement,Student
+400,Quality of performances,Community
+400,Convenient location,Community
+400,Community engagement,Community
+401,Quality of performances,Student
+401,Convenient location,Student
+401,Atmosphere/ambiance,Student
+402,Convenient location,Faculty/Staff
+402,Atmosphere/ambiance,Faculty/Staff
+402,Community engagement,Faculty/Staff
+403,Quality of performances,Faculty/Staff
+403,Convenient location,Faculty/Staff
+403,Social connection,Faculty/Staff
+403,Community engagement,Faculty/Staff
+404,Quality of performances,Community
+404,Variety of programming,Community
+404,Social connection,Community
+404,Community engagement,Community
+405,Quality of performances,Other
+405,Convenient location,Other
+406,Quality of performances,Student
+406,Convenient location,Student
+406,Atmosphere/ambiance,Student
+406,Social connection,Student
+407,Quality of performances,Other
+408,Convenient location,Other
+408,Atmosphere/ambiance,Other
+409,Quality of performances,Other
+410,Quality of performances,Community
+410,Atmosphere/ambiance,Community
+411,Quality of performances,Community
+411,Convenient location,Community
+411,Social connection,Community
+411,Community engagement,Community
+412,Quality of performances,Community
+413,Quality of performances,Community
+413,Convenient location,Community
+414,Other,Other
+415,Quality of performances,Other
+415,Convenient location,Other
+415,Atmosphere/ambiance,Other
+416,Quality of performances,Faculty/Staff
+416,Community engagement,Faculty/Staff
+417,Quality of performances,Community
+417,Convenient location,Community
+418,Convenient location,Other
+418,Atmosphere/ambiance,Other
+419,Quality of performances,Community
+419,Atmosphere/ambiance,Community
+419,Community engagement,Community
+420,Quality of performances,Other
+420,Variety of programming,Other
+420,Social connection,Other
+420,Community engagement,Other
+421,Quality of performances,Faculty/Staff
+421,Variety of programming,Faculty/Staff
+421,Convenient location,Faculty/Staff
+421,Community engagement,Faculty/Staff
+422,Quality of performances,Community
+422,Variety of programming,Community
+422,Convenient location,Community
+422,Community engagement,Community
+423,Quality of performances,Community
+424,Quality of performances,Other
+424,Convenient location,Other
+424,Community engagement,Other
+425,Quality of performances,Other
+425,Convenient location,Other
+425,Atmosphere/ambiance,Other
+426,Quality of performances,Student
+426,Variety of programming,Student
+426,Convenient location,Student
+426,Atmosphere/ambiance,Student
+426,Community engagement,Student
+427,Quality of performances,Student
+427,Affordable price,Student
+428,Quality of performances,Faculty/Staff
+428,Convenient location,Faculty/Staff
+428,Community engagement,Faculty/Staff
+429,Quality of performances,Other
+429,Variety of programming,Other
+429,Convenient location,Other
+429,Atmosphere/ambiance,Other
+429,Social connection,Other
+429,Community engagement,Other
+430,Quality of performances,Faculty/Staff
+430,Convenient location,Faculty/Staff
+430,Atmosphere/ambiance,Faculty/Staff
+430,Other,Faculty/Staff
+431,Quality of performances,Community
+431,Convenient location,Community
+431,Community engagement,Community
+432,Quality of performances,Community
+432,Variety of programming,Community
+432,Convenient location,Community
+432,Community engagement,Community
+433,Quality of performances,Community
+433,Convenient location,Community
+434,Quality of performances,Student
+434,Variety of programming,Student
+434,Affordable price,Student
+434,Convenient location,Student
+434,Atmosphere/ambiance,Student
+435,Quality of performances,Other
+436,Affordable price,Student
+436,Atmosphere/ambiance,Student
+437,Quality of performances,Faculty/Staff
+437,Convenient location,Faculty/Staff
+438,Quality of performances,Community
+438,Convenient location,Community
+438,Social connection,Community
+439,Quality of performances,Community
+439,Convenient location,Community
+439,Atmosphere/ambiance,Community
+439,Social connection,Community
+439,Community engagement,Community
+441,Quality of performances,Community
+442,Quality of performances,Community
+442,Convenient location,Community
+443,Quality of performances,Community
+443,Convenient location,Community
+443,Community engagement,Community
+444,Quality of performances,Community
+444,Convenient location,Community
+444,Community engagement,Community
+445,Quality of performances,Student
+445,Variety of programming,Student
+445,Convenient location,Student
+445,Atmosphere/ambiance,Student
+445,Community engagement,Student
+446,Quality of performances,Community
+447,Quality of performances,Community
+447,Convenient location,Community
+447,Atmosphere/ambiance,Community
+447,Social connection,Community
+447,Community engagement,Community
+448,Quality of performances,Faculty/Staff
+448,Atmosphere/ambiance,Faculty/Staff
+449,Quality of performances,Student
+449,Affordable price,Student
+449,Convenient location,Student
+449,Community engagement,Student
+450,Quality of performances,Student
+450,Variety of programming,Student
+450,Convenient location,Student
+450,Atmosphere/ambiance,Student
+451,Quality of performances,Faculty/Staff
+451,Community engagement,Faculty/Staff
+452,Quality of performances,Faculty/Staff
+452,Variety of programming,Faculty/Staff
+452,Convenient location,Faculty/Staff
+452,Community engagement,Faculty/Staff
+453,Quality of performances,Community
+453,Variety of programming,Community
+453,Convenient location,Community
+453,Atmosphere/ambiance,Community
+453,Social connection,Community
+453,Community engagement,Community
+454,Quality of performances,Faculty/Staff
+454,Convenient location,Faculty/Staff
+454,Atmosphere/ambiance,Faculty/Staff
+455,Quality of performances,Community
+455,Variety of programming,Community
+455,Convenient location,Community
+456,Convenient location,Other
+457,Quality of performances,Other
+457,Convenient location,Other
+457,Community engagement,Other
+458,Quality of performances,Student
+459,Quality of performances,Student
+459,Convenient location,Student
+459,Atmosphere/ambiance,Student
+460,Quality of performances,Other
+460,Convenient location,Other
+460,Community engagement,Other
+461,Quality of performances,Faculty/Staff
+461,Variety of programming,Faculty/Staff
+461,Convenient location,Faculty/Staff
+461,Atmosphere/ambiance,Faculty/Staff
+461,Community engagement,Faculty/Staff
+463,Quality of performances,Community
+464,Quality of performances,Community
+464,Convenient location,Community
+464,Community engagement,Community
+465,Quality of performances,Faculty/Staff
+465,Variety of programming,Faculty/Staff
+465,Convenient location,Faculty/Staff
+465,Atmosphere/ambiance,Faculty/Staff
+465,Social connection,Faculty/Staff
+465,Learning/education,Faculty/Staff
+465,Community engagement,Faculty/Staff
+466,Quality of performances,Faculty/Staff
+466,Variety of programming,Faculty/Staff
+466,Convenient location,Faculty/Staff
+466,Atmosphere/ambiance,Faculty/Staff
+466,Social connection,Faculty/Staff
+466,Community engagement,Faculty/Staff
+467,Quality of performances,Other
+467,Variety of programming,Other
+467,Convenient location,Other
+467,Atmosphere/ambiance,Other
+467,Community engagement,Other
+468,Quality of performances,Other
+468,Variety of programming,Other
+468,Convenient location,Other
+468,Atmosphere/ambiance,Other
+468,Community engagement,Other
+469,Quality of performances,Student
+469,Variety of programming,Student
+469,Affordable price,Student
+469,Convenient location,Student
+469,Atmosphere/ambiance,Student
+469,Community engagement,Student
+470,Quality of performances,Faculty/Staff
+470,Convenient location,Faculty/Staff
+470,Atmosphere/ambiance,Faculty/Staff
+470,Social connection,Faculty/Staff
+470,Community engagement,Faculty/Staff
+471,Quality of performances,Community
+471,Convenient location,Community
+472,Quality of performances,Other
+472,Convenient location,Other
+472,Community engagement,Other
+473,Quality of performances,Student
+473,Convenient location,Student
+473,Atmosphere/ambiance,Student
+473,Community engagement,Student
+474,Quality of performances,Community
+474,Variety of programming,Community
+474,Convenient location,Community
+474,Social connection,Community
+474,Community engagement,Community
+475,Quality of performances,Other
+475,Variety of programming,Other
+475,Convenient location,Other
+475,Social connection,Other
+475,Community engagement,Other
+476,Quality of performances,Community
+476,Variety of programming,Community
+476,Convenient location,Community
+476,Social connection,Community
+476,Community engagement,Community
+477,Quality of performances,Community
+477,Convenient location,Community
+477,Community engagement,Community
+478,Quality of performances,Other
+478,Variety of programming,Other
+478,Affordable price,Other
+478,Convenient location,Other
+478,Community engagement,Other
+479,Quality of performances,Community
+479,Convenient location,Community
+479,Community engagement,Community
+480,Quality of performances,Faculty/Staff
+480,Variety of programming,Faculty/Staff
+480,Convenient location,Faculty/Staff
+481,Quality of performances,Faculty/Staff
+481,Convenient location,Faculty/Staff
+481,Atmosphere/ambiance,Faculty/Staff
+481,Community engagement,Faculty/Staff
+482,Quality of performances,Student
+482,Convenient location,Student
+482,Social connection,Student
+482,Community engagement,Student
+483,Quality of performances,Other
+483,Variety of programming,Other
+483,Convenient location,Other
+483,Atmosphere/ambiance,Other
+483,Learning/education,Other
+483,Community engagement,Other
+484,Quality of performances,Other
+484,Convenient location,Other
+484,Social connection,Other
+485,Quality of performances,Faculty/Staff
+485,Convenient location,Faculty/Staff
+485,Atmosphere/ambiance,Faculty/Staff
+485,Social connection,Faculty/Staff
+485,Community engagement,Faculty/Staff
+486,Quality of performances,Student
+486,Variety of programming,Student
+486,Atmosphere/ambiance,Student
+486,Community engagement,Student
+487,Quality of performances,Community
+487,Convenient location,Community
+487,Atmosphere/ambiance,Community
+487,Community engagement,Community
+488,Quality of performances,Other
+488,Convenient location,Other
+488,Atmosphere/ambiance,Other
+489,Quality of performances,Faculty/Staff
+489,Convenient location,Faculty/Staff
+489,Atmosphere/ambiance,Faculty/Staff
+489,Social connection,Faculty/Staff
+489,Learning/education,Faculty/Staff
+489,Community engagement,Faculty/Staff
+490,Quality of performances,Student
+491,Quality of performances,Community
+492,Affordable price,Student
+492,Convenient location,Student
+492,Atmosphere/ambiance,Student
+493,Quality of performances,Other
+493,Convenient location,Other
+494,Quality of performances,Other
+494,Atmosphere/ambiance,Other
+494,Community engagement,Other
+495,Quality of performances,Other
+495,Convenient location,Other
+496,Quality of performances,Student
+496,Convenient location,Student
+496,Atmosphere/ambiance,Student
+496,Community engagement,Student
+496,Other,Student
+497,Quality of performances,Community
+497,Variety of programming,Community
+497,Convenient location,Community
+497,Social connection,Community
+497,Community engagement,Community
+497,Other,Community
+498,Quality of performances,Community
+498,Variety of programming,Community
+498,Convenient location,Community
+498,Atmosphere/ambiance,Community
+498,Social connection,Community
+498,Learning/education,Community
+498,Community engagement,Community
+499,Quality of performances,Community
+499,Variety of programming,Community
+499,Convenient location,Community
+499,Atmosphere/ambiance,Community
+500,Quality of performances,Faculty/Staff
+500,Convenient location,Faculty/Staff
+500,Community engagement,Faculty/Staff
+501,Quality of performances,Faculty/Staff
+501,Convenient location,Faculty/Staff
+501,Atmosphere/ambiance,Faculty/Staff
+501,Learning/education,Faculty/Staff
+501,Community engagement,Faculty/Staff
+502,Quality of performances,Faculty/Staff
+502,Convenient location,Faculty/Staff
+503,Quality of performances,Community
+503,Convenient location,Community
+503,Community engagement,Community
+504,Quality of performances,Community
+504,Variety of programming,Community
+504,Convenient location,Community
+504,Atmosphere/ambiance,Community
+504,Community engagement,Community
+505,Quality of performances,Student
+505,Convenient location,Student
+505,Atmosphere/ambiance,Student
+505,Community engagement,Student
+506,Quality of performances,Community
+507,Quality of performances,Community
+507,Convenient location,Community
+507,Community engagement,Community
+508,Quality of performances,Other
+508,Variety of programming,Other
+508,Convenient location,Other
+508,Atmosphere/ambiance,Other
+508,Community engagement,Other
+509,Quality of performances,Community
+509,Convenient location,Community
+509,Community engagement,Community
+510,Quality of performances,Faculty/Staff
+510,Convenient location,Faculty/Staff
+510,Atmosphere/ambiance,Faculty/Staff
+510,Community engagement,Faculty/Staff
+511,Quality of performances,Other
+511,Convenient location,Other
+512,Quality of performances,Community
+512,Convenient location,Community
+513,Quality of performances,Community
+513,Variety of programming,Community
+513,Convenient location,Community
+513,Social connection,Community
+513,Community engagement,Community
+514,Quality of performances,Community
+514,Variety of programming,Community
+514,Convenient location,Community
+514,Atmosphere/ambiance,Community
+514,Community engagement,Community
+515,Quality of performances,Other
+515,Community engagement,Other
+516,Quality of performances,Faculty/Staff
+516,Convenient location,Faculty/Staff
+516,Community engagement,Faculty/Staff
+516,Other,Faculty/Staff
+517,Quality of performances,Community
+517,Convenient location,Community
+517,Atmosphere/ambiance,Community
+517,Community engagement,Community
+518,Quality of performances,Community
+518,Convenient location,Community
+518,Community engagement,Community
+518,Other,Community
+519,Quality of performances,Faculty/Staff
+519,Variety of programming,Faculty/Staff
+519,Community engagement,Faculty/Staff
+520,Quality of performances,Faculty/Staff
+521,Quality of performances,Other
+521,Variety of programming,Other
+521,Community engagement,Other
+522,Quality of performances,Community
+522,Variety of programming,Community
+522,Convenient location,Community
+522,Atmosphere/ambiance,Community
+522,Social connection,Community
+522,Community engagement,Community
+523,Quality of performances,Community
+523,Convenient location,Community
+524,Quality of performances,Community
+524,Variety of programming,Community
+524,Convenient location,Community
+524,Atmosphere/ambiance,Community
+524,Social connection,Community
+524,Community engagement,Community
+525,Quality of performances,Other
+525,Convenient location,Other
+525,Atmosphere/ambiance,Other
+525,Social connection,Other
+525,Community engagement,Other
+525,Other,Other
+526,Quality of performances,Student
+526,Convenient location,Student
+526,Community engagement,Student
+527,Quality of performances,Community
+527,Convenient location,Community
+527,Community engagement,Community
+529,Quality of performances,Faculty/Staff
+529,Convenient location,Faculty/Staff
+529,Atmosphere/ambiance,Faculty/Staff
+529,Learning/education,Faculty/Staff
+529,Community engagement,Faculty/Staff
+530,Quality of performances,Other
+530,Convenient location,Other
+531,Quality of performances,Community
+531,Convenient location,Community
+531,Community engagement,Community
+532,Quality of performances,Community
+532,Variety of programming,Community
+532,Convenient location,Community
+532,Community engagement,Community
+533,Quality of performances,Community
+533,Convenient location,Community
+534,Quality of performances,Community
+534,Convenient location,Community
+534,Community engagement,Community
+536,Quality of performances,Community
+536,Variety of programming,Community
+536,Convenient location,Community
+536,Atmosphere/ambiance,Community
+536,Community engagement,Community
+537,Quality of performances,Community
+537,Convenient location,Community
+537,Atmosphere/ambiance,Community
+538,Quality of performances,Community
+538,Variety of programming,Community
+538,Convenient location,Community
+538,Community engagement,Community
+539,Quality of performances,Other
+539,Variety of programming,Other
+539,Convenient location,Other
+539,Social connection,Other
+539,Community engagement,Other
+540,Quality of performances,Faculty/Staff
+540,Variety of programming,Faculty/Staff
+540,Convenient location,Faculty/Staff
+540,Atmosphere/ambiance,Faculty/Staff
+540,Social connection,Faculty/Staff
+540,Learning/education,Faculty/Staff
+540,Community engagement,Faculty/Staff
+541,Quality of performances,Faculty/Staff
+541,Convenient location,Faculty/Staff
+542,Quality of performances,Community
+542,Variety of programming,Community
+542,Convenient location,Community
+542,Community engagement,Community
+543,Quality of performances,Faculty/Staff
+543,Convenient location,Faculty/Staff
+543,Atmosphere/ambiance,Faculty/Staff
+543,Community engagement,Faculty/Staff
+544,Quality of performances,Student
+544,Affordable price,Student
+545,Quality of performances,Community
+545,Community engagement,Community
+546,Quality of performances,Other
+546,Convenient location,Other
+546,Community engagement,Other
+547,Atmosphere/ambiance,Student
+548,Quality of performances,Community
+548,Variety of programming,Community
+548,Convenient location,Community
+548,Community engagement,Community
+549,Quality of performances,Community
+549,Convenient location,Community
+549,Atmosphere/ambiance,Community
+550,Quality of performances,Student
+550,Convenient location,Student
+550,Atmosphere/ambiance,Student
+551,Quality of performances,Faculty/Staff
+551,Social connection,Faculty/Staff
+551,Community engagement,Faculty/Staff
+552,Quality of performances,Other
+552,Community engagement,Other
+553,Atmosphere/ambiance,Community
+553,Community engagement,Community
+554,Quality of performances,Faculty/Staff
+554,Convenient location,Faculty/Staff
+554,Atmosphere/ambiance,Faculty/Staff
+554,Community engagement,Faculty/Staff
+555,Quality of performances,Community
+555,Convenient location,Community
+555,Atmosphere/ambiance,Community
+555,Social connection,Community
+556,Quality of performances,Community
+556,Convenient location,Community
+556,Atmosphere/ambiance,Community
+556,Community engagement,Community
+557,Quality of performances,Community
+559,Quality of performances,Community
+559,Convenient location,Community
+559,Social connection,Community
+559,Learning/education,Community
+559,Community engagement,Community
+560,Quality of performances,Community
+560,Variety of programming,Community
+560,Convenient location,Community
+560,Social connection,Community
+560,Community engagement,Community
+561,Quality of performances,Faculty/Staff
+561,Convenient location,Faculty/Staff
+561,Atmosphere/ambiance,Faculty/Staff
+561,Social connection,Faculty/Staff
+561,Community engagement,Faculty/Staff
+562,Quality of performances,Faculty/Staff
+562,Variety of programming,Faculty/Staff
+562,Convenient location,Faculty/Staff
+562,Community engagement,Faculty/Staff
+563,Quality of performances,Other
+563,Convenient location,Other
+563,Community engagement,Other
+564,Quality of performances,Community
+564,Variety of programming,Community
+564,Convenient location,Community
+564,Social connection,Community
+564,Community engagement,Community
+565,Quality of performances,Faculty/Staff
+565,Convenient location,Faculty/Staff
+566,Quality of performances,Student
+566,Variety of programming,Student
+566,Convenient location,Student
+566,Atmosphere/ambiance,Student
+566,Social connection,Student
+566,Community engagement,Student
+567,Quality of performances,Faculty/Staff
+567,Convenient location,Faculty/Staff
+567,Atmosphere/ambiance,Faculty/Staff
+568,Quality of performances,Community
+568,Community engagement,Community
+569,Quality of performances,Community
+569,Community engagement,Community
+570,Quality of performances,Community
+570,Convenient location,Community
+570,Community engagement,Community
+571,Quality of performances,Faculty/Staff
+571,Convenient location,Faculty/Staff
+571,Community engagement,Faculty/Staff

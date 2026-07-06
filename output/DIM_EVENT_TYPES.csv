@@ -1,0 +1,1681 @@
+﻿record_id,event_type,audience_segment
+2,Jazz,Student
+3,Jazz,Student
+6,Jazz,Student
+7,Classical Music,Student
+7,Jazz,Student
+8,Dance,Faculty/Staff
+8,Classical Music,Faculty/Staff
+8,Jazz,Faculty/Staff
+8,World Music,Faculty/Staff
+9,Classical Music,Student
+9,Lecture/Talk,Student
+9,Workshop,Student
+10,Jazz,Faculty/Staff
+11,Workshop,Faculty/Staff
+12,Classical Music,Community
+12,Jazz,Community
+13,Classical Music,Faculty/Staff
+13,Jazz,Faculty/Staff
+13,World Music,Faculty/Staff
+14,Classical Music,Other
+14,World Music,Other
+15,Dance,Other
+15,Jazz,Other
+15,Workshop,Other
+16,Jazz,Faculty/Staff
+17,Classical Music,Student
+17,Jazz,Student
+17,World Music,Student
+18,Classical Music,Community
+18,Jazz,Community
+18,Lecture/Talk,Community
+19,Classical Music,Faculty/Staff
+19,Jazz,Faculty/Staff
+19,Opera,Faculty/Staff
+19,Lecture/Talk,Faculty/Staff
+20,Jazz,Faculty/Staff
+21,Classical Music,Student
+22,Classical Music,Faculty/Staff
+22,Jazz,Faculty/Staff
+22,Theater,Faculty/Staff
+22,Lecture/Talk,Faculty/Staff
+23,Jazz,Faculty/Staff
+23,Workshop,Faculty/Staff
+24,Jazz,Faculty/Staff
+25,Classical Music,Faculty/Staff
+25,Jazz,Faculty/Staff
+26,Dance,Faculty/Staff
+26,Classical Music,Faculty/Staff
+26,Jazz,Faculty/Staff
+26,World Music,Faculty/Staff
+26,Opera,Faculty/Staff
+26,Workshop,Faculty/Staff
+27,Jazz,Faculty/Staff
+27,World Music,Faculty/Staff
+27,Lecture/Talk,Faculty/Staff
+28,Dance,Student
+29,Dance,Student
+29,Classical Music,Student
+29,Jazz,Student
+29,Film,Student
+29,Family/Youth,Student
+30,Jazz,Faculty/Staff
+31,Dance,Faculty/Staff
+31,Classical Music,Faculty/Staff
+31,Jazz,Faculty/Staff
+31,World Music,Faculty/Staff
+31,Theater,Faculty/Staff
+31,Opera,Faculty/Staff
+31,Lecture/Talk,Faculty/Staff
+31,Workshop,Faculty/Staff
+33,Dance,Faculty/Staff
+33,Classical Music,Faculty/Staff
+33,Jazz,Faculty/Staff
+33,World Music,Faculty/Staff
+33,Lecture/Talk,Faculty/Staff
+34,Jazz,Faculty/Staff
+34,World Music,Faculty/Staff
+34,Opera,Faculty/Staff
+34,Workshop,Faculty/Staff
+35,Dance,Faculty/Staff
+35,Classical Music,Faculty/Staff
+35,Jazz,Faculty/Staff
+35,Opera,Faculty/Staff
+35,Lecture/Talk,Faculty/Staff
+35,Workshop,Faculty/Staff
+36,Dance,Faculty/Staff
+36,Classical Music,Faculty/Staff
+36,Jazz,Faculty/Staff
+36,World Music,Faculty/Staff
+36,Opera,Faculty/Staff
+36,Workshop,Faculty/Staff
+37,Classical Music,Faculty/Staff
+37,Jazz,Faculty/Staff
+37,Workshop,Faculty/Staff
+38,Dance,Faculty/Staff
+38,Classical Music,Faculty/Staff
+38,Lecture/Talk,Faculty/Staff
+38,Workshop,Faculty/Staff
+39,Jazz,Faculty/Staff
+40,Classical Music,Faculty/Staff
+40,Jazz,Faculty/Staff
+40,World Music,Faculty/Staff
+40,Lecture/Talk,Faculty/Staff
+40,Workshop,Faculty/Staff
+41,Dance,Faculty/Staff
+41,Classical Music,Faculty/Staff
+41,Jazz,Faculty/Staff
+42,Classical Music,Faculty/Staff
+42,Jazz,Faculty/Staff
+42,Lecture/Talk,Faculty/Staff
+42,Workshop,Faculty/Staff
+43,Classical Music,Faculty/Staff
+43,Jazz,Faculty/Staff
+43,World Music,Faculty/Staff
+43,Workshop,Faculty/Staff
+45,Dance,Faculty/Staff
+45,Classical Music,Faculty/Staff
+45,Jazz,Faculty/Staff
+45,Workshop,Faculty/Staff
+46,Jazz,Faculty/Staff
+46,Workshop,Faculty/Staff
+46,Family/Youth,Faculty/Staff
+47,Dance,Faculty/Staff
+47,Classical Music,Faculty/Staff
+47,Jazz,Faculty/Staff
+48,Classical Music,Faculty/Staff
+48,Jazz,Faculty/Staff
+48,World Music,Faculty/Staff
+49,Dance,Faculty/Staff
+49,Jazz,Faculty/Staff
+50,Jazz,Faculty/Staff
+50,World Music,Faculty/Staff
+50,Theater,Faculty/Staff
+50,Workshop,Faculty/Staff
+51,Dance,Student
+51,Classical Music,Student
+51,Jazz,Student
+51,World Music,Student
+51,Theater,Student
+51,Opera,Student
+51,Film,Student
+51,Lecture/Talk,Student
+52,Dance,Faculty/Staff
+52,Classical Music,Faculty/Staff
+52,Jazz,Faculty/Staff
+52,World Music,Faculty/Staff
+53,Dance,Other
+53,Classical Music,Other
+53,Jazz,Other
+53,World Music,Other
+53,Theater,Other
+53,Opera,Other
+53,Film,Other
+53,Lecture/Talk,Other
+53,Workshop,Other
+54,Classical Music,Faculty/Staff
+54,Jazz,Faculty/Staff
+54,World Music,Faculty/Staff
+54,Theater,Faculty/Staff
+54,Lecture/Talk,Faculty/Staff
+54,Workshop,Faculty/Staff
+56,Dance,Other
+56,Classical Music,Other
+56,Jazz,Other
+56,World Music,Other
+56,Opera,Other
+56,Lecture/Talk,Other
+56,Workshop,Other
+57,Classical Music,Faculty/Staff
+57,Jazz,Faculty/Staff
+57,World Music,Faculty/Staff
+58,Dance,Faculty/Staff
+58,Classical Music,Faculty/Staff
+58,Jazz,Faculty/Staff
+58,Opera,Faculty/Staff
+59,Jazz,Faculty/Staff
+59,Lecture/Talk,Faculty/Staff
+59,Workshop,Faculty/Staff
+60,Jazz,Other
+60,World Music,Other
+60,Workshop,Other
+61,Classical Music,Faculty/Staff
+61,Jazz,Faculty/Staff
+61,World Music,Faculty/Staff
+62,Dance,Faculty/Staff
+62,Jazz,Faculty/Staff
+63,Dance,Faculty/Staff
+63,Classical Music,Faculty/Staff
+63,Jazz,Faculty/Staff
+64,Classical Music,Faculty/Staff
+64,Jazz,Faculty/Staff
+64,Workshop,Faculty/Staff
+65,Dance,Faculty/Staff
+65,Classical Music,Faculty/Staff
+65,Jazz,Faculty/Staff
+65,Family/Youth,Faculty/Staff
+66,Dance,Faculty/Staff
+66,Classical Music,Faculty/Staff
+66,Jazz,Faculty/Staff
+66,Theater,Faculty/Staff
+66,Workshop,Faculty/Staff
+67,Dance,Student
+67,Classical Music,Student
+67,Jazz,Student
+67,Opera,Student
+68,Classical Music,Faculty/Staff
+68,Jazz,Faculty/Staff
+68,Workshop,Faculty/Staff
+69,Classical Music,Community
+69,Jazz,Community
+69,Workshop,Community
+70,Jazz,Faculty/Staff
+70,Workshop,Faculty/Staff
+71,Classical Music,Faculty/Staff
+71,Jazz,Faculty/Staff
+72,Jazz,Faculty/Staff
+72,World Music,Faculty/Staff
+72,Lecture/Talk,Faculty/Staff
+72,Workshop,Faculty/Staff
+73,Jazz,Faculty/Staff
+73,Lecture/Talk,Faculty/Staff
+73,Workshop,Faculty/Staff
+74,Family/Youth,Student
+75,Jazz,Faculty/Staff
+76,Dance,Student
+76,Classical Music,Student
+76,Jazz,Student
+77,Dance,Student
+77,World Music,Student
+77,Opera,Student
+77,Film,Student
+77,Lecture/Talk,Student
+77,Workshop,Student
+78,Jazz,Faculty/Staff
+78,World Music,Faculty/Staff
+80,Classical Music,Other
+80,Jazz,Other
+80,Workshop,Other
+81,Classical Music,Faculty/Staff
+81,Jazz,Faculty/Staff
+81,Theater,Faculty/Staff
+81,Lecture/Talk,Faculty/Staff
+82,Jazz,Faculty/Staff
+83,Dance,Faculty/Staff
+83,Classical Music,Faculty/Staff
+83,Jazz,Faculty/Staff
+83,World Music,Faculty/Staff
+83,Theater,Faculty/Staff
+83,Film,Faculty/Staff
+83,Lecture/Talk,Faculty/Staff
+83,Workshop,Faculty/Staff
+84,Classical Music,Faculty/Staff
+84,Jazz,Faculty/Staff
+85,Dance,Faculty/Staff
+85,Classical Music,Faculty/Staff
+85,Jazz,Faculty/Staff
+85,World Music,Faculty/Staff
+85,Opera,Faculty/Staff
+85,Workshop,Faculty/Staff
+86,Dance,Faculty/Staff
+86,Classical Music,Faculty/Staff
+86,Jazz,Faculty/Staff
+86,World Music,Faculty/Staff
+86,Lecture/Talk,Faculty/Staff
+86,Workshop,Faculty/Staff
+87,Jazz,Faculty/Staff
+88,Jazz,Faculty/Staff
+88,World Music,Faculty/Staff
+88,Opera,Faculty/Staff
+88,Workshop,Faculty/Staff
+89,Dance,Faculty/Staff
+89,Classical Music,Faculty/Staff
+89,Jazz,Faculty/Staff
+89,World Music,Faculty/Staff
+89,Workshop,Faculty/Staff
+91,Classical Music,Faculty/Staff
+91,Jazz,Faculty/Staff
+91,Workshop,Faculty/Staff
+92,Classical Music,Faculty/Staff
+92,Jazz,Faculty/Staff
+92,World Music,Faculty/Staff
+92,Opera,Faculty/Staff
+92,Lecture/Talk,Faculty/Staff
+92,Workshop,Faculty/Staff
+93,Jazz,Faculty/Staff
+94,Classical Music,Faculty/Staff
+94,World Music,Faculty/Staff
+94,Opera,Faculty/Staff
+94,Film,Faculty/Staff
+94,Lecture/Talk,Faculty/Staff
+95,Classical Music,Student
+95,Jazz,Student
+96,Classical Music,Faculty/Staff
+96,Jazz,Faculty/Staff
+96,Workshop,Faculty/Staff
+98,Dance,Faculty/Staff
+99,Classical Music,Community
+99,Jazz,Community
+99,Workshop,Community
+100,Dance,Faculty/Staff
+100,Classical Music,Faculty/Staff
+100,Jazz,Faculty/Staff
+100,World Music,Faculty/Staff
+101,Jazz,Other
+101,World Music,Other
+102,Jazz,Community
+103,Dance,Community
+103,Classical Music,Community
+103,Jazz,Community
+103,Theater,Community
+103,Workshop,Community
+104,Jazz,Student
+104,World Music,Student
+105,Classical Music,Student
+105,Jazz,Student
+105,Opera,Student
+106,Classical Music,Community
+107,Dance,Student
+107,Classical Music,Student
+107,Jazz,Student
+108,Classical Music,Student
+109,Dance,Faculty/Staff
+109,Jazz,Faculty/Staff
+109,World Music,Faculty/Staff
+110,Jazz,Student
+110,Workshop,Student
+111,Classical Music,Community
+111,Jazz,Community
+112,Jazz,Other
+113,Jazz,Faculty/Staff
+113,World Music,Faculty/Staff
+114,Dance,Community
+114,Classical Music,Community
+114,Jazz,Community
+114,World Music,Community
+114,Theater,Community
+114,Opera,Community
+114,Workshop,Community
+115,Jazz,Community
+115,World Music,Community
+116,Jazz,Faculty/Staff
+116,Workshop,Faculty/Staff
+117,Dance,Faculty/Staff
+117,Jazz,Faculty/Staff
+118,Jazz,Community
+118,World Music,Community
+119,Dance,Community
+119,Classical Music,Community
+119,Jazz,Community
+119,Lecture/Talk,Community
+119,Workshop,Community
+120,Jazz,Other
+121,Classical Music,Other
+121,Jazz,Other
+122,Jazz,Community
+122,World Music,Community
+122,Theater,Community
+123,Jazz,Community
+123,Lecture/Talk,Community
+124,Classical Music,Other
+125,Jazz,Faculty/Staff
+125,Workshop,Faculty/Staff
+126,Classical Music,Community
+126,Jazz,Community
+126,World Music,Community
+126,Workshop,Community
+127,Classical Music,Community
+127,Jazz,Community
+127,World Music,Community
+127,Workshop,Community
+128,Jazz,Student
+128,Workshop,Student
+129,Dance,Faculty/Staff
+129,Classical Music,Faculty/Staff
+129,Jazz,Faculty/Staff
+129,Workshop,Faculty/Staff
+130,Jazz,Faculty/Staff
+130,Opera,Faculty/Staff
+130,Workshop,Faculty/Staff
+130,Family/Youth,Faculty/Staff
+131,Jazz,Student
+132,Jazz,Other
+133,Classical Music,Community
+134,Classical Music,Other
+134,Jazz,Other
+135,Jazz,Other
+135,World Music,Other
+136,Dance,Faculty/Staff
+136,Classical Music,Faculty/Staff
+136,Jazz,Faculty/Staff
+136,Opera,Faculty/Staff
+137,Classical Music,Community
+137,Jazz,Community
+138,Classical Music,Student
+138,Jazz,Student
+138,World Music,Student
+138,Theater,Student
+138,Opera,Student
+138,Workshop,Student
+139,Classical Music,Faculty/Staff
+139,Jazz,Faculty/Staff
+140,Dance,Community
+140,Jazz,Community
+140,World Music,Community
+140,Workshop,Community
+142,Dance,Faculty/Staff
+142,Classical Music,Faculty/Staff
+142,Jazz,Faculty/Staff
+142,Lecture/Talk,Faculty/Staff
+142,Workshop,Faculty/Staff
+143,Jazz,Community
+143,World Music,Community
+144,Dance,Other
+144,Classical Music,Other
+144,Jazz,Other
+145,Classical Music,Student
+145,Jazz,Student
+146,Jazz,Other
+147,Jazz,Community
+147,World Music,Community
+148,Dance,Other
+148,Classical Music,Other
+148,Jazz,Other
+148,World Music,Other
+148,Lecture/Talk,Other
+148,Workshop,Other
+149,Dance,Other
+149,Classical Music,Other
+149,Jazz,Other
+149,World Music,Other
+150,Dance,Faculty/Staff
+150,Classical Music,Faculty/Staff
+150,Jazz,Faculty/Staff
+151,Dance,Other
+151,Classical Music,Other
+151,Jazz,Other
+152,Jazz,Faculty/Staff
+152,World Music,Faculty/Staff
+152,Lecture/Talk,Faculty/Staff
+152,Workshop,Faculty/Staff
+153,Dance,Faculty/Staff
+153,Classical Music,Faculty/Staff
+153,Jazz,Faculty/Staff
+153,World Music,Faculty/Staff
+153,Opera,Faculty/Staff
+153,Lecture/Talk,Faculty/Staff
+153,Workshop,Faculty/Staff
+154,Classical Music,Community
+154,Jazz,Community
+154,World Music,Community
+155,World Music,Community
+155,Theater,Community
+155,Lecture/Talk,Community
+156,Classical Music,Other
+157,Jazz,Faculty/Staff
+157,World Music,Faculty/Staff
+158,Classical Music,Faculty/Staff
+158,Jazz,Faculty/Staff
+158,World Music,Faculty/Staff
+159,Classical Music,Community
+159,Jazz,Community
+160,Dance,Other
+160,Classical Music,Other
+160,Jazz,Other
+160,World Music,Other
+160,Workshop,Other
+161,Dance,Community
+161,Classical Music,Community
+161,Jazz,Community
+161,World Music,Community
+161,Theater,Community
+161,Workshop,Community
+162,Jazz,Faculty/Staff
+162,World Music,Faculty/Staff
+163,Dance,Community
+163,Jazz,Community
+163,World Music,Community
+163,Lecture/Talk,Community
+163,Workshop,Community
+164,Jazz,Student
+165,Jazz,Student
+166,Jazz,Community
+166,World Music,Community
+167,Classical Music,Student
+167,Jazz,Student
+168,Classical Music,Student
+168,Jazz,Student
+169,Classical Music,Faculty/Staff
+169,Jazz,Faculty/Staff
+169,Workshop,Faculty/Staff
+170,Classical Music,Student
+171,Classical Music,Community
+171,Jazz,Community
+171,World Music,Community
+172,Dance,Other
+172,Classical Music,Other
+172,Jazz,Other
+172,World Music,Other
+173,Classical Music,Community
+173,Jazz,Community
+174,Dance,Community
+174,Jazz,Community
+175,Classical Music,Faculty/Staff
+175,Jazz,Faculty/Staff
+175,Workshop,Faculty/Staff
+176,Classical Music,Faculty/Staff
+176,World Music,Faculty/Staff
+177,Dance,Faculty/Staff
+177,Classical Music,Faculty/Staff
+177,Jazz,Faculty/Staff
+177,Opera,Faculty/Staff
+177,Workshop,Faculty/Staff
+178,Classical Music,Community
+178,Jazz,Community
+178,World Music,Community
+178,Theater,Community
+178,Lecture/Talk,Community
+178,Workshop,Community
+179,Jazz,Faculty/Staff
+180,Dance,Faculty/Staff
+180,Classical Music,Faculty/Staff
+180,Jazz,Faculty/Staff
+180,Workshop,Faculty/Staff
+181,Dance,Faculty/Staff
+181,Classical Music,Faculty/Staff
+181,Jazz,Faculty/Staff
+181,Theater,Faculty/Staff
+181,Workshop,Faculty/Staff
+182,Dance,Community
+182,Jazz,Community
+183,Classical Music,Community
+183,Jazz,Community
+184,Jazz,Other
+184,Workshop,Other
+185,Dance,Community
+185,Classical Music,Community
+185,Jazz,Community
+185,World Music,Community
+185,Lecture/Talk,Community
+185,Workshop,Community
+186,Dance,Community
+186,Classical Music,Community
+186,Jazz,Community
+186,Workshop,Community
+187,Classical Music,Faculty/Staff
+187,Jazz,Faculty/Staff
+187,World Music,Faculty/Staff
+187,Theater,Faculty/Staff
+188,Jazz,Other
+189,Classical Music,Community
+189,Jazz,Community
+189,Workshop,Community
+190,Dance,Community
+190,Jazz,Community
+191,Jazz,Faculty/Staff
+192,Jazz,Community
+193,Dance,Faculty/Staff
+193,Jazz,Faculty/Staff
+193,World Music,Faculty/Staff
+193,Theater,Faculty/Staff
+193,Workshop,Faculty/Staff
+194,Jazz,Community
+195,Dance,Other
+195,Classical Music,Other
+195,Jazz,Other
+195,World Music,Other
+195,Workshop,Other
+196,Jazz,Faculty/Staff
+196,World Music,Faculty/Staff
+196,Lecture/Talk,Faculty/Staff
+196,Workshop,Faculty/Staff
+197,Classical Music,Faculty/Staff
+197,Jazz,Faculty/Staff
+197,World Music,Faculty/Staff
+198,Dance,Community
+198,Classical Music,Community
+198,Jazz,Community
+198,World Music,Community
+199,Classical Music,Faculty/Staff
+199,Jazz,Faculty/Staff
+199,World Music,Faculty/Staff
+200,Classical Music,Other
+200,Jazz,Other
+201,Classical Music,Other
+201,Jazz,Other
+201,World Music,Other
+202,Jazz,Other
+203,Classical Music,Community
+203,Jazz,Community
+204,Jazz,Faculty/Staff
+205,Jazz,Community
+206,Dance,Community
+206,Jazz,Community
+206,Workshop,Community
+207,Classical Music,Other
+207,Jazz,Other
+208,Dance,Other
+208,Classical Music,Other
+208,Jazz,Other
+208,World Music,Other
+209,Classical Music,Other
+209,Jazz,Other
+210,Dance,Community
+210,Classical Music,Community
+210,Jazz,Community
+210,World Music,Community
+210,Theater,Community
+211,Jazz,Other
+211,Theater,Other
+212,Jazz,Community
+213,Jazz,Other
+214,Classical Music,Other
+215,Dance,Faculty/Staff
+215,Classical Music,Faculty/Staff
+215,Jazz,Faculty/Staff
+215,World Music,Faculty/Staff
+215,Opera,Faculty/Staff
+215,Workshop,Faculty/Staff
+216,Jazz,Community
+217,Jazz,Other
+217,World Music,Other
+217,Workshop,Other
+218,Classical Music,Other
+218,Jazz,Other
+219,Classical Music,Community
+219,Jazz,Community
+219,World Music,Community
+219,Opera,Community
+220,Dance,Community
+220,Classical Music,Community
+220,Jazz,Community
+220,Lecture/Talk,Community
+220,Workshop,Community
+221,Dance,Community
+221,Classical Music,Community
+221,Jazz,Community
+221,Lecture/Talk,Community
+221,Workshop,Community
+222,Classical Music,Community
+222,Jazz,Community
+222,World Music,Community
+223,Classical Music,Faculty/Staff
+223,Jazz,Faculty/Staff
+223,World Music,Faculty/Staff
+223,Workshop,Faculty/Staff
+224,Classical Music,Community
+224,Jazz,Community
+225,Jazz,Community
+226,Classical Music,Student
+226,Jazz,Student
+227,Jazz,Faculty/Staff
+228,Classical Music,Other
+228,Jazz,Other
+229,Dance,Faculty/Staff
+229,Jazz,Faculty/Staff
+229,Theater,Faculty/Staff
+229,Opera,Faculty/Staff
+229,Lecture/Talk,Faculty/Staff
+230,Dance,Faculty/Staff
+230,Classical Music,Faculty/Staff
+230,Jazz,Faculty/Staff
+231,Jazz,Other
+232,Jazz,Community
+232,World Music,Community
+232,Opera,Community
+232,Workshop,Community
+233,Classical Music,Community
+233,Jazz,Community
+234,Jazz,Faculty/Staff
+234,World Music,Faculty/Staff
+234,Workshop,Faculty/Staff
+235,Dance,Community
+235,Classical Music,Community
+235,Jazz,Community
+235,Workshop,Community
+236,Jazz,Student
+236,World Music,Student
+236,Workshop,Student
+237,Classical Music,Community
+237,Jazz,Community
+237,World Music,Community
+238,Jazz,Faculty/Staff
+238,World Music,Faculty/Staff
+238,Workshop,Faculty/Staff
+239,Dance,Faculty/Staff
+239,Classical Music,Faculty/Staff
+239,Jazz,Faculty/Staff
+239,Workshop,Faculty/Staff
+240,Dance,Faculty/Staff
+240,Classical Music,Faculty/Staff
+240,Jazz,Faculty/Staff
+240,World Music,Faculty/Staff
+240,Opera,Faculty/Staff
+240,Lecture/Talk,Faculty/Staff
+240,Workshop,Faculty/Staff
+241,Jazz,Faculty/Staff
+242,Jazz,Community
+242,World Music,Community
+242,Lecture/Talk,Community
+242,Workshop,Community
+243,Jazz,Other
+244,Jazz,Community
+244,Workshop,Community
+245,Dance,Community
+245,Classical Music,Community
+245,Jazz,Community
+245,Lecture/Talk,Community
+245,Workshop,Community
+246,Dance,Community
+246,Classical Music,Community
+246,Jazz,Community
+246,Lecture/Talk,Community
+246,Workshop,Community
+247,Classical Music,Community
+247,Jazz,Community
+248,Dance,Community
+248,Classical Music,Community
+248,Jazz,Community
+248,World Music,Community
+248,Theater,Community
+248,Workshop,Community
+249,Jazz,Other
+249,Workshop,Other
+250,Jazz,Community
+250,Workshop,Community
+251,Dance,Community
+251,Jazz,Community
+251,Workshop,Community
+252,Dance,Faculty/Staff
+252,Classical Music,Faculty/Staff
+253,Jazz,Other
+253,World Music,Other
+253,Workshop,Other
+254,Dance,Community
+254,Classical Music,Community
+254,Jazz,Community
+254,Lecture/Talk,Community
+254,Workshop,Community
+255,Classical Music,Student
+255,Jazz,Student
+256,Jazz,Student
+257,Classical Music,Community
+257,Jazz,Community
+257,World Music,Community
+257,Workshop,Community
+258,Jazz,Faculty/Staff
+258,World Music,Faculty/Staff
+259,Dance,Other
+259,Classical Music,Other
+259,Jazz,Other
+259,Theater,Other
+260,Dance,Other
+260,Jazz,Other
+261,Dance,Community
+261,Jazz,Community
+261,World Music,Community
+261,Lecture/Talk,Community
+261,Workshop,Community
+262,Jazz,Other
+262,Theater,Other
+262,Lecture/Talk,Other
+262,Workshop,Other
+263,Classical Music,Student
+264,Dance,Community
+264,Classical Music,Community
+264,Jazz,Community
+264,World Music,Community
+264,Opera,Community
+265,Classical Music,Faculty/Staff
+265,World Music,Faculty/Staff
+265,Lecture/Talk,Faculty/Staff
+266,Classical Music,Other
+266,Jazz,Other
+266,World Music,Other
+266,Theater,Other
+266,Lecture/Talk,Other
+267,Dance,Student
+267,Classical Music,Student
+267,Jazz,Student
+267,Opera,Student
+268,Dance,Community
+268,Jazz,Community
+268,Theater,Community
+268,Workshop,Community
+269,Classical Music,Community
+269,Jazz,Community
+269,World Music,Community
+270,Dance,Faculty/Staff
+270,Classical Music,Faculty/Staff
+270,Jazz,Faculty/Staff
+270,World Music,Faculty/Staff
+270,Opera,Faculty/Staff
+270,Lecture/Talk,Faculty/Staff
+271,Jazz,Student
+272,Classical Music,Community
+272,Jazz,Community
+272,Theater,Community
+273,Dance,Community
+273,Jazz,Community
+273,World Music,Community
+273,Opera,Community
+273,Lecture/Talk,Community
+273,Workshop,Community
+274,Jazz,Other
+275,Jazz,Other
+276,Classical Music,Community
+276,Jazz,Community
+276,World Music,Community
+276,Theater,Community
+276,Opera,Community
+276,Lecture/Talk,Community
+276,Workshop,Community
+277,Dance,Community
+277,Jazz,Community
+277,World Music,Community
+277,Opera,Community
+277,Lecture/Talk,Community
+277,Workshop,Community
+278,Classical Music,Faculty/Staff
+278,Jazz,Faculty/Staff
+279,Classical Music,Student
+279,Jazz,Student
+279,Theater,Student
+279,Opera,Student
+279,Lecture/Talk,Student
+279,Workshop,Student
+280,Classical Music,Other
+280,Jazz,Other
+280,World Music,Other
+280,Workshop,Other
+281,Classical Music,Community
+281,Jazz,Community
+281,World Music,Community
+281,Workshop,Community
+282,Classical Music,Community
+282,Jazz,Community
+282,Lecture/Talk,Community
+282,Workshop,Community
+283,Classical Music,Community
+283,Jazz,Community
+283,World Music,Community
+283,Workshop,Community
+284,Dance,Community
+284,Classical Music,Community
+284,Jazz,Community
+284,Opera,Community
+284,Lecture/Talk,Community
+284,Workshop,Community
+285,Classical Music,Other
+286,Jazz,Other
+286,World Music,Other
+286,Opera,Other
+286,Workshop,Other
+287,Jazz,Community
+288,Classical Music,Other
+288,Jazz,Other
+289,Classical Music,Other
+289,Jazz,Other
+289,World Music,Other
+289,Opera,Other
+289,Workshop,Other
+290,Classical Music,Student
+291,Jazz,Faculty/Staff
+291,World Music,Faculty/Staff
+292,Dance,Community
+292,Classical Music,Community
+292,Jazz,Community
+292,World Music,Community
+292,Theater,Community
+293,Dance,Community
+293,Classical Music,Community
+293,Jazz,Community
+293,Workshop,Community
+294,Classical Music,Community
+294,Jazz,Community
+294,World Music,Community
+294,Theater,Community
+294,Lecture/Talk,Community
+294,Workshop,Community
+295,Dance,Faculty/Staff
+295,Classical Music,Faculty/Staff
+295,Jazz,Faculty/Staff
+295,World Music,Faculty/Staff
+295,Theater,Faculty/Staff
+295,Opera,Faculty/Staff
+295,Workshop,Faculty/Staff
+296,Classical Music,Community
+296,Jazz,Community
+296,World Music,Community
+296,Film,Community
+296,Lecture/Talk,Community
+297,Dance,Community
+297,Classical Music,Community
+297,Jazz,Community
+298,Classical Music,Other
+299,Dance,Community
+299,Classical Music,Community
+299,Jazz,Community
+299,World Music,Community
+299,Opera,Community
+299,Lecture/Talk,Community
+299,Workshop,Community
+300,Classical Music,Community
+300,Jazz,Community
+300,Opera,Community
+301,Dance,Community
+301,Classical Music,Community
+301,Jazz,Community
+301,World Music,Community
+301,Film,Community
+301,Lecture/Talk,Community
+302,Classical Music,Community
+302,Jazz,Community
+303,Classical Music,Other
+303,Jazz,Other
+304,Classical Music,Student
+305,Dance,Student
+305,Classical Music,Student
+305,Jazz,Student
+305,World Music,Student
+306,Dance,Community
+306,Classical Music,Community
+306,Jazz,Community
+306,World Music,Community
+307,Jazz,Community
+307,World Music,Community
+307,Lecture/Talk,Community
+307,Workshop,Community
+308,Dance,Other
+309,Classical Music,Other
+309,Jazz,Other
+310,Classical Music,Community
+310,Jazz,Community
+310,Opera,Community
+310,Lecture/Talk,Community
+310,Workshop,Community
+311,Jazz,Community
+311,World Music,Community
+312,Jazz,Faculty/Staff
+312,World Music,Faculty/Staff
+312,Lecture/Talk,Faculty/Staff
+312,Workshop,Faculty/Staff
+313,Dance,Community
+313,Classical Music,Community
+313,Jazz,Community
+314,Jazz,Other
+315,Classical Music,Other
+316,Jazz,Community
+317,Jazz,Other
+318,Dance,Other
+318,Classical Music,Other
+318,Jazz,Other
+318,World Music,Other
+318,Lecture/Talk,Other
+318,Workshop,Other
+319,Jazz,Community
+319,Opera,Community
+320,Classical Music,Other
+320,Jazz,Other
+320,World Music,Other
+321,Jazz,Community
+321,World Music,Community
+321,Workshop,Community
+322,Dance,Community
+322,Classical Music,Community
+322,Jazz,Community
+322,World Music,Community
+323,Classical Music,Community
+323,Jazz,Community
+324,Jazz,Other
+325,Dance,Faculty/Staff
+325,Classical Music,Faculty/Staff
+325,World Music,Faculty/Staff
+325,Workshop,Faculty/Staff
+326,Classical Music,Other
+326,Jazz,Other
+327,Jazz,Community
+327,World Music,Community
+327,Workshop,Community
+328,Dance,Community
+328,Classical Music,Community
+328,Jazz,Community
+328,Theater,Community
+329,Classical Music,Community
+329,Jazz,Community
+329,Lecture/Talk,Community
+329,Workshop,Community
+330,Classical Music,Community
+330,Jazz,Community
+330,World Music,Community
+330,Opera,Community
+330,Workshop,Community
+331,Jazz,Other
+331,World Music,Other
+331,Lecture/Talk,Other
+331,Workshop,Other
+332,Classical Music,Community
+332,Jazz,Community
+333,Dance,Community
+333,Jazz,Community
+333,Workshop,Community
+333,Family/Youth,Community
+334,Classical Music,Community
+334,Jazz,Community
+334,Workshop,Community
+335,Jazz,Community
+336,Jazz,Other
+337,Classical Music,Student
+337,Family/Youth,Student
+338,Jazz,Other
+340,Dance,Faculty/Staff
+340,Classical Music,Faculty/Staff
+340,Jazz,Faculty/Staff
+340,World Music,Faculty/Staff
+341,Jazz,Community
+342,Jazz,Community
+343,Classical Music,Other
+343,Jazz,Other
+343,Workshop,Other
+344,Classical Music,Community
+344,Jazz,Community
+344,Opera,Community
+344,Workshop,Community
+345,Jazz,Faculty/Staff
+346,Classical Music,Other
+346,Jazz,Other
+347,Jazz,Community
+347,Workshop,Community
+348,Classical Music,Community
+348,Jazz,Community
+348,World Music,Community
+348,Workshop,Community
+349,Dance,Student
+349,Classical Music,Student
+349,Jazz,Student
+349,Lecture/Talk,Student
+350,Dance,Faculty/Staff
+350,Jazz,Faculty/Staff
+351,Classical Music,Faculty/Staff
+351,Jazz,Faculty/Staff
+352,Dance,Student
+352,Jazz,Student
+353,Classical Music,Community
+353,World Music,Community
+353,Lecture/Talk,Community
+354,Jazz,Other
+354,Workshop,Other
+355,Jazz,Community
+355,Lecture/Talk,Community
+355,Workshop,Community
+356,Classical Music,Community
+356,Jazz,Community
+357,Classical Music,Faculty/Staff
+357,Jazz,Faculty/Staff
+358,Jazz,Community
+358,Lecture/Talk,Community
+358,Workshop,Community
+359,Jazz,Other
+360,Classical Music,Community
+360,Jazz,Community
+360,Theater,Community
+361,Classical Music,Community
+361,Jazz,Community
+361,World Music,Community
+361,Lecture/Talk,Community
+361,Workshop,Community
+362,Jazz,Other
+363,Dance,Student
+364,Dance,Community
+364,Jazz,Community
+364,Theater,Community
+365,Classical Music,Community
+365,Jazz,Community
+366,Dance,Community
+366,Jazz,Community
+367,Classical Music,Community
+367,Jazz,Community
+367,World Music,Community
+368,Jazz,Student
+368,World Music,Student
+368,Workshop,Student
+369,Jazz,Faculty/Staff
+370,Classical Music,Faculty/Staff
+370,Jazz,Faculty/Staff
+370,World Music,Faculty/Staff
+370,Theater,Faculty/Staff
+371,Dance,Faculty/Staff
+371,Classical Music,Faculty/Staff
+371,Jazz,Faculty/Staff
+372,Dance,Student
+372,Classical Music,Student
+372,Jazz,Student
+372,World Music,Student
+372,Theater,Student
+372,Film,Student
+373,Dance,Community
+373,Classical Music,Community
+373,Jazz,Community
+373,Workshop,Community
+374,Jazz,Other
+375,Jazz,Student
+376,Classical Music,Faculty/Staff
+376,Jazz,Faculty/Staff
+376,World Music,Faculty/Staff
+376,Workshop,Faculty/Staff
+377,Jazz,Faculty/Staff
+378,Dance,Community
+378,Classical Music,Community
+378,Jazz,Community
+378,World Music,Community
+378,Theater,Community
+378,Opera,Community
+378,Film,Community
+378,Lecture/Talk,Community
+378,Workshop,Community
+379,Dance,Faculty/Staff
+379,Classical Music,Faculty/Staff
+379,Workshop,Faculty/Staff
+380,Classical Music,Community
+380,Jazz,Community
+380,Lecture/Talk,Community
+380,Workshop,Community
+380,Family/Youth,Community
+381,Dance,Community
+381,Jazz,Community
+381,Opera,Community
+381,Film,Community
+381,Lecture/Talk,Community
+381,Workshop,Community
+382,Dance,Community
+382,Classical Music,Community
+382,Jazz,Community
+382,World Music,Community
+382,Lecture/Talk,Community
+383,Jazz,Community
+383,Workshop,Community
+384,Dance,Community
+384,Classical Music,Community
+384,Jazz,Community
+384,World Music,Community
+384,Workshop,Community
+385,Classical Music,Other
+385,Jazz,Other
+385,Lecture/Talk,Other
+385,Workshop,Other
+386,Dance,Community
+386,Jazz,Community
+386,World Music,Community
+386,Opera,Community
+387,Classical Music,Other
+388,Classical Music,Community
+388,Jazz,Community
+388,Lecture/Talk,Community
+389,Jazz,Community
+390,Dance,Other
+390,Classical Music,Other
+390,Jazz,Other
+390,Theater,Other
+390,Workshop,Other
+391,Jazz,Other
+392,Dance,Community
+392,Classical Music,Community
+392,Jazz,Community
+392,Workshop,Community
+393,Dance,Other
+393,Classical Music,Other
+393,Jazz,Other
+394,Classical Music,Faculty/Staff
+394,Jazz,Faculty/Staff
+394,World Music,Faculty/Staff
+394,Lecture/Talk,Faculty/Staff
+394,Workshop,Faculty/Staff
+395,Jazz,Community
+395,World Music,Community
+396,Dance,Community
+396,Classical Music,Community
+396,Jazz,Community
+396,World Music,Community
+397,Jazz,Faculty/Staff
+397,World Music,Faculty/Staff
+397,Theater,Faculty/Staff
+397,Lecture/Talk,Faculty/Staff
+398,Jazz,Faculty/Staff
+399,Classical Music,Student
+399,Jazz,Student
+400,Jazz,Community
+401,Jazz,Student
+402,Jazz,Faculty/Staff
+402,World Music,Faculty/Staff
+403,Dance,Faculty/Staff
+403,Classical Music,Faculty/Staff
+403,Jazz,Faculty/Staff
+403,Opera,Faculty/Staff
+403,Lecture/Talk,Faculty/Staff
+403,Workshop,Faculty/Staff
+404,Classical Music,Community
+404,Jazz,Community
+404,Workshop,Community
+405,Jazz,Other
+405,World Music,Other
+405,Workshop,Other
+406,Jazz,Student
+407,Dance,Other
+407,Classical Music,Other
+407,Jazz,Other
+408,Jazz,Other
+409,Jazz,Other
+410,Classical Music,Community
+410,Jazz,Community
+410,Theater,Community
+411,Classical Music,Community
+411,Jazz,Community
+411,Workshop,Community
+412,Classical Music,Community
+412,Jazz,Community
+412,World Music,Community
+413,Jazz,Community
+413,World Music,Community
+413,Workshop,Community
+414,Jazz,Other
+415,Jazz,Other
+416,Jazz,Faculty/Staff
+416,Opera,Faculty/Staff
+416,Workshop,Faculty/Staff
+417,Classical Music,Community
+417,Jazz,Community
+417,Workshop,Community
+418,Jazz,Other
+419,Classical Music,Community
+419,Jazz,Community
+419,Lecture/Talk,Community
+419,Workshop,Community
+420,Dance,Other
+420,Classical Music,Other
+420,Jazz,Other
+420,World Music,Other
+420,Opera,Other
+420,Lecture/Talk,Other
+420,Workshop,Other
+421,Classical Music,Faculty/Staff
+421,Jazz,Faculty/Staff
+421,World Music,Faculty/Staff
+421,Lecture/Talk,Faculty/Staff
+421,Workshop,Faculty/Staff
+422,Dance,Community
+422,Jazz,Community
+422,World Music,Community
+422,Lecture/Talk,Community
+422,Workshop,Community
+423,Dance,Community
+423,Classical Music,Community
+423,Jazz,Community
+423,Workshop,Community
+424,Dance,Other
+424,Classical Music,Other
+424,Jazz,Other
+424,World Music,Other
+425,Classical Music,Other
+425,Jazz,Other
+426,Classical Music,Student
+426,Jazz,Student
+427,Classical Music,Student
+427,Jazz,Student
+428,Jazz,Faculty/Staff
+429,Jazz,Other
+429,World Music,Other
+429,Opera,Other
+430,Jazz,Faculty/Staff
+430,Family/Youth,Faculty/Staff
+431,Dance,Community
+431,Classical Music,Community
+431,Jazz,Community
+432,Jazz,Community
+433,Jazz,Community
+434,Jazz,Student
+435,Jazz,Other
+435,Lecture/Talk,Other
+435,Workshop,Other
+436,Dance,Student
+436,Classical Music,Student
+436,Opera,Student
+437,Jazz,Faculty/Staff
+437,World Music,Faculty/Staff
+438,Classical Music,Community
+438,Jazz,Community
+438,Family/Youth,Community
+439,Dance,Community
+439,Classical Music,Community
+439,Jazz,Community
+439,World Music,Community
+439,Lecture/Talk,Community
+441,Jazz,Community
+441,Workshop,Community
+442,Dance,Community
+442,Jazz,Community
+443,Dance,Community
+443,Jazz,Community
+444,Jazz,Community
+445,Dance,Student
+445,Classical Music,Student
+445,Jazz,Student
+446,Jazz,Community
+447,Dance,Community
+447,Classical Music,Community
+447,Jazz,Community
+447,World Music,Community
+447,Opera,Community
+447,Lecture/Talk,Community
+447,Workshop,Community
+448,Classical Music,Faculty/Staff
+448,Jazz,Faculty/Staff
+449,Classical Music,Student
+449,Jazz,Student
+450,Dance,Student
+450,Classical Music,Student
+450,Jazz,Student
+451,Classical Music,Faculty/Staff
+451,Jazz,Faculty/Staff
+451,World Music,Faculty/Staff
+452,Jazz,Faculty/Staff
+452,World Music,Faculty/Staff
+452,Workshop,Faculty/Staff
+453,Dance,Community
+453,Classical Music,Community
+453,Jazz,Community
+453,World Music,Community
+453,Opera,Community
+453,Lecture/Talk,Community
+453,Workshop,Community
+454,Jazz,Faculty/Staff
+454,World Music,Faculty/Staff
+455,Dance,Community
+455,Classical Music,Community
+455,Jazz,Community
+456,Dance,Other
+456,Classical Music,Other
+456,Jazz,Other
+456,World Music,Other
+457,Classical Music,Other
+457,Jazz,Other
+458,Jazz,Student
+459,Classical Music,Student
+459,Jazz,Student
+460,Classical Music,Other
+460,World Music,Other
+461,Classical Music,Faculty/Staff
+461,Jazz,Faculty/Staff
+461,World Music,Faculty/Staff
+461,Lecture/Talk,Faculty/Staff
+463,Jazz,Community
+463,Workshop,Community
+464,Classical Music,Community
+464,Jazz,Community
+465,Jazz,Faculty/Staff
+465,World Music,Faculty/Staff
+465,Opera,Faculty/Staff
+465,Lecture/Talk,Faculty/Staff
+465,Workshop,Faculty/Staff
+466,Classical Music,Faculty/Staff
+466,Jazz,Faculty/Staff
+466,World Music,Faculty/Staff
+467,Dance,Other
+467,Classical Music,Other
+467,Jazz,Other
+468,Classical Music,Other
+468,Jazz,Other
+469,Dance,Student
+469,Classical Music,Student
+469,Jazz,Student
+470,Classical Music,Faculty/Staff
+470,Jazz,Faculty/Staff
+470,World Music,Faculty/Staff
+470,Workshop,Faculty/Staff
+471,Classical Music,Community
+471,Jazz,Community
+471,World Music,Community
+472,Classical Music,Other
+472,Jazz,Other
+472,Workshop,Other
+473,Classical Music,Student
+473,Jazz,Student
+473,World Music,Student
+474,Classical Music,Community
+474,Jazz,Community
+474,World Music,Community
+474,Lecture/Talk,Community
+474,Workshop,Community
+475,Classical Music,Other
+475,Jazz,Other
+476,Classical Music,Community
+476,Jazz,Community
+476,World Music,Community
+477,Classical Music,Community
+477,Jazz,Community
+477,World Music,Community
+477,Lecture/Talk,Community
+477,Workshop,Community
+478,Dance,Other
+478,Classical Music,Other
+478,Jazz,Other
+478,World Music,Other
+479,Dance,Community
+479,Classical Music,Community
+479,Jazz,Community
+479,World Music,Community
+479,Workshop,Community
+480,Classical Music,Faculty/Staff
+480,Jazz,Faculty/Staff
+481,Dance,Faculty/Staff
+481,Classical Music,Faculty/Staff
+481,Jazz,Faculty/Staff
+482,Dance,Student
+482,Jazz,Student
+482,Workshop,Student
+483,Dance,Other
+484,Classical Music,Other
+484,Jazz,Other
+484,Workshop,Other
+485,Classical Music,Faculty/Staff
+485,Jazz,Faculty/Staff
+485,World Music,Faculty/Staff
+485,Workshop,Faculty/Staff
+486,Dance,Student
+486,Jazz,Student
+487,Classical Music,Community
+487,Jazz,Community
+488,Dance,Other
+488,Workshop,Other
+489,Jazz,Faculty/Staff
+490,Classical Music,Student
+491,World Music,Community
+492,Classical Music,Student
+492,Jazz,Student
+493,Dance,Other
+494,Classical Music,Other
+495,Jazz,Other
+495,World Music,Other
+496,Dance,Student
+496,Classical Music,Student
+496,Jazz,Student
+497,Classical Music,Community
+497,Jazz,Community
+497,World Music,Community
+497,Workshop,Community
+497,Family/Youth,Community
+498,Jazz,Community
+498,Lecture/Talk,Community
+498,Workshop,Community
+499,Jazz,Community
+499,World Music,Community
+500,Classical Music,Faculty/Staff
+500,Jazz,Faculty/Staff
+500,World Music,Faculty/Staff
+500,Workshop,Faculty/Staff
+501,Jazz,Faculty/Staff
+501,Lecture/Talk,Faculty/Staff
+501,Workshop,Faculty/Staff
+502,Dance,Faculty/Staff
+502,Jazz,Faculty/Staff
+502,World Music,Faculty/Staff
+503,Classical Music,Community
+503,Jazz,Community
+503,Workshop,Community
+504,Dance,Community
+504,Classical Music,Community
+504,Jazz,Community
+504,World Music,Community
+505,Classical Music,Student
+505,Jazz,Student
+506,Classical Music,Community
+506,Jazz,Community
+506,Theater,Community
+507,Dance,Community
+507,Classical Music,Community
+507,Jazz,Community
+507,World Music,Community
+507,Lecture/Talk,Community
+507,Workshop,Community
+508,Dance,Other
+508,Jazz,Other
+508,World Music,Other
+509,Classical Music,Community
+509,Jazz,Community
+509,World Music,Community
+510,Classical Music,Faculty/Staff
+510,Jazz,Faculty/Staff
+510,Theater,Faculty/Staff
+510,Workshop,Faculty/Staff
+511,Jazz,Other
+512,Classical Music,Community
+512,Jazz,Community
+512,World Music,Community
+513,Jazz,Community
+513,World Music,Community
+513,Theater,Community
+513,Lecture/Talk,Community
+513,Workshop,Community
+514,Dance,Community
+514,Classical Music,Community
+514,Jazz,Community
+514,World Music,Community
+514,Opera,Community
+514,Workshop,Community
+515,Dance,Other
+515,Classical Music,Other
+515,Jazz,Other
+516,Classical Music,Faculty/Staff
+516,Jazz,Faculty/Staff
+516,Theater,Faculty/Staff
+516,Film,Faculty/Staff
+516,Lecture/Talk,Faculty/Staff
+516,Workshop,Faculty/Staff
+517,Jazz,Community
+517,World Music,Community
+518,Classical Music,Community
+518,Jazz,Community
+518,Workshop,Community
+519,Dance,Faculty/Staff
+519,Classical Music,Faculty/Staff
+519,Jazz,Faculty/Staff
+519,World Music,Faculty/Staff
+519,Workshop,Faculty/Staff
+520,Jazz,Faculty/Staff
+521,Dance,Other
+521,Classical Music,Other
+521,Jazz,Other
+521,World Music,Other
+522,Jazz,Community
+522,World Music,Community
+522,Opera,Community
+522,Lecture/Talk,Community
+522,Workshop,Community
+523,Jazz,Community
+523,Lecture/Talk,Community
+524,Classical Music,Community
+524,Jazz,Community
+524,World Music,Community
+524,Theater,Community
+524,Lecture/Talk,Community
+525,Jazz,Other
+525,World Music,Other
+525,Theater,Other
+525,Lecture/Talk,Other
+525,Workshop,Other
+526,Classical Music,Student
+527,Classical Music,Community
+527,Jazz,Community
+527,Lecture/Talk,Community
+527,Workshop,Community
+529,Dance,Faculty/Staff
+529,Classical Music,Faculty/Staff
+529,Jazz,Faculty/Staff
+529,Theater,Faculty/Staff
+529,Workshop,Faculty/Staff
+530,Dance,Other
+530,Classical Music,Other
+530,Jazz,Other
+530,World Music,Other
+530,Film,Other
+530,Workshop,Other
+531,Classical Music,Community
+531,Jazz,Community
+531,World Music,Community
+532,Classical Music,Community
+532,Jazz,Community
+532,World Music,Community
+533,Classical Music,Community
+533,Jazz,Community
+533,World Music,Community
+534,Classical Music,Community
+534,Jazz,Community
+534,Workshop,Community
+536,Jazz,Community
+537,Dance,Community
+537,Classical Music,Community
+538,Classical Music,Community
+538,Jazz,Community
+538,World Music,Community
+538,Opera,Community
+538,Workshop,Community
+538,Family/Youth,Community
+539,Jazz,Other
+539,World Music,Other
+540,Dance,Faculty/Staff
+540,Classical Music,Faculty/Staff
+540,Jazz,Faculty/Staff
+540,World Music,Faculty/Staff
+540,Theater,Faculty/Staff
+540,Opera,Faculty/Staff
+540,Film,Faculty/Staff
+540,Lecture/Talk,Faculty/Staff
+540,Workshop,Faculty/Staff
+541,Jazz,Faculty/Staff
+541,World Music,Faculty/Staff
+541,Workshop,Faculty/Staff
+542,Classical Music,Community
+542,Jazz,Community
+542,World Music,Community
+543,Jazz,Faculty/Staff
+544,Classical Music,Student
+545,Dance,Community
+545,Classical Music,Community
+545,Jazz,Community
+545,Workshop,Community
+546,Dance,Other
+546,Jazz,Other
+547,Jazz,Student
+548,Classical Music,Community
+548,Jazz,Community
+548,World Music,Community
+548,Workshop,Community
+549,Dance,Community
+549,Classical Music,Community
+549,Jazz,Community
+550,Jazz,Student
+551,Classical Music,Faculty/Staff
+551,Jazz,Faculty/Staff
+551,Workshop,Faculty/Staff
+552,Jazz,Other
+552,World Music,Other
+553,Dance,Community
+554,Classical Music,Faculty/Staff
+554,Jazz,Faculty/Staff
+554,World Music,Faculty/Staff
+554,Workshop,Faculty/Staff
+555,Classical Music,Community
+555,Jazz,Community
+555,World Music,Community
+556,Classical Music,Community
+556,Jazz,Community
+556,World Music,Community
+556,Workshop,Community
+557,Dance,Community
+559,Dance,Community
+559,Classical Music,Community
+559,Jazz,Community
+560,Dance,Community
+560,Jazz,Community
+560,World Music,Community
+560,Theater,Community
+560,Opera,Community
+560,Workshop,Community
+561,Classical Music,Faculty/Staff
+561,Jazz,Faculty/Staff
+561,World Music,Faculty/Staff
+561,Workshop,Faculty/Staff
+562,Jazz,Faculty/Staff
+562,World Music,Faculty/Staff
+562,Workshop,Faculty/Staff
+563,Dance,Other
+563,Classical Music,Other
+563,Jazz,Other
+563,World Music,Other
+563,Workshop,Other
+564,Jazz,Community
+564,World Music,Community
+564,Workshop,Community
+565,Dance,Faculty/Staff
+565,Classical Music,Faculty/Staff
+565,Jazz,Faculty/Staff
+565,World Music,Faculty/Staff
+565,Opera,Faculty/Staff
+565,Workshop,Faculty/Staff
+566,Classical Music,Student
+566,Jazz,Student
+566,World Music,Student
+566,Theater,Student
+566,Workshop,Student
+567,Dance,Faculty/Staff
+567,Classical Music,Faculty/Staff
+567,Jazz,Faculty/Staff
+567,Lecture/Talk,Faculty/Staff
+568,Classical Music,Community
+568,Jazz,Community
+568,World Music,Community
+569,Jazz,Community
+569,Workshop,Community
+570,Jazz,Community
+571,Classical Music,Faculty/Staff
+571,Jazz,Faculty/Staff

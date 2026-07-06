@@ -1,0 +1,13 @@
+﻿audience_segment,metric,average_score,response_count
+Student,Belonging,3.68,71
+Student,Representation,3.61,69
+Student,Cultural Affirmation,3.5,62
+Faculty/Staff,Belonging,3.89,165
+Faculty/Staff,Representation,3.84,162
+Faculty/Staff,Cultural Affirmation,3.87,152
+Community,Belonging,3.66,202
+Community,Representation,3.8,199
+Community,Cultural Affirmation,3.93,187
+Other,Belonging,3.51,115
+Other,Representation,3.88,114
+Other,Cultural Affirmation,4.07,105

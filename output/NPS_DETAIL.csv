@@ -1,0 +1,13 @@
+﻿audience_segment,NPS_Category,Count,Percentage
+Student,Promoter (9-10),52,73.2
+Student,Passive (7-8),16,22.5
+Student,Detractor (0-6),3,4.2
+Faculty/Staff,Promoter (9-10),134,81.2
+Faculty/Staff,Passive (7-8),24,14.5
+Faculty/Staff,Detractor (0-6),7,4.2
+Community,Promoter (9-10),166,82.6
+Community,Passive (7-8),30,14.9
+Community,Detractor (0-6),5,2.5
+Other,Promoter (9-10),96,85.0
+Other,Passive (7-8),11,9.7
+Other,Detractor (0-6),6,5.3
